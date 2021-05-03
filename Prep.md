@@ -29,7 +29,7 @@ if public sale:
 <h2 class="text-block__title">Public sale</h2>
 ```
 
-Life annuity sale or Viager in french(need to be excluded):
+find out if it's **Life annuity** sale or **Viager** in french (need to be excluded):
 
 ```html
 <div class="flag-list__item flag-list__item--secondary">
