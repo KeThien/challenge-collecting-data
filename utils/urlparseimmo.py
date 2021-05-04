@@ -1,6 +1,7 @@
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 import requests
+import re
 
 
 def urlparseimmo(url) -> dict:
@@ -18,7 +19,7 @@ def urlparseimmo(url) -> dict:
 
     # Beautifulsoup to get the rest of the info
     r = requests.get(url)
-    soup = BeautifulSoup(r.content, 'lxml')
+    soup = BeautifulSoup(r.content, 'html.parser')
 
     # PRICE:
     price = int(soup.select('p.classified__price .sr-only')[0].text[:-1])
@@ -26,12 +27,21 @@ def urlparseimmo(url) -> dict:
     # TODO: Type of SALE -> string
 
     # TODO: Number of rooms -> int
-
+    rooms_and_area = soup.select('p.classified__information--property')[0].text
+    rooms = re.findall("([0-9]+)",rooms_and_area)[0]
+    
+   
     # TODO: Area -> int
+    area = re.findall("([0-9]+)",rooms_and_area)[1]
+    
 
     # TODO: Fully equipped kitchen -> boolean
+   
 
     # TODO: Furnished -> boolean
+    interior = soup.find('table', class_="classified-table")
+    print(interior.prettify() )
+    
 
     # TODO: Open fire -> boolean
 
@@ -54,12 +64,15 @@ def urlparseimmo(url) -> dict:
     # TODO: Finalizing
 
     # MERGE ALL INFOS in a DICT to return
+ 
     d = {
         'id': int(segments[6]),
         'locality': int(segments[5]),
         'subtype_of_property': segments[2],
         'type_of_property': "apartment" if segments[2] in subtype_apt else "house",
-        'price': price
+        'price': price,
+        'rooms': rooms,
+        'area' : area
     }
 
     return d
@@ -67,7 +80,8 @@ def urlparseimmo(url) -> dict:
 
 # example
 
-url = 'https://www.immoweb.be/en/classified/house/for-sale/sint-pieters-leeuw/1600/9310259?searchId=609000ddc3e3d'
+#url = 'https://www.immoweb.be/en/classified/house/for-sale/sint-pieters-leeuw/1600/9310259?searchId=609000ddc3e3d'
+url = 'https://www.immoweb.be/en/classified/apartment-block/for-sale/bruxelles-ville/1000/9302481?searchId=60910b2c2e138'
 
 infos_in_url = urlparseimmo(url)
 
