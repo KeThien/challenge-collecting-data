@@ -1,6 +1,7 @@
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 import requests
+import re
 
 
 def urlparseimmo(url) -> dict:
@@ -21,7 +22,8 @@ def urlparseimmo(url) -> dict:
     soup = BeautifulSoup(r.content, 'lxml')
 
     # PRICE:
-    price = int(soup.select('p.classified__price .sr-only')[0].text[:-1])
+    price = soup.select('p.classified__price .sr-only')[0].text[:-1]
+    price = re.search('\d+', price).group()
 
     # TODO: Type of SALE -> string
 
@@ -67,7 +69,7 @@ def urlparseimmo(url) -> dict:
 
 # example
 
-url = 'https://www.immoweb.be/en/classified/house/for-sale/sint-pieters-leeuw/1600/9310259?searchId=609000ddc3e3d'
+url = 'https://www.immoweb.be/en/classified/house/for-sale/waregem/8790/9299204?searchId=6090fd77b5954'
 
 infos_in_url = urlparseimmo(url)
 
