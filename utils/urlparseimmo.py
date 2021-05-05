@@ -61,11 +61,13 @@ def urlparseimmo(url) -> dict:
         th_terrace = soup.find('th', string='Terrace surface')
         terrace_surface = th_terrace.find_next_sibling(
             'td').contents[0].strip()
-
         terrace = int(terrace_surface)
+
+    
+
     else:
         terrace = None
-
+    
     # TODO: Garden -> Boolean if True: Area -> int
 
     # TODO: Surface of the land -> int
@@ -73,12 +75,14 @@ def urlparseimmo(url) -> dict:
     surface_land = re.findall("([0-9]+)", surface_land)[0]
 
     # TODO: Surface area of the plot of land -> int
-    surface_plot = soup.select('th.classified-table__header')
-    #surface_land = re.findall("([0-9]+)",surface_land)[0]
-    print(surface_plot)
+   
 
     # TODO: Number of facades -> int Jess
+    th_facades = soup.find('th', string=re.compile('Number of frontages'))
+    number_frontage = th_facades.find_next_sibling('td').contents[0].strip()
 
+   
+    
     # Swimming pool -> boolean
     if dataLayer["classified"]["wellnessEquipment"]["hasSwimmingPool"]:
         hasSwimmingPool = True
@@ -106,7 +110,8 @@ def urlparseimmo(url) -> dict:
         'terrace': terrace,
         'rooms': int(rooms),
         'area_m2': int(area, ),
-        'surface_of_land_m2': int(surface_land, )
+        'surface_of_land_m2': int(surface_land),
+        'number_frontage' : int(number_frontage) 
     }
     driver.quit()
     return d
@@ -114,7 +119,7 @@ def urlparseimmo(url) -> dict:
 
 # example
 
-url = 'https://www.immoweb.be/en/classified/apartment-block/for-sale/bruxelles-ville/1000/9302481?searchId=60913fe62df04'
+url = 'https://www.immoweb.be/en/classified/house/for-sale/woluwe-saint-pierre/1150/9310094?searchId=60929d137685e'
 infos_in_url = urlparseimmo(url)
 
 print(infos_in_url)
