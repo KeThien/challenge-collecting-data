@@ -45,19 +45,23 @@ def urlparseimmo(url) -> dict:
     # Fully equipped kitchen -> boolean (Directly pick from the dataLayer) K
 
     # Furnished -> boolean
-    furnished = soup.find("th", string = "Furnished")
-    furnished = furnished.find_next_sibling().contents[0].strip()
-    if furnished == "No":
-        furnished = 0
-    elif furnished =="Yes":
-        furnished = 1
-    else:
+    try:
+        furnished = soup.find("th", string="Furnished")  # None
+        furnished = furnished.find_next_sibling().contents[0].strip()
+        if furnished == "No":
+            furnished = 0
+        elif furnished == "Yes":
+            furnished = 1
+    except:
         furnished = None
 
     # Open fire -> boolean K
     th_fire = soup.find('th', string='How many fireplaces?')
-    nb_fire = th_fire.find_next_sibling('td').contents[0]
-    open_fire = nb_fire if th_fire else 0
+    if th_fire:
+        nb_fire = th_fire.find_next_sibling('td').contents[0]
+        open_fire = nb_fire if th_fire else 0
+    else:
+        open_fire = None
 
     # Terrace -> Boolean if True: Area -> int K
     if dataLayer["classified"]["outdoor"]["terrace"]["exists"]:
@@ -83,7 +87,7 @@ def urlparseimmo(url) -> dict:
     # Number of facades -> int Jess
     th_facades = soup.find('th', string=re.compile('Number of frontages'))
     number_frontage = th_facades.find_next_sibling('td').contents[0].strip()
- 
+
     # Swimming pool -> boolean
 
     if dataLayer["classified"]["wellnessEquipment"]["hasSwimmingPool"]:
@@ -109,18 +113,20 @@ def urlparseimmo(url) -> dict:
         'rooms': int(rooms),
         'condition': dataLayer["classified"]["building"]["condition"],
         'equipped_kitchen': dataLayer["classified"]["kitchen"]["type"],
+        'furnished': furnished,
         'terrace': terrace,
         'garden': garden,
         'open_fire': open_fire,
         'hasSwimmingPool': hasSwimmingPool,
         'living_area_m2': int(area),
         'surface_of_land_m2': int(surface_land),
-        'number_frontage' : int(number_frontage) 
+        'number_frontage': int(number_frontage)
     }
     driver.quit()
     return d
 
 # example
+
 
 url = 'https://www.immoweb.be/en/classified/house/for-sale/woluwe-saint-pierre/1150/9310094?searchId=60929d137685e'
 infos_in_url = urlparseimmo(url)
