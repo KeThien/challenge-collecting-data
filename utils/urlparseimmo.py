@@ -44,7 +44,15 @@ def urlparseimmo(url) -> dict:
 
     # Fully equipped kitchen -> boolean (Directly pick from the dataLayer)
 
-    # TODO: Furnished -> boolean
+    # Furnished -> boolean
+    furnished = soup.find("th", string = "Furnished")
+    furnished = furnished.find_next_sibling().contents[0].strip()
+    if furnished == "No":
+        furnished = 0
+    elif furnished =="Yes":
+        furnished = 1
+    else:
+        furnished = None
 
     # TODO: Open fire -> boolean
 
