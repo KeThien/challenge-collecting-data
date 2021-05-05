@@ -44,7 +44,15 @@ def urlparseimmo(url) -> dict:
 
     # Fully equipped kitchen -> boolean (Directly pick from the dataLayer) K
 
-    # TODO: Furnished -> boolean
+    # Furnished -> boolean
+    furnished = soup.find("th", string = "Furnished")
+    furnished = furnished.find_next_sibling().contents[0].strip()
+    if furnished == "No":
+        furnished = 0
+    elif furnished =="Yes":
+        furnished = 1
+    else:
+        furnished = None
 
     # Open fire -> boolean K
     th_fire = soup.find('th', string='How many fireplaces?')
@@ -72,12 +80,12 @@ def urlparseimmo(url) -> dict:
     if dataLayer["classified"]["land"]["surface"]:
         surface_land = int(dataLayer["classified"]["land"]["surface"])
 
-    # surface_land = soup.select('span.overview__text')[3].text
-    # surface_land = re.findall("([0-9]+)", surface_land)[0]
+    # Number of facades -> int Jess
+    th_facades = soup.find('th', string=re.compile('Number of frontages'))
+    number_frontage = th_facades.find_next_sibling('td').contents[0].strip()
+ 
+    # Swimming pool -> boolean
 
-    # TODO: Number of facades -> int Jess
-
-    # Swimming pool -> boolean K
     if dataLayer["classified"]["wellnessEquipment"]["hasSwimmingPool"]:
         hasSwimmingPool = True
     else:
@@ -106,16 +114,15 @@ def urlparseimmo(url) -> dict:
         'open_fire': open_fire,
         'hasSwimmingPool': hasSwimmingPool,
         'living_area_m2': int(area),
-        'surface_of_land_m2': surface_land
+        'surface_of_land_m2': int(surface_land),
+        'number_frontage' : int(number_frontage) 
     }
     driver.quit()
     return d
 
 # example
 
-
-# url = 'https://www.immoweb.be/en/classified/penthouse/for-sale/ixelles/1050/9311762?searchId=6092970dc6b31'
-url = 'https://www.immoweb.be/en/classified/house/for-sale/elst/9660/9314233?searchId=60929b83865c1'
+url = 'https://www.immoweb.be/en/classified/house/for-sale/woluwe-saint-pierre/1150/9310094?searchId=60929d137685e'
 infos_in_url = urlparseimmo(url)
 
 print(infos_in_url)
