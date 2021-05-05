@@ -1,32 +1,51 @@
 from urllib.parse import urlparse
+from selenium import webdriver
 from bs4 import BeautifulSoup
+import json
 import requests
+import re
+
+#YOLANN SPECIFICATION
+PATH = "/opt/chromedriver"
+driver = webdriver.Chrome(PATH)
 
 
 def urlparseimmo(url) -> dict:
     '''
     Function to parse all info into a dict
     '''
+
+    # Beautifulsoup to get the rest of the info
+    driver.get(url)
+    html = driver.page_source
+    soup = BeautifulSoup(html, 'html.parser')
+
+    # Extract window.dataLayer json from head / script
+    rawdataLayer = soup.head.find('script').find_next_sibling(
+        'script').find_next_sibling('script').string
+
+    # Clean the json and convert to dict
+    rawdataLayer = rawdataLayer.replace(
+        'window.dataLayer = [', '').replace('];', '')
+    dataLayer = json.loads(rawdataLayer)
+    print(rawdataLayer)
     # Parse element in the URL
     parsed = urlparse(url)
-    # Subtypes to know if apartment else house
-    subtype_apt = [
-        'ground-floor', 'triplex', 'duplex', 'studio', 'penthouse', 'loft', 'kot', 'service-flat'
-    ]
+
     # parsing split segment from the URL
     segments = parsed.path[1:-1].split("/")
 
-    # Beautifulsoup to get the rest of the info
-    r = requests.get(url)
-    soup = BeautifulSoup(r.content, 'lxml')
-
-    # PRICE:
-    price = int(soup.select('p.classified__price .sr-only')[0].text[:-1])
+    # PRICE: Directly pick from the dataLayer
 
     # TODO: Type of SALE -> string
-
+    h2 = soup.find_all(string='Public sale')
+    print(h2)
+    if "Public sale" in h2:
+        print("Yes public sale")
+    else:
+        print("No private")
     # TODO: Number of rooms -> int
-
+    #done
     # TODO: Area -> int
 
     # TODO: Fully equipped kitchen -> boolean
@@ -55,19 +74,20 @@ def urlparseimmo(url) -> dict:
 
     # MERGE ALL INFOS in a DICT to return
     d = {
-        'id': int(segments[6]),
-        'locality': int(segments[5]),
-        'subtype_of_property': segments[2],
-        'type_of_property': "apartment" if segments[2] in subtype_apt else "house",
-        'price': price
+        'id': int(dataLayer["classified"]["id"]),
+        'locality': int(dataLayer["classified"]["zip"]),
+        'subtype_of_property': dataLayer["classified"]["subtype"],
+        'type_of_property': dataLayer["classified"]["type"],
+        'price': int(dataLayer["classified"]["price"]),
+        "nb_rooms": dataLayer["classified"]["bedroom"]["count"]
     }
-
+    driver.quit()
     return d
 
 
 # example
 
-url = 'https://www.immoweb.be/en/classified/house/for-sale/sint-pieters-leeuw/1600/9310259?searchId=609000ddc3e3d'
+url = 'https://www.immoweb.be/en/classified/house/for-sale/couthuin/4218/9312278?searchId=60910580c4321'
 
 infos_in_url = urlparseimmo(url)
 
