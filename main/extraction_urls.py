@@ -24,7 +24,7 @@ provinces_house = [
 ]
 
 province_apptmnt = [
-    ["house","namur/province"],
+    ["apartment","namur/province"],
     ["apartment","anvers/province"],
     ["apartment","limbourg/province"],
     ["apartment","flandre-orientale/province"],
@@ -106,9 +106,9 @@ print(f'Appartments finished in {t2-t1} seconds')
 
 
 ### SORTING AND MERGING OF THE FILES #####
-Makes sure we keep only the valid urls
-Why? The sponsored links contain sub urls.
-To check: are those sublinks present in the original database
+# Makes sure we keep only the valid urls
+# Why? The sponsored links contain sub urls.
+# To check: are those sublinks present in the original database
 
 folder = ""
 sort_merge_urls(folder)
