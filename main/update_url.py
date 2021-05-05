@@ -30,7 +30,6 @@ def urls_province(province):
     links = []
     url =f"https://www.immoweb.be/en/search/house-and-apartment/for-sale/{province}?countries=BE&page=1&orderBy=newest"
     max_page = get_last_page(url, PATH)
-    print(max_page)
 
     driver = webdriver.Chrome(PATH)
     for page in range(1, max_page + 1):
@@ -70,3 +69,12 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
 
 t2 = time.perf_counter()
 print(f'Finished in {t2-t1} seconds')
+
+
+#### SORTING AND MERGING OF THE FILES #####
+# Makes sure we keep only the valid urls
+# Why? The sponsored links contain sub urls.
+# To check: are those sublinks present in the original database
+
+folder = ""
+sort_merge_urls(folder)
