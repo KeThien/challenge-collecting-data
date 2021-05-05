@@ -97,7 +97,7 @@ def urlparseimmo(url) -> dict:
         'hasSwimmingPool': hasSwimmingPool,
         'condition': dataLayer["classified"]["building"]["condition"],
         'equipped_kitchen': dataLayer["classified"]["kitchen"]["type"],
-        'terrace': terrace
+        'terrace': terrace,
         'rooms': int(rooms),
         'area (m²)': int(area, ),
         'surface_of_land (m²)': int(surface_land, )
