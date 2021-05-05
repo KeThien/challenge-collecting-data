@@ -72,6 +72,8 @@ def check_in_csv(page_url, csv):
 
 def sort_merge_urls(folder):
     '''
+    Takes the path of the folder (string) as argument
+    
     Sort all the links into two categorie:
         - clean_url: ready to be extracted
         - sponsored_url : url needing some more url extraction work
