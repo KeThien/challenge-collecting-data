@@ -76,8 +76,6 @@ def urlparseimmo(url) -> dict:
     # surface_land = re.findall("([0-9]+)", surface_land)[0]
 
     # TODO: Number of facades -> int Jess
-    th_facades = soup.find('th', string=re.compile('Number of frontages'))
-    print(th_facades)
 
     # Swimming pool -> boolean K
     if dataLayer["classified"]["wellnessEquipment"]["hasSwimmingPool"]:
