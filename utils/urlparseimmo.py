@@ -45,7 +45,8 @@ def urlparseimmo(url) -> dict:
     # Fully equipped kitchen -> boolean (Directly pick from the dataLayer)
 
     # Furnished -> boolean
-    furnished = soup.select('td.classified-table__data')[15].text.strip()
+    furnished = soup.find("th", string = "Furnished")
+    furnished = furnished.find_next_sibling().contents[0].strip()
     if furnished == "No":
         furnished = 0
     elif furnished =="Yes":
