@@ -6,12 +6,10 @@ import re
 
 driver = webdriver.Chrome()
 
-
 def urlparseimmo(url) -> dict:
     '''
     Function to parse all info into a dict
     '''
-
     # Beautifulsoup to get the rest of the info
     driver.get(url)
     html = driver.page_source
