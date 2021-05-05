@@ -17,19 +17,26 @@ driver.get(url)
 html = driver.page_source
 soup = BeautifulSoup(html, 'html.parser')
 
-# Number of rooms -> int
-rooms_and_area = soup.select('p.classified__information--property')[0].text
-rooms = re.findall("([0-9]+)", rooms_and_area)[0]
-print(rooms)
-
-
+# # Number of rooms -> int
+# rooms_and_area = soup.select('p.classified__information--property')[0].text
+# rooms = re.findall("([0-9]+)", rooms_and_area)[0]
+# print(rooms)
 
 #Furnished -> boolean
-furnished = soup.find("th", string = "Furnished")
-furnished = furnished.find_next_sibling().contents[0].strip()
-print(furnished)
+try:
+    furnished = soup.find("th", string = "Furnished")
+    furnished = furnished.find_next_sibling().contents[0].strip()
+    if furnished == "No":
+        furnished = 0
+    else:
+        furnished = 1
+except:
+    furnished = None
 
-
+# TODO: Number of facades -> int Jess
+# facades = soup.find("th", string = "Furnished")
+# facades = facades.find_next_sibling().contents[0].strip()
+# print(furnished)
 
 
 driver.close()
