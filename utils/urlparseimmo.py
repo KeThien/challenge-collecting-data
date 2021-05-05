@@ -1,4 +1,3 @@
-from urllib.parse import urlparse
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import json
@@ -27,44 +26,39 @@ def urlparseimmo(url) -> dict:
         'window.dataLayer = [', '').replace('];', '')
     dataLayer = json.loads(rawdataLayer)
     print(rawdataLayer)
-    # Parse element in the URL
-    parsed = urlparse(url)
-
-    # parsing split segment from the URL
-    segments = parsed.path[1:-1].split("/")
 
     # PRICE: Directly pick from the dataLayer
 
-    # TODO: Type of SALE -> string
+    # Type of SALE -> string
     h2 = soup.find_all(string='Public sale')
     print(h2)
     if "Public sale" in h2:
-        print("Yes public sale")
+        type_of_sale = "public"
     else:
-        print("No private")
+        type_of_sale = "private"
+
     # TODO: Number of rooms -> int
     rooms_and_area = soup.select('p.classified__information--property')[0].text
     rooms = re.findall("([0-9]+)",rooms_and_area)[0]
     
-   
     # TODO: Area -> int
     area = re.findall("([0-9]+)",rooms_and_area)[1]
     
-
-    # TODO: Fully equipped kitchen -> boolean
-   
+    # Fully equipped kitchen -> boolean (Directly pick from the dataLayer)
 
     # TODO: Furnished -> boolean
-
-    
-
-   
-   
 
     # TODO: Open fire -> boolean
 
     # TODO: Terrace -> Boolean if True: Area -> int
+    if dataLayer["classified"]["outdoor"]["terrace"]["exists"]:
+        th_terrace = soup.find('th', string='Terrace surface')
+        terrace_surface = th_terrace.find_next_sibling(
+            'td').contents[0].strip()
 
+        terrace = int(terrace_surface)
+    else:
+        terrace = None
     # TODO: Garden -> Boolean if True: Area -> int
 
     # TODO: Surface of the land -> int
@@ -77,12 +71,15 @@ def urlparseimmo(url) -> dict:
     #surface_land = re.findall("([0-9]+)",surface_land)[0]
     print(surface_plot)
 
-    # TODO: Number of facades -> int
+    # TODO: Number of facades -> int Jess
 
-    
-    # TODO: Swimming pool -> boolean
+    # Swimming pool -> boolean
+    if dataLayer["classified"]["wellnessEquipment"]["hasSwimmingPool"]:
+        hasSwimmingPool = True
+    else:
+        hasSwimmingPool = False
 
-    # TODO: State of the building (New, to be renovated, ...) -> string
+    # State of the building (New, to be renovated, ...) -> string
 
     # TODO: Cleaning
 
@@ -96,10 +93,14 @@ def urlparseimmo(url) -> dict:
         'subtype_of_property': dataLayer["classified"]["subtype"],
         'type_of_property': dataLayer["classified"]["type"],
         'price': int(dataLayer["classified"]["price"]),
+        'type_of_sale': type_of_sale,
+        'hasSwimmingPool': hasSwimmingPool,
+        'condition': dataLayer["classified"]["building"]["condition"],
+        'equipped_kitchen': dataLayer["classified"]["kitchen"]["type"],
+        'terrace': terrace
         'rooms': int(rooms),
         'area (m²)': int(area, ),
         'surface_of_land (m²)': int(surface_land, )
-       
     }
     driver.quit()
     return d
@@ -108,7 +109,6 @@ def urlparseimmo(url) -> dict:
 # example
 
 url = 'https://www.immoweb.be/en/classified/apartment-block/for-sale/bruxelles-ville/1000/9302481?searchId=60913fe62df04'
-
 infos_in_url = urlparseimmo(url)
 
 print(infos_in_url)
