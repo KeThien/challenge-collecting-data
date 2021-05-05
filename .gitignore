@@ -1,10 +1,11 @@
-VSCODE
+#VSCODE
 
 .vscode/
 
 #DATA SETS
 
-
+#Snippet
+snippet*.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
