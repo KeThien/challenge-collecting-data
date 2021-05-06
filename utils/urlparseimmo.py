@@ -1,12 +1,20 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 import json
 import requests
 import re
 
 PATH = "/opt/chromedriver"
-driver = webdriver.Chrome(PATH)
+# options = webdriver.ChromeOptions()
+# options.add_argument('--no-sandbox') # # Bypass OS security model
+# options.add_argument('disable-infobars')
+# options.add_argument("--disable-extensions")
+# prefs = {"profile.managed_default_content_settings.images": 2}
+# options.add_experimental_option("prefs", prefs)
+# driver = webdriver.Chrome(PATH, chrome_options=options)
 
+driver = webdriver.Chrome(PATH)
 
 def urlparseimmo(url) -> dict:
     '''
@@ -32,6 +40,7 @@ def urlparseimmo(url) -> dict:
         # Type of SALE -> string K
         try:
             h2 = soup.find_all(string='Public sale')
+
             if "Public sale" in h2:
                 type_of_sale = "public"
             else:
@@ -46,7 +55,10 @@ def urlparseimmo(url) -> dict:
         except:
             rooms = None
         # Area -> int J
-        area = re.findall("([0-9]+)", rooms_and_area)[1]
+        try:
+            area = int(re.findall("([0-9]+)", rooms_and_area)[1])
+        except:
+            area = None
 
         # Fully equipped kitchen -> boolean (Directly pick from the dataLayer) K
 
@@ -131,13 +143,13 @@ def urlparseimmo(url) -> dict:
             'garden': garden,
             'open_fire': open_fire,
             'hasSwimmingPool': hasSwimmingPool,
-            'living_area_m2': int(area),
+            'living_area_m2': area,
             'surface_of_land_m2': int(surface_land),
             'number_frontage': int(number_frontage)
         }
         
-        driver.quit()
+        # driver.close()
         return d
     
     except:
-        print("not valid")
+        return No

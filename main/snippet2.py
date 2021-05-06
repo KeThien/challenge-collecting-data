@@ -4,14 +4,18 @@ import time
 from selenium import webdriver
 from parsel import Selector
 import concurrent.futures
-from functions_extract_url import * #personnal function
 from bs4 import BeautifulSoup
+from functions_extract_url import * 
+from utils.urlparsimmo.py import urlparseimmo
 
 PATH = "/opt/chromedriver" 
-driver = webdriver.Chrome(PATH)
+# driver = webdriver.Chrome(PATH)
 
-# url = "https://www.immoweb.be/en/classified/mixed-use-building/for-sale/liege/4000/9316691?"
-# # url = "https://www.immoweb.be/en/classified/house/for-sale/sint-pieters-leeuw/1600/9310259?searchId=60929f813c19a" 
+url = "https://www.immoweb.be/en/classified/mixed-use-building/for-sale/liege/4000/9316691?"
+
+infos_in_url = urlparseimmo(url)
+
+print(infos_in_url)
 
 # driver.get(url)
 # html = driver.page_source
@@ -29,7 +33,3 @@ driver = webdriver.Chrome(PATH)
 # furnished = furnished.find_next_sibling().contents[0].strip()
 # print(furnished)
 
-
-
-
-driver.close()
