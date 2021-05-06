@@ -5,7 +5,7 @@ import json
 import requests
 import re
 
-PATH = "/opt/chromedriver"
+# PATH = "/opt/chromedriver"
 # options = webdriver.ChromeOptions()
 # options.add_argument('--no-sandbox') # # Bypass OS security model
 # options.add_argument('disable-infobars')
@@ -14,15 +14,13 @@ PATH = "/opt/chromedriver"
 # options.add_experimental_option("prefs", prefs)
 # driver = webdriver.Chrome(PATH, chrome_options=options)
 
-driver = webdriver.Chrome(PATH)
 
-def urlparseimmo(url) -> dict:
+def urlparseimmo(html) -> dict:
     '''
     Function to parse all info into a dict
     '''
     # Beautifulsoup to get the rest of the info
-    driver.get(url)
-    html = driver.page_source
+
     soup = BeautifulSoup(html, 'html.parser')
 
     # Extract window.dataLayer json from head / script K Y
@@ -75,7 +73,7 @@ def urlparseimmo(url) -> dict:
 
         # Open fire -> boolean K
         try:
-            h_fire = soup.find('th', string='How many fireplaces?')
+            th_fire = soup.find('th', string='How many fireplaces?')
             nb_fire = th_fire.find_next_sibling('td').contents[0]
             open_fire = nb_fire
         except:
@@ -152,4 +150,4 @@ def urlparseimmo(url) -> dict:
         return d
     
     except:
-        return No
+        return None

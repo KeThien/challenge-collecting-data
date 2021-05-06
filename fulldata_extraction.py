@@ -1,10 +1,17 @@
+import requests
 import csv
+import time
+from selenium import webdriver
+from parsel import Selector
 import concurrent.futures
-from utils.urlparseimmo import urlparseimmo
 import pandas as pd
+
+from utils.urlparseimmo import urlparseimmo
+
 
 # https://www.youtube.com/watch?v=IEEhzQoKtQU
 
+PATH = '/opt/chromedriver'
 
 liste_threading=[0,
                 1,
@@ -19,37 +26,56 @@ liste_threading=[0,
 ]
 
 def fulldata_extraction(start_index):
-    df = pd.read_csv("./data_set/clean_url_202105051158.csv")
-    max_iteration = (len(df)) #55944
 
-    with open("./data_set/clean_url_202105051158.csv", "r") as csv_file:
-        csv_reader = csv.reader(csv_file)
-        csv_list = list(csv_reader)
-        liste_dic_infos = []
-        
-        for i in range(start_index, 100, 10):
+    try:
+        df = pd.read_csv("./data_set/clean_url_202105051158.csv")
+        max_iteration = (len(df)) #55944
+        print(max_iteration)
+
+        driver = webdriver.Chrome(PATH)
+
+        with open("./data_set/clean_url_202105051158.csv", "r") as csv_file:
+            csv_reader = csv.reader(csv_file)
+            csv_list = list(csv_reader)
+            liste_dic_infos = []
             
-            url = csv_list[i][0]
-            infos_in_url = urlparseimmo(url)
-            print(url)
-            liste_dic_infos.append(infos_in_url)
-        try:
+            for i in range(start_index, max_iteration, 10):
+                
+                url = csv_list[i][0]
+                driver.implicitly_wait(10)
+                driver.get(url)
 
-            keys = liste_dic_infos[0].keys()
+                html = driver.page_source
+                infos_in_url = urlparseimmo(html)
 
-            with open(f"temp{start_index}.csv", "w") as init_file:
-                writer = csv.DictWriter(init_file, keys)
-                writer.writeheader()
+                print(url)
+                liste_dic_infos.append(infos_in_url)
             
-            with open(f"temp{start_index}.csv", "a") as temp_file:
-                writer = csv.DictWriter(temp_file, keys)
 
-                for data in liste_dic_infos:
-                    writer.writerow(data)
-        except:
-            print("Go to next link")
+            try:
+                keys = liste_dic_infos[0].keys()
 
+                with open(f"temp{start_index}.csv", "w") as init_file:
+                    writer = csv.DictWriter(init_file, keys)
+                    writer.writeheader()
+                
+                with open(f"temp{start_index}.csv", "a") as temp_file:
+                    writer = csv.DictWriter(temp_file, keys)
+
+                    for data in liste_dic_infos:
+                        try: 
+                            writer.writerow(data)
+                        except:
+                            continue
+            except:
+                print("Go to next link")
+
+        driver.close()
+    
+    except:
+        raise Exception
 # https://www.tutorialspoint.com/How-to-save-a-Python-Dictionary-to-CSV-file
+
 with concurrent.futures.ThreadPoolExecutor() as executor:
     executor.map(fulldata_extraction, liste_threading)
 
