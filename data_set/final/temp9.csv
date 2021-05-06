@@ -1,0 +1,2460 @@
+id,type_of_property,subtype_of_property,locality,price,type_of_sale,rooms,condition,equipped_kitchen,furnished,terrace,garden,open_fire,hasSwimmingPool,living_area_m2,surface_of_land_m2,number_frontage
+9316498,house,house,4970,145000,private,3,good,installed,0,,,,False,,187,2
+9250010,house,house,4920,215000,private,5,to renovate,semi equipped,0,117,,,False,208,209,3
+9315444,house,house,4300,225000,private,3,good,installed,,,,,False,130,422,2
+9315171,house,house,4300,185000,private,3,just renovated,installed,0,20,165,,False,115,0,2
+9314632,house,house,4030,195000,private,3,to restore,installed,,,,,False,100,70,2
+9314179,house,house,4400,119000,private,3,to renovate,semi equipped,,,,,False,120,250,2
+9313631,house,house,4100,179000,private,5,good,,0,,,,False,145,85,2
+9111595,house,apartment block,4020,199000,private,5,good,semi equipped,,,,,False,,100,2
+9310054,house,house,4432,190000,private,3,good,semi equipped,0,4,167,,False,100,251,2
+9312151,house,house,4000,189000,private,2,good,installed,0,25,50,,False,105,116,3
+9271193,house,bungalow,4020,495000,private,4,good,installed,,40,600,1,False,140,850,4
+9087288,house,house,4317,270000,private,5,good,not installed,0,120,,1,False,187,1871,3
+9310740,house,house,4870,99000,private,1,good,semi equipped,0,,,,False,70,0,2
+9310136,house,house,4030,200000,private,3,good,not installed,,,100,,False,120,175,2
+9309666,house,villa,4031,409000,private,4,good,installed,,,,1,False,150,1000,4
+9309291,house,house,4683,249000,private,4,to be done up,installed,0,25,,,False,296,340,2
+9308698,house,house,4671,310000,private,5,,installed,,,,,False,205,459,3
+9308350,house,mixed use building,4500,400000,private,413,good,,0,,,,False,,199,2
+9307814,house,country cottage,4557,139000,private,2,to renovate,semi equipped,0,,350,,False,81,443,3
+9307204,house,house,4450,300000,private,3,,installed,0,,180,,False,165,291,3
+9306958,house,house,4721,210000,private,3,good,installed,,,,,False,,185,3
+9306418,house,apartment block,4500,259000,private,4,to be done up,semi equipped,0,,,,False,185,90,2
+9306089,house,house,4100,105000,private,2,to be done up,,,,,,False,101,75,3
+9305902,house,house,4500,375000,private,4,good,not installed,,20,,,False,185,187,3
+9305344,house,house,4540,30000,public,2,to restore,,,,,,False,,928,3
+9305018,house,house,4801,297360,private,3,as new,usa hyper equipped,0,22,,,False,100,375,3
+9305005,house,house,4400,328485,private,3,,usa hyper equipped,0,27,,,False,137,383,2
+9304995,house,town house,4650,373800,private,3,as new,usa hyper equipped,0,24,270,,False,145,406,3
+9304975,house,house,4101,212703,private,3,,,,,,,False,170,212,3
+9304775,house,bungalow,4100,225000,private,3,to be done up,,,,570,,False,,0,3
+9304067,house,apartment block,4800,1100000,private,18,,installed,0,30,,,False,1500,570,4
+9303610,house,villa,4317,289900,private,4,as new,,,,,,False,,500,3
+9084646,house,house,4100,159000,private,2,to be done up,semi equipped,0,21,,,False,143,166,3
+9302483,house,mansion,4130,255000,private,3,good,semi equipped,,,,,False,154,120,2
+9301924,house,house,4340,195000,private,3,good,installed,,12,75,,False,126,206,2
+9301556,house,apartment block,4420,295000,private,4,good,not installed,,,,,False,207,300,2
+9301060,house,house,4257,249000,private,3,,,,,,,False,,470,3
+9300861,house,house,4051,189000,private,4,to renovate,installed,,28,2768,,False,117,2816,3
+9300546,house,villa,4367,399000,private,4,good,installed,,65,675,,True,150,1244,4
+9300038,house,house,4020,299000,private,2,to be done up,not installed,1,,,,False,454,860,3
+9299256,house,house,4400,295000,private,3,just renovated,installed,0,,700,1,False,152,775,3
+9299117,house,house,4020,240000,private,3,just renovated,hyper equipped,,20,200,,False,150,300,3
+9193895,house,house,4800,115000,private,3,to be done up,,,,25,,False,120,105,2
+9298230,house,villa,4950,320000,private,4,as new,hyper equipped,0,,680,,False,168,760,4
+8072295,house,mansion,4690,550000,private,6,as new,installed,0,,1000,,False,310,1339,4
+9297219,house,villa,4570,529000,private,3,as new,,,,,1,False,347,902,4
+9296951,house,house,4100,155000,private,2,to be done up,installed,0,16,160,,False,80,251,2
+9296831,house,apartment block,4130,450000,private,5,as new,,,,,,False,135,1195,3
+9296426,house,house,4500,139000,private,2,to be done up,semi equipped,0,10,130,,False,94,214,2
+9295732,house,house,4900,105000,private,1,just renovated,,0,,,,False,62,0,2
+9295480,house,house,4101,199000,private,3,good,semi equipped,0,21,75,,False,134,158,2
+9295219,house,house,4040,49000,private,3,to renovate,not installed,0,22,100,,False,121,230,2
+9294857,house,house,4470,185803,private,2,as new,,0,,150,,False,120,331,4
+9294256,house,villa,4350,150000,public,3,good,installed,,,698,,False,147,1133,4
+9257536,house,house,4577,150000,private,3,to be done up,installed,0,,225,,False,142,225,3
+9293473,house,house,4620,150000,private,3,to renovate,,0,5,55,,False,240,0,2
+9293235,house,house,4051,260000,private,4,good,semi equipped,0,,,,False,100,666,3
+9293023,house,house,4480,398750,private,5,,not installed,0,23,,,False,170,1047,3
+9292444,house,house,4500,200000,private,5,good,installed,0,20,,,False,184,107,2
+9291321,house,bungalow,4121,60000,public,1,to renovate,,,,,,False,60,491,4
+9234600,house,house,4432,254000,private,3,good,installed,0,36,294,,False,120,360,2
+9290156,house,house,4624,299000,private,3,as new,installed,0,,450,1,False,112,0,3
+9288906,house,house,4432,275000,private,3,good,semi equipped,0,26,200,,False,170,435,3
+9288671,house,house,4100,95000,private,3,to renovate,,0,13,,,False,76,189,2
+9288267,house,house,4171,219000,private,3,good,installed,0,,,,False,181,182,2
+9287342,house,house,4801,140000,public,3,good,,,,,,False,,548,3
+9286911,house,house,4000,170000,private,2,good,installed,,,,,False,,277,3
+9286406,house,house,4101,239000,private,5,just renovated,,,,,,False,190,206,2
+9286029,house,house,4030,145000,private,1,just renovated,semi equipped,0,12,,,False,56,30,2
+9285484,house,house,4031,104500,private,3,to renovate,,0,11,31,,False,140,100,2
+9284523,house,house,4870,239000,private,3,to be done up,installed,,,,,False,120,332,2
+9282758,house,house,4020,109000,private,3,to be done up,semi equipped,,,,,False,93,40,2
+9281304,house,villa,4280,1200000,private,7,,hyper equipped,0,,,1,True,602,9465,4
+9228283,house,house,4317,299000,private,3,as new,usa installed,0,75,300,,False,300,-250,2
+9279492,house,villa,4020,499000,private,4,as new,hyper equipped,,,,1,False,315,1268,4
+9279501,house,house,4030,245000,private,4,to be done up,,0,20,200,,False,205,0,2
+9279013,house,villa,4053,475000,private,4,,,0,,,,False,200,1166,4
+9278576,house,mixed use building,4920,225000,private,2,just renovated,installed,,,,,False,160,0,2
+9277678,house,house,4400,149500,private,2,to be done up,semi equipped,0,20,,,False,105,155,2
+9276887,house,house,4600,159000,private,4,to be done up,not installed,0,22,187,,False,119,276,2
+9276572,house,apartment block,4100,199000,private,3,good,not installed,0,,,,False,171,100,3
+9276143,house,apartment block,4000,475000,private,5,good,semi equipped,,,,,False,334,0,2
+9239707,house,house,4040,189000,private,4,,installed,0,10,,,False,154,381,4
+9185805,house,house,4100,241000,private,3,as new,installed,,,,1,False,,290,2
+9273450,house,house,4624,269000,private,5,good,not installed,0,43,210,,False,210,200,3
+9006963,house,house,4990,160000,private,3,,,,,,,False,145,1516,4
+8859474,house,house,4671,145000,private,2,,installed,0,16,,,False,104,400,3
+9271732,house,house,4520,69500,private,2,to renovate,semi equipped,,,,,False,,115,3
+9271344,house,house,4630,159000,private,3,good,,0,,,,False,118,52,2
+9270788,house,apartment block,4000,189000,private,7,,semi equipped,0,6,,,False,264,100,2
+9269849,house,house,4840,255000,private,3,just renovated,hyper equipped,,,,,False,135,70,2
+9268838,house,house,4020,257800,private,3,as new,installed,,21,,,False,165,501,3
+9268226,house,house,4000,240000,private,4,to renovate,semi equipped,0,8,,,False,200,60,2
+9267823,house,apartment block,4800,315000,private,6,,installed,,,,,False,240,140,2
+9266979,house,house,4180,205000,private,2,,installed,,14,,,False,100,3420,4
+9266479,house,house,4460,199000,private,5,good,installed,,,347,,False,155,390,3
+9265120,house,house,4420,275000,private,3,as new,hyper equipped,,,,,False,155,0,2
+9264185,house,bungalow,4530,239000,private,2,good,installed,,50,1000,,False,123,1180,3
+9263231,house,exceptional property,4280,335000,private,3,good,hyper equipped,,42,650,1,True,145,700,4
+9262685,house,town house,4000,250000,private,2,to renovate,not installed,,,100,,False,120,150,2
+9172693,house,country cottage,4560,349000,private,6,to be done up,not installed,,,,,False,380,1400,4
+9260958,house,house,4252,289000,private,3,,,0,,,,False,,254,3
+9260735,house,house,4100,80000,public,2,,not installed,,,300,,False,,400,2
+9259739,house,house,4040,189000,private,3,good,hyper equipped,,20,10,,False,130,129,2
+9259339,house,house,4171,220000,private,3,good,installed,0,15,600,,False,121,737,3
+9258530,house,house,4040,155000,private,3,to be done up,not installed,0,,,,False,195,0,2
+9258014,house,house,4000,120000,private,2,to be done up,semi equipped,0,,,,False,,78,2
+8993546,house,house,4020,115000,private,3,to be done up,,,,,,False,121,124,2
+9256394,house,house,4219,250000,private,4,as new,installed,,,,,False,200,0,4
+9255919,house,villa,4610,710000,private,5,as new,hyper equipped,,70,,,True,400,2113,4
+9255384,house,mixed use building,4052,700000,private,6,,installed,0,10,100,,False,340,983,4
+9254886,house,house,4680,179000,private,4,to renovate,,,,,,False,150,0,3
+9253788,house,house,4430,287000,private,3,as new,hyper equipped,0,20,200,1,False,176,215,3
+9253219,house,house,4300,190000,private,3,to be done up,,,33,,,False,82,117,2
+9252701,house,mansion,4500,525000,private,6,as new,hyper equipped,0,,517,,False,417,940,3
+9251859,house,house,4102,198000,private,4,,installed,0,45,50,1,False,160,158,2
+9200236,house,bungalow,4347,249000,private,3,good,installed,0,86,,,False,116,1395,4
+9251181,house,house,4101,165000,private,2,as new,installed,,,62,,False,77,134,3
+9250501,house,house,4460,274000,private,3,good,usa installed,,24,85,,False,165,218,2
+9249909,house,house,4170,280000,private,3,to be done up,installed,,50,,2,False,290,400,2
+9239237,house,house,4671,299000,private,4,just renovated,installed,,,,,False,180,285,3
+9248892,house,villa,4050,389000,private,4,as new,installed,,,,,False,200,473,4
+9248169,house,house,4000,90000,public,5,to renovate,,,,,,False,193,146,3
+9247427,house,villa,4400,180000,public,3,to be done up,not installed,,,2900,,False,,0,4
+9246904,house,house,4300,165000,private,2,,semi equipped,0,,290,,False,140,0,2
+9246106,house,house,4431,240000,private,3,good,,,,,,False,160,322,3
+9245424,house,house,4470,150000,private,2,to renovate,,,,,,False,174,410,3
+9244414,house,mixed use building,4720,250000,private,3,just renovated,,,19,,,False,187,100,2
+9243404,house,house,4400,179000,private,2,good,installed,0,,,,False,246,0,2
+9175366,house,house,4430,115000,private,4,to renovate,semi equipped,0,14,,,False,156,0,2
+9241819,house,house,4053,329000,private,3,,installed,0,32,,,False,252,1383,3
+9241422,house,house,4500,237500,private,3,,not installed,,15,50,,False,183,0,2
+9241099,house,town house,4460,195000,private,3,good,installed,,,277,,False,130,397,4
+9239594,house,house,4720,90000,public,3,good,installed,,,,,False,115,193,3
+9181688,house,villa,4400,309000,private,4,,,,,,,False,170,0,4
+9238167,house,house,4400,175000,private,3,good,installed,,25,300,,False,147,360,3
+9236787,house,house,4987,281300,private,3,as new,,0,,,,False,150,978,4
+9235665,house,house,4950,220000,private,3,as new,installed,,23,221,,False,120,221,3
+9235222,house,house,4500,129000,private,2,good,,0,,,,False,,105,2
+9234722,house,house,4260,199000,private,3,to be done up,installed,0,15,472,,False,120,821,3
+9233992,house,house,4400,198000,private,4,good,,,40,,,False,190,140,3
+9233597,house,apartment block,4430,399000,private,4,to be done up,installed,,,,,False,330,0,3
+9232756,house,house,4801,210000,private,5,just renovated,hyper equipped,,,,,False,144,0,2
+9232181,house,apartment block,4040,239000,private,5,to be done up,,0,30,180,,False,230,473,3
+9137653,house,house,4420,115000,private,2,to be done up,not installed,,,55,,False,110,0,3
+9229468,house,house,4101,319000,private,4,as new,hyper equipped,,30,120,,False,180,300,3
+9228980,house,mixed use building,4040,349000,private,270,,installed,0,,,,False,,1705,2
+9228536,house,apartment block,4020,650000,private,14,good,not installed,,,,,False,640,365,2
+9227348,house,mixed use building,4800,180000,private,220,,,0,,,,False,,0,2
+9226716,house,apartment block,4671,820000,private,2,just renovated,installed,,,,,False,500,600,4
+9226357,house,house,4557,89000,private,1,to renovate,not installed,,,,,False,,0,3
+9225649,house,house,4100,145000,private,3,good,installed,0,,90,,False,120,160,2
+9224761,house,house,4771,199000,private,5,to be done up,semi equipped,0,12,359,,False,163,500,4
+9224260,house,mixed use building,4683,185000,private,2,good,,0,,190,,False,145,291,3
+9223017,house,house,4610,155000,private,3,,installed,0,9,24,,False,125,0,2
+9222156,house,bungalow,4450,285000,private,3,,,,,563,,False,107,670,4
+9221160,house,town house,4420,239000,private,3,,,,9,150,,False,140,249,3
+9219905,house,house,4347,245000,private,4,as new,,0,,75,,False,145,141,2
+9218919,house,house,4630,385000,private,6,good,installed,0,80,500,,True,244,919,4
+9218106,house,apartment block,4801,305000,private,4,as new,,0,,,,False,200,275,3
+9217451,house,house,4500,215000,private,1,as new,semi equipped,0,,,,False,78,36,2
+9216417,house,house,4032,169500,private,1,good,semi equipped,0,,,,False,105,0,2
+9215661,house,house,4140,310000,private,3,good,semi equipped,,40,,,False,126,1163,4
+9214939,house,house,4870,395000,private,3,good,installed,0,45,3000,,False,210,3788,4
+9213704,house,apartment block,4257,650000,private,5,,usa hyper equipped,,,,,False,260,1737,4
+9212678,house,house,4032,130000,private,2,to be done up,installed,,,,,False,100,575,2
+9211722,house,town house,4040,185000,private,3,just renovated,usa installed,,27,650,,False,163,740,2
+9211128,house,house,4030,195000,private,3,as new,installed,0,10,23,,False,112,0,2
+9210208,house,house,4347,257000,private,3,,,0,,,,False,150,1085,3
+9209405,house,town house,4040,299000,private,3,as new,installed,,43,358,,False,140,525,3
+9209000,house,town house,4420,270000,private,4,good,semi equipped,0,,614,,False,210,725,4
+9208426,house,villa,4000,359773,private,3,as new,usa semi equipped,0,,,,False,170,475,3
+9207539,house,house,4800,189000,private,3,good,installed,,,,,False,,304,3
+9205989,house,other property,4682,285000,private,1,,installed,1,30,,,False,100,1,3
+9205115,house,house,4671,50000,private,4,as new,installed,,,1235,,False,,1385,3
+9204535,house,house,4300,182000,private,3,,,0,,,,False,,375,3
+9202110,house,apartment block,4800,950000,private,63,,installed,0,,,,False,2728,1232,4
+9200610,house,house,4400,385999,private,3,,,,,,,False,,464,3
+9200357,house,house,4800,267718,private,3,,,,,,,False,,233,3
+9199076,house,house,4218,160000,private,4,to renovate,semi equipped,,,,,False,150,1827,4
+9197881,house,house,4480,247000,private,3,good,installed,,,,,False,,573,4
+9196059,house,house,4400,230000,private,2,,,,24,,,False,125,1200,3
+9194927,house,house,4030,219000,private,3,to be done up,not installed,0,,110,,False,,160,2
+9194071,house,house,4602,190000,private,2,to be done up,,,,,,False,,0,4
+9193473,house,villa,4830,345000,private,3,good,installed,,49,2000,,False,252,2156,4
+9192905,house,house,4100,199000,private,5,to be done up,installed,0,37,190,,False,235,430,3
+9116819,house,house,4950,349000,private,5,good,installed,,,1116,,False,230,1598,4
+9189978,house,house,4040,260000,private,3,good,,0,,300,,False,120,740,2
+9187899,house,house,4500,149000,private,3,to be done up,semi equipped,,15,200,,False,95,380,3
+9186855,house,house,4800,308091,private,3,as new,,,,,,False,140,394,3
+9186345,house,house,4347,369000,private,7,good,installed,,,276,,False,360,760,3
+9185282,house,house,4000,195000,private,2,good,,,,,,False,,0,3
+9184497,house,house,4480,229906,private,3,as new,,,,,,False,,416,3
+9183241,house,house,4460,159500,private,3,good,installed,0,18,95,,False,175,208,3
+9182022,house,house,4032,250000,private,4,,,0,,,,False,155,289,2
+9181453,house,house,4630,375000,private,3,,installed,0,80,600,,False,204,1251,4
+9181062,house,house,4840,329655,private,3,as new,usa hyper equipped,0,24,,,False,144,367,3
+9180242,house,house,4100,88000,private,3,to be done up,,,,,,False,82,40,2
+9179237,house,town house,4051,289000,private,2,good,,0,12,,,False,124,1524,4
+9177730,house,apartment block,4420,375000,private,4,just renovated,,0,20,78,,False,,0,2
+9177166,house,house,4100,170000,private,5,to be done up,installed,0,25,220,,False,152,461,2
+9175706,house,house,4652,319000,private,4,good,semi equipped,0,13,965,,False,125,1413,4
+9174557,house,mixed use building,4430,189000,private,2,good,installed,,30,,,False,170,200,2
+9173248,house,house,4480,170000,private,2,good,installed,0,40,,,False,95,374,4
+9172138,house,house,4280,175000,private,4,to renovate,semi equipped,0,,100,,False,175,290,3
+9170566,house,house,4910,250000,private,2,just renovated,installed,0,39,342,,False,227,529,3
+8924332,house,house,4960,260000,private,4,,installed,,,,,False,170,535,3
+9169027,house,town house,4800,199900,private,3,as new,installed,0,15,180,,False,144,300,2
+9167438,house,house,4300,281300,private,3,,,0,,420,,False,160,515,3
+9162529,house,house,4000,328000,private,6,good,,,,4000,,False,280,4020,4
+9163817,house,apartment block,4000,419000,private,4,,installed,1,12,,,False,190,56,2
+9163055,house,house,4684,179000,private,2,good,hyper equipped,,,,,False,90,210,3
+9162053,house,house,4680,580000,private,3,,installed,0,15,,,True,273,1188,4
+9161791,house,house,4300,195000,private,3,good,installed,0,48,,,False,114,150,3
+8949447,house,villa,4970,499000,private,6,good,,,,,,False,,5644,4
+9159651,house,house,4840,333600,private,3,,not installed,0,,,,False,150,358,3
+9157954,house,house,4351,205000,private,3,good,installed,0,,148,,False,104,249,3
+9155239,house,apartment block,4000,1370000,private,8,good,installed,0,,,,False,,0,3
+9154024,house,apartment block,4500,175000,private,3,to renovate,,0,40,,,False,260,280,2
+9153008,house,house,4720,148000,private,3,,,,,,,False,107,348,3
+9151309,house,house,4102,179000,private,3,as new,installed,0,20,50,,False,127,119,2
+9150028,house,house,4219,395000,private,4,to be done up,semi equipped,0,,,,False,211,1839,3
+9017431,house,house,4607,310000,private,4,,installed,0,,,,False,207,983,4
+9144643,house,mixed use building,4000,169000,private,4,to renovate,,0,,,,False,216,140,2
+9143649,house,house,4000,300050,private,3,as new,usa hyper equipped,0,28,160,,False,92,300,3
+9141761,house,house,4683,189000,private,2,just renovated,installed,,15,100,,False,75,164,2
+9141289,house,house,4800,153000,private,4,good,not installed,0,,60,,False,138,176,3
+9138971,house,apartment block,4040,299000,private,7,,,0,,,,False,232,779,2
+9137977,house,house,4500,190000,private,2,good,installed,0,30,,,False,160,91,2
+9136121,house,mansion,4920,169000,private,5,to renovate,semi equipped,,,1030,,False,165,1217,4
+9134867,house,house,4430,117000,private,2,to renovate,not installed,,6,66,,False,143,66,2
+9133692,house,house,4850,184000,private,2,good,installed,0,,,,False,121,410,2
+9114656,house,house,4367,110000,private,2,to renovate,,,,,,False,102,440,2
+9129318,house,house,4032,195000,private,3,,,,,,,False,,307,2
+9127565,house,apartment block,4800,230000,private,720,to renovate,,,,,,False,,280,2
+9125584,house,house,4430,90000,private,3,to renovate,,0,,,,False,136,57,2
+9123645,house,house,4400,149000,private,2,good,semi equipped,,55,,,False,90,240,3
+9121057,house,apartment block,4600,210000,private,4,good,,,,,,False,200,0,2
+9120312,house,house,4520,275000,private,2,as new,hyper equipped,,,,,False,115,577,3
+9119379,house,house,4520,222000,private,3,as new,not installed,0,,435,,False,138,425,3
+9118523,house,house,4730,541000,private,5,,,,,,,False,230,288,3
+9116129,house,house,4020,155000,private,3,good,installed,0,,,,False,142,88,2
+9114891,house,house,4400,249000,private,2,good,installed,,44,190,,False,132,506,3
+9113928,house,mixed use building,4540,155000,private,2,to be done up,semi equipped,0,,,,False,,0,4
+9111004,house,house,4317,235000,private,3,good,installed,0,,,,False,202,219,3
+9108913,house,house,4550,440000,private,3,,,0,30,,,False,205,1090,4
+9107167,house,house,4300,145000,private,2,,not installed,0,,,,False,,0,3
+9105851,house,house,4683,135000,private,2,to be done up,,,,,,False,82,360,2
+8926449,house,house,4100,225000,private,3,good,semi equipped,0,,,,False,100,600,3
+8957898,house,house,4032,78000,private,1,,,,6,,,False,50,43,3
+9099335,house,house,4610,269000,private,6,good,installed,,,,,False,212,433,3
+9094464,house,house,4500,265000,private,3,good,installed,,30,600,,False,125,1144,4
+9089071,house,farmhouse,4840,350000,private,4,,,,,,,False,,4384,4
+9084793,house,house,4041,225000,private,3,as new,usa installed,,,,,False,,184,2
+9082808,house,house,4460,109000,private,1,just renovated,installed,0,24,,,False,70,0,3
+9080058,house,house,4800,215000,private,4,good,semi equipped,0,30,40,,False,,0,2
+9074815,house,house,4610,351346,private,4,,usa hyper equipped,0,24,450,,False,134,624,3
+9071873,house,house,4570,210000,private,3,,not installed,,,23,,False,118,85,2
+9064090,house,house,4042,329914,private,4,,usa semi equipped,0,24,,,False,174,233,2
+9058680,house,house,4841,460000,private,3,as new,,,,,,False,185,900,3
+9054927,house,villa,4219,230000,private,6,,not installed,,,,,False,240,750,4
+9049951,house,house,4840,342106,private,4,,usa hyper equipped,0,24,,,False,143,292,3
+9045641,house,house,4840,318350,private,3,,usa hyper equipped,0,30,,,False,157,225,2
+9042126,house,house,4840,385732,private,4,,usa hyper equipped,0,28,,,False,162,346,3
+9040124,house,exceptional property,4000,1500000,private,1,to renovate,,,,,,False,2880,373,2
+9036002,house,house,4850,273510,private,3,,,,,,,False,153,546,3
+9033733,house,villa,4710,545000,private,2,as new,hyper equipped,0,200,1710,,True,262,1710,4
+9026963,house,villa,4500,600000,private,5,as new,installed,,70,2200,,False,300,2472,4
+9020411,house,farmhouse,4590,220000,private,2,,not installed,0,,,,False,142,0,2
+9016968,house,mixed use building,4870,164000,private,2,,,,30,,,False,211,226,2
+8923383,house,villa,4210,235000,private,3,to be done up,semi equipped,,,,,False,115,530,4
+9006400,house,apartment block,4900,539000,private,362,good,semi equipped,0,,,,False,,190,2
+8994491,house,house,4300,360000,private,3,as new,,,,3130,,False,,3176,4
+8992569,house,house,4000,271000,private,4,good,semi equipped,0,6,,,False,190,83,2
+8987830,house,house,4040,225000,private,3,,,,,,,False,112,230,2
+8981098,house,mixed use building,4101,120000,private,3,to be done up,installed,0,,,,False,,0,2
+8973122,house,house,4560,130000,private,4,to be done up,,,,,,False,,210,3
+8967324,house,mixed use building,4987,435000,private,11,to be done up,installed,1,,,1,False,475,5886,3
+8961900,house,house,4920,89000,private,1,to be done up,not installed,,,,,False,86,43,2
+8849191,house,house,4420,185000,private,2,good,hyper equipped,,12,62,,False,123,211,3
+8950398,house,house,4141,649000,private,4,as new,installed,0,80,,,True,428,3591,4
+8938711,house,house,4000,210000,private,5,to be done up,semi equipped,0,,,,False,132,70,2
+8928556,house,apartment block,4801,250000,private,6,good,semi equipped,0,,,,False,160,786,2
+8827292,house,house,4000,159500,private,3,,,,,45,,False,161,125,3
+8917306,house,house,4837,338350,private,3,,usa hyper equipped,0,26,,,False,98,370,3
+8914451,house,house,4760,299000,private,3,as new,installed,0,16,,,False,,500,3
+8905500,house,apartment block,4040,499000,private,6,good,,,,,,False,520,500,2
+8893688,house,mixed use building,4820,198000,private,2,just renovated,not installed,0,36,,,False,240,183,2
+8881961,house,villa,4550,268000,private,3,as new,not installed,0,,1175,,False,178,1250,4
+8869735,house,mixed use building,4000,185000,private,1,to be done up,not installed,,,75,,False,135,160,2
+8852194,house,farmhouse,4350,350000,private,4,to renovate,not installed,0,,,,False,350,2300,4
+8830512,house,house,4540,20000,private,2,to be done up,installed,,,145,,False,115,355,2
+8823710,house,apartment block,4900,545000,private,3,as new,,0,,,1,False,171,0,2
+8816748,house,villa,4263,325000,private,4,,installed,0,30,,,False,140,600,3
+8806100,house,house,4100,109000,private,4,to be done up,,,,,,False,,0,2
+8319766,house,mixed use building,4800,460000,private,4,,not installed,0,,,,False,230,60,2
+8781285,house,house,4920,259000,private,3,,usa hyper equipped,0,,381,,False,150,689,4
+8759609,house,house,4960,139432,private,3,as new,,,,,,False,168,333,2
+8743849,house,house,4800,239000,private,4,,not installed,0,,,,False,130,0,3
+8742194,house,house,4820,238500,private,3,good,semi equipped,0,20,,,False,163,0,3
+8726789,house,house,4960,345511,private,3,as new,,0,,,,False,168,1268,4
+8706925,house,house,4520,69000,private,2,to renovate,not installed,0,,,,False,,0,2
+8662088,house,house,4800,318294,private,4,,,0,21,,,False,,840,3
+8643521,house,villa,4100,359000,private,6,good,installed,,,,,False,,2336,4
+8190604,house,apartment block,4000,334000,private,9,to renovate,,,,,,False,,154,2
+8546597,house,mixed use building,4720,250000,private,9,to renovate,,,,,,False,285,445,2
+8482368,house,house,4420,110000,private,2,,,,10,15,,False,80,102,3
+8376158,house,other property,4570,130000,private,3,to restore,,,,,,False,,1239,4
+8163974,house,house,4031,399000,private,3,as new,installed,,20,,,False,150,237,3
+8238393,house,farmhouse,4601,980000,private,6,,installed,0,,,,False,1250,5878,4
+7914157,house,mixed use building,4851,225000,private,5,,installed,,,,,False,356,0,3
+7768273,house,house,4300,323000,private,3,,,,,,,False,,966,3
+7465700,house,house,4820,168000,private,4,good,,0,,,,False,194,0,2
+9315723,house,house,1320,295000,private,4,to renovate,,0,,,,False,210,1529,4
+9314572,house,villa,1420,495000,private,4,to be done up,installed,0,,,1,False,170,1591,4
+9313991,house,house,1367,475000,private,4,,,,,,,False,,2292,4
+9312409,house,house,1350,325000,private,3,as new,,,,,,False,170,476,3
+9311795,house,house,1330,325000,private,2,good,,,,,,False,130,1200,4
+9311144,house,town house,1480,505000,private,4,as new,usa hyper equipped,0,36,350,,False,205,560,3
+9292024,house,house,1370,315000,private,4,as new,hyper equipped,0,45,243,,False,179,243,3
+9309567,house,house,1380,1890000,private,7,good,installed,0,,,,True,470,3800,4
+9308361,house,villa,1330,499000,private,5,,installed,0,,,,False,,1023,4
+9308150,house,house,1480,160000,public,2,good,installed,,,282,,False,129,488,3
+9305974,house,house,1480,190000,public,3,to be done up,,,,,,False,,384,3
+9305127,house,house,1420,499000,private,4,just renovated,hyper equipped,,65,,,False,210,547,3
+9304035,house,house,1360,300000,private,2,good,installed,,,,,False,160,1207,4
+9302228,house,house,1370,275000,private,3,to renovate,semi equipped,,20,,,False,110,940,4
+9301677,house,house,1421,499000,private,4,just renovated,hyper equipped,,65,,,False,210,547,3
+9300780,house,house,1380,1850000,private,4,as new,hyper equipped,0,,,,True,500,3158,4
+9130587,house,house,1390,590000,private,5,to renovate,semi equipped,0,,,1,False,360,4105,4
+9298366,house,house,1457,640000,private,7,,hyper equipped,0,105,1245,1,False,455,1433,3
+9297373,house,house,1420,560000,private,4,as new,usa installed,,21,,,False,212,440,3
+9296182,house,house,1300,185000,private,3,good,installed,,7,,,False,115,90,2
+9295389,house,house,1410,409000,private,3,good,installed,0,,,1,False,160,380,3
+9293661,house,house,1480,250000,private,3,good,installed,0,,,,False,150,153,2
+9292594,house,house,1420,425000,private,6,good,installed,,,,,False,225,400,4
+9290094,house,house,1420,498250,private,5,as new,hyper equipped,0,20,805,,False,229,20000,4
+9288365,house,house,1390,485000,private,4,as new,hyper equipped,0,30,762,,False,210,879,4
+9287099,house,villa,1341,460000,private,3,good,,0,,,,False,205,1254,4
+9286246,house,villa,1470,520000,private,4,,installed,0,30,1000,1,False,200,1290,4
+9285167,house,house,1380,585000,private,3,good,installed,0,60,900,1,False,160,1250,4
+9283154,house,house,1332,575000,private,4,to renovate,installed,0,25,900,,False,220,1328,4
+9281470,house,villa,1420,485000,private,4,,installed,0,60,300,,False,200,730,4
+9278622,house,house,1420,385000,private,3,as new,hyper equipped,,25,,,False,140,267,2
+9169310,house,house,1380,1295000,private,3,just renovated,hyper equipped,0,,3991,,False,200,3991,4
+9274981,house,villa,1380,1035000,private,4,,installed,0,,,,False,344,1991,4
+9272790,house,house,1390,474000,private,5,good,installed,0,20,1200,,False,192,1680,4
+9270207,house,house,1410,695000,private,3,as new,,,,,,False,165,750,3
+9169795,house,exceptional property,1470,1250000,private,8,to renovate,,1,,35000,,False,1000,35000,4
+9266790,house,house,1474,350000,private,3,to renovate,semi equipped,0,,475,,False,152,600,4
+9265138,house,apartment block,1400,1600000,private,30,,installed,1,,,,True,2600,5000,4
+9262293,house,mixed use building,1400,1150000,private,6,,,,,,,False,750,800,4
+9260473,house,mixed use building,1380,400000,private,6,as new,,,,,,False,356,2100,4
+9257530,house,house,1430,350000,private,4,good,installed,0,,800,,False,240,843,4
+9239551,house,house,1390,449000,private,5,as new,hyper equipped,0,20,200,,False,186,313,3
+9252536,house,farmhouse,1350,390000,private,5,good,semi equipped,0,,,,False,180,3132,4
+9247453,house,house,1350,289000,private,2,good,installed,,,,,False,,0,3
+9245555,house,house,1480,230000,private,3,good,installed,0,10,100,,False,140,111,2
+9242922,house,house,1420,2850000,private,5,as new,hyper equipped,0,,1260,,True,900,3160,4
+9240843,house,house,1470,180000,private,3,good,installed,0,,,1,False,80,30,2
+9239276,house,house,1390,255000,private,4,to be done up,semi equipped,,67,,,False,182,196,2
+9233698,house,house,1300,545000,private,3,just renovated,usa hyper equipped,0,34,260,,False,220,341,2
+9231736,house,bungalow,1440,375000,private,3,just renovated,,0,,,1,False,,1057,4
+9229500,house,villa,1420,450000,private,3,good,installed,0,40,600,1,False,230,1230,4
+9227043,house,villa,1421,900000,private,10,,installed,0,,,1,False,900,5300,4
+9223261,house,house,1421,380000,private,3,,,,,,,False,,1943,4
+9216593,house,house,1380,700000,private,6,good,installed,,50,152,,False,350,1000,2
+9213954,house,villa,1370,950000,private,6,as new,,,,,,False,650,3800,4
+9211748,house,house,1410,590000,private,3,as new,usa hyper equipped,0,15,800,1,False,250,1050,4
+9208193,house,villa,1495,695000,private,5,good,installed,0,32,,1,True,389,3926,4
+9202865,house,house,1460,1650000,private,6,,installed,0,,,,True,900,3300,4
+9199607,house,house,1360,370000,private,4,just renovated,usa hyper equipped,0,57,,2,False,190,585,3
+9196139,house,bungalow,1450,220000,private,2,good,semi equipped,0,,,,False,102,1091,4
+9194083,house,villa,1410,995000,private,4,as new,hyper equipped,0,12,,,False,338,1030,4
+9191147,house,villa,1420,2800000,private,7,as new,,,,,1,False,650,11472,4
+9189563,house,villa,1341,495000,private,4,as new,hyper equipped,0,20,,,False,,347,3
+9188940,house,house,1490,395000,private,4,as new,,,,,,False,155,727,3
+9187503,house,house,1315,330000,private,3,,,0,,220,,False,186,306,3
+9179456,house,house,1400,225000,private,3,good,semi equipped,0,20,,,False,120,80,3
+9176743,house,country cottage,1325,785000,private,5,to renovate,semi equipped,0,,8100,2,False,234,8340,4
+9174288,house,villa,1470,580000,private,5,,usa semi equipped,0,,3800,,False,150,4400,4
+9172220,house,house,1460,399000,private,3,just renovated,hyper equipped,,60,1710,1,False,165,1780,3
+9169022,house,mansion,1370,650000,private,8,as new,installed,,,,,False,450,9000,4
+9166400,house,house,1380,595000,private,4,as new,,,,,,False,184,1136,4
+9161685,house,villa,1420,419000,private,5,,,0,,,,False,220,1200,4
+9156417,house,house,1420,449000,private,4,good,hyper equipped,,,,1,False,238,228,3
+9153388,house,villa,1490,425000,private,4,good,installed,0,73,,,False,187,1500,4
+9150654,house,villa,1420,449000,private,5,good,usa hyper equipped,0,,,,False,160,794,4
+9146902,house,villa,1390,725000,private,4,as new,hyper equipped,0,120,,,False,270,1676,4
+9143794,house,house,1480,395000,private,6,good,installed,0,,,,False,,0,2
+9141569,house,exceptional property,1330,999000,private,8,as new,usa hyper equipped,0,47,,,False,430,2016,4
+9138409,house,apartment block,1480,359000,private,4,as new,,0,,,,False,280,0,2
+9135127,house,house,1360,190000,private,2,,semi equipped,,,,,False,132,393,2
+9132487,house,house,1420,295000,private,4,to renovate,installed,0,22,82,,False,180,190,2
+9127294,house,mixed use building,1310,495000,private,2,,,,,,,False,300,290,3
+9118435,house,house,1410,225000,private,3,,,0,10,300,,False,115,400,2
+9115347,house,house,1460,230000,private,3,,installed,0,,,,False,180,0,4
+9111663,house,villa,1410,445000,private,3,to be done up,installed,,20,,,False,183,712,4
+9099660,house,house,1330,50000,private,3,good,installed,,,282,,False,167,623,3
+9097129,house,house,1332,485000,private,3,good,hyper equipped,,12,,,False,,634,4
+9087602,house,house,1400,445000,private,4,good,usa hyper equipped,0,37,,,False,184,357,3
+9082933,house,house,1410,625000,private,4,as new,hyper equipped,0,60,350,,False,200,707,4
+9075842,house,villa,1428,299000,private,3,to be done up,installed,0,30,500,1,False,160,738,4
+9062115,house,house,1380,150000,private,2,to be done up,,0,20,,,False,120,242,2
+9052832,house,house,1495,225000,private,4,to renovate,semi equipped,,25,,,False,145,1028,3
+9042717,house,bungalow,1457,295000,private,3,good,not installed,0,,,1,False,130,880,4
+9019240,house,house,1410,349000,private,3,good,semi equipped,0,15,350,1,False,115,474,2
+9005497,house,house,1357,255000,private,3,as new,,,,,,False,170,1000,3
+8996880,house,villa,1380,3200000,private,7,as new,hyper equipped,,80,2500,,True,450,37000,4
+8987737,house,villa,1367,400000,private,3,as new,hyper equipped,0,50,1100,,False,220,1275,4
+8963188,house,villa,1380,1895000,private,7,good,,0,,,1,True,528,5600,4
+8746365,house,house,1430,140000,private,2,to renovate,semi equipped,0,,,,False,130,180,3
+8907818,house,exceptional property,1404,2700000,private,10,as new,,,,,,False,850,49470,4
+8888585,house,exceptional property,1470,1950000,private,6,just renovated,hyper equipped,0,,4000,,True,479,25000,4
+8845335,house,town house,1480,295000,private,4,as new,installed,0,20,60,,False,150,185,2
+8818248,house,house,1300,349000,private,3,good,installed,,,,,False,175,284,4
+8778695,house,house,1350,139000,private,2,,semi equipped,0,,,,False,100,236,3
+8619625,house,house,1450,175000,private,2,to renovate,semi equipped,0,,,,False,101,680,2
+8441751,house,villa,1400,1300000,private,7,as new,,,200,10200,1,True,500,10550,4
+8091604,house,house,1300,510000,private,3,as new,installed,0,,,,False,,1050,3
+7350475,house,house,1480,635000,private,4,,installed,0,60,4000,,False,200,4940,4
+9249015,house,house,1970,535000,private,4,good,,0,,500,,False,130,661,3
+9316091,house,villa,3120,630350,private,3,as new,usa hyper equipped,,,,,False,321,684,4
+9314867,house,villa,3061,890000,private,4,as new,hyper equipped,,60,,1,False,375,715,4
+9314421,house,villa,1640,2950000,private,5,as new,,,,,1,False,600,2563,4
+9314055,house,house,1730,329000,private,4,good,,0,,,,False,144,165,2
+9313725,house,house,1700,579424,private,4,as new,,0,,,,False,200,585,4
+9313509,house,bungalow,1861,445000,private,3,good,usa installed,0,,600,,False,160,1038,4
+9312872,house,town house,1853,420000,private,4,,hyper equipped,,,,1,False,180,174,2
+9312299,house,house,3200,110000,public,3,to be done up,,,,,,False,,215,4
+9311850,house,house,1830,319000,private,2,as new,hyper equipped,0,30,160,,False,90,280,2
+9311347,house,house,3020,459000,private,4,good,,,19,,,False,180,306,3
+9310686,house,house,3001,349000,private,2,to renovate,installed,,,,,False,150,200,2
+9310471,house,villa,1861,1100000,private,4,just renovated,hyper equipped,0,100,19700,,False,300,20000,4
+9310168,house,house,1500,369000,private,3,good,installed,0,,,,False,156,410,2
+9289057,house,house,1730,525000,private,3,just renovated,hyper equipped,0,15,,,False,321,350,3
+9309686,house,house,1860,335000,private,4,good,semi equipped,0,15,525,,False,156,681,3
+9309301,house,house,3202,400000,private,6,good,hyper equipped,,16,823,,False,293,1023,4
+9308481,house,house,1851,529000,private,3,good,semi equipped,0,,,,False,230,746,4
+9308233,house,house,3000,315000,private,1,good,installed,,,,,False,71,38,1
+9307780,house,house,1950,620000,private,4,good,installed,0,,110,,False,170,196,2
+9307490,house,country cottage,1540,50000,private,3,,,,,,,False,,550,3
+9307007,house,house,3370,446000,private,3,good,installed,0,25,,,False,223,1214,4
+9306649,house,house,3360,448000,private,5,as new,installed,0,,,,False,250,534,3
+9306319,house,villa,1850,625000,private,4,to be done up,semi equipped,0,,,,False,288,765,4
+9306040,house,town house,1651,229000,private,2,to renovate,not installed,0,16,121,,False,91,210,2
+9305391,house,house,3130,258000,private,2,to be done up,installed,0,,120,,False,140,450,4
+9304851,house,country cottage,1785,559000,private,4,good,hyper equipped,0,,,,True,216,679,4
+9304620,house,town house,3200,325000,private,3,,installed,0,,,,False,230,233,2
+9303995,house,house,1830,280000,private,3,,usa hyper equipped,0,,,,False,135,0,2
+9303263,house,house,3454,294000,private,4,good,hyper equipped,0,,,,False,175,701,3
+9302751,house,house,3000,100000,private,2,as new,installed,0,27,,,False,207,658,3
+9301529,house,house,3000,289000,private,2,to renovate,semi equipped,0,,7,,False,62,55,2
+9301224,house,house,3380,299000,private,3,to renovate,,0,40,1200,,False,305,1440,4
+9300316,house,house,3010,295000,private,3,as new,installed,0,,,,False,100,69,2
+9299950,house,house,3300,369000,private,3,as new,installed,0,18,,,False,207,102,2
+9298581,house,house,1853,439000,private,4,just renovated,installed,,22,120,,False,180,273,3
+9298093,house,house,3000,423000,private,3,to be done up,semi equipped,0,,,,False,150,80,2
+9297567,house,house,1790,389000,private,3,as new,installed,0,28,258,1,False,,469,3
+9296954,house,exceptional property,3110,779000,private,4,as new,hyper equipped,,,,,False,415,2400,4
+9296079,house,house,1830,485000,private,4,good,installed,0,12,,1,False,296,330,3
+9295682,house,house,3190,345000,private,3,to renovate,semi equipped,0,,,,False,133,716,4
+9295262,house,villa,1640,1415000,private,5,as new,installed,0,150,2600,1,True,403,2600,4
+9294929,house,house,1630,549000,private,4,good,semi equipped,,,,,False,180,507,3
+9294157,house,house,1702,268000,public,3,,,,,,,False,,208,3
+9163543,house,mixed use building,3000,369000,private,2,to be done up,semi equipped,0,,,,False,210,70,2
+9293137,house,villa,1800,450000,private,3,as new,hyper equipped,0,50,400,,False,185,510,4
+9292724,house,house,3210,235000,private,4,,installed,0,,8,,False,,0,2
+9197472,house,house,1910,429000,private,2,good,installed,0,,,,False,246,1406,4
+9291903,house,house,3202,349000,private,3,to renovate,semi equipped,0,,,,False,191,827,4
+9290978,house,house,3380,498000,private,4,good,,,,,,False,241,2176,4
+9289599,house,house,3390,449000,private,3,good,not installed,0,,,,False,210,320,3
+9289129,house,villa,3090,735000,private,4,good,,0,,,,False,266,758,4
+9288925,house,villa,1910,795000,private,4,good,,0,,,1,False,275,3800,4
+9288504,house,house,1700,375000,private,5,to renovate,installed,0,13,37,,False,160,186,2
+9288186,house,house,3300,398000,private,4,just renovated,installed,0,,1200,,False,154,1258,4
+9287614,house,house,1742,188000,private,1,good,installed,1,,,,False,60,42,3
+9287036,house,villa,1970,810000,private,3,to renovate,not installed,0,,2800,,False,180,2981,4
+9286563,house,house,1930,325000,private,2,good,installed,,,,,False,123,73,2
+9274371,house,villa,3090,435000,private,4,good,not installed,,,,1,False,143,450,4
+9285632,house,house,3460,369000,private,3,,hyper equipped,,,,,False,136,491,3
+9285217,house,house,1501,384500,private,4,,,,,,,False,,367,4
+9284790,house,house,1853,185000,private,2,to be done up,semi equipped,0,,,,False,70,65,2
+9284627,house,house,3200,397000,private,3,,hyper equipped,0,50,,,False,,1591,3
+9283657,house,house,3440,170000,public,3,to be done up,installed,,,,,False,,908,3
+9283367,house,house,3380,170000,public,4,,installed,,,,,False,,960,4
+9119195,house,exceptional property,1700,839000,private,5,to be done up,installed,,,,,False,,6234,4
+9282031,house,house,1830,525000,private,4,,,0,,,,False,190,491,3
+9281521,house,villa,1790,780000,private,4,good,installed,0,,,1,False,420,3187,4
+9010032,house,house,3290,229000,private,3,good,installed,0,63,190,,False,143,488,3
+9219984,house,house,1800,600000,private,5,good,,0,,990,,False,320,1235,2
+9280503,house,house,3051,185000,private,3,to renovate,semi equipped,0,,,,False,135,79,2
+9279742,house,house,3111,415000,private,4,as new,installed,0,20,1,,False,200,422,3
+9279085,house,house,1930,319000,private,4,as new,usa installed,,20,,,False,126,260,2
+9278812,house,house,1933,368000,private,4,to renovate,not installed,0,,,,False,,965,2
+9278499,house,house,3300,345000,private,3,as new,hyper equipped,0,18,,,False,143,278,3
+9277668,house,villa,3090,670000,private,5,to be done up,semi equipped,0,,810,,False,240,1863,4
+9276928,house,house,3020,329000,private,2,good,installed,,,,,False,130,300,2
+9276011,house,house,3404,189000,private,4,to renovate,installed,0,30,435,,False,233,673,2
+9275346,house,villa,3370,890000,private,5,as new,hyper equipped,,100,3400,,False,361,3400,4
+9274746,house,house,1980,299000,private,3,to be done up,semi equipped,,,,,False,125,232,2
+9274361,house,house,1980,425000,private,4,as new,installed,0,,,,False,170,300,3
+9273833,house,house,3380,349000,private,4,to renovate,installed,0,45,1350,,False,300,1952,3
+9273383,house,villa,1750,699000,private,3,good,hyper equipped,0,,,1,False,250,1110,4
+9272792,house,mixed use building,1861,340000,private,2,to be done up,semi equipped,0,,,,False,185,141,2
+9272117,house,house,1731,399000,private,5,,installed,0,6,330,,False,265,0,2
+9271661,house,house,1982,428000,private,2,to be done up,installed,0,,,,False,128,1138,4
+9270745,house,house,1970,750000,private,4,good,hyper equipped,0,45,100,,False,185,415,3
+9270371,house,other property,1730,340000,private,4,,,0,,,,False,327,611,2
+9269704,house,mansion,1910,1295000,private,5,good,installed,,38,2210,1,True,495,2910,4
+9191245,house,house,3300,207000,private,3,good,,,,,,False,125,181,2
+9268369,house,house,3400,279000,private,4,good,semi equipped,0,,,,False,242,398,2
+9267722,house,house,3220,439000,private,4,as new,,,35,,,False,200,485,3
+9266959,house,exceptional property,1630,3250000,private,5,as new,usa hyper equipped,,70,1800,,True,540,2000,4
+9266468,house,apartment block,1652,495000,private,4,to be done up,semi equipped,0,,1100,,False,162,1398,4
+9264312,house,house,3211,320000,private,3,as new,,,,,,False,140,462,3
+9263801,house,villa,1860,975000,private,6,as new,usa hyper equipped,,108,2000,,True,270,2600,4
+9262504,house,villa,3191,895000,private,4,as new,installed,0,24,1500,,True,400,1500,4
+9261933,house,house,3000,565000,private,4,as new,not installed,0,16,,,False,162,0,2
+9261716,house,house,3040,480000,private,3,as new,installed,0,26,210,,False,244,365,3
+9261115,house,mixed use building,1790,330000,private,4,good,hyper equipped,,,,,False,397,419,3
+9212779,house,house,3191,299000,private,2,to renovate,semi equipped,0,,,,False,168,841,4
+9259525,house,house,3200,322000,private,3,to be done up,installed,0,,,,False,218,1416,4
+9258338,house,house,1850,950000,private,3,,hyper equipped,0,50,1300,,True,430,1462,3
+9257442,house,house,3090,345000,private,3,,,0,,,,False,138,1241,4
+9256833,house,house,3300,198000,private,2,,semi equipped,0,15,140,,False,120,300,2
+9222808,house,exceptional property,1860,599000,private,4,good,usa installed,0,30,140,,False,266,302,2
+9214442,house,house,3212,275000,private,4,to restore,installed,0,,,,False,162,400,4
+9255073,house,house,3320,248500,private,3,to renovate,,0,,,,False,200,169,2
+9252857,house,house,3290,295000,private,3,,,,,,,True,215,950,4
+9251647,house,house,1950,965000,private,4,,hyper equipped,,,,,False,250,615,3
+9251061,house,house,3201,330000,private,3,,installed,,,,,False,,0,4
+9250303,house,town house,1800,345000,private,3,as new,installed,0,20,,,False,145,80,2
+9248895,house,house,1755,515000,private,3,good,installed,,,,,False,110,2597,4
+9247955,house,house,1861,205000,private,100,,,0,,,,False,,364,3
+9247342,house,house,1750,485000,private,3,,,,,,,False,,1630,4
+9246529,house,villa,3130,425000,private,3,good,installed,0,,,1,False,,2178,4
+9245572,house,exceptional property,3090,1190000,private,5,good,usa installed,0,,850,,False,400,1379,4
+9244714,house,exceptional property,3201,473620,private,3,,usa hyper equipped,,40,,,False,282,942,4
+9243845,house,house,1502,279000,private,3,,,,,,,False,130,175,2
+9243399,house,villa,1640,1990000,private,4,good,semi equipped,0,,,1,False,465,3500,4
+9241243,house,house,1800,299000,private,3,to be done up,installed,0,50,,,False,155,550,2
+9240507,house,house,1650,779000,private,5,,semi equipped,,,,,False,310,3810,4
+9239458,house,house,3020,280000,public,2,,installed,,,,,False,,803,4
+9238610,house,house,1653,358000,private,3,good,,0,,,,False,289,210,2
+9237821,house,house,1933,680000,private,4,to be done up,installed,0,7,500,1,False,180,706,4
+9237418,house,house,1790,525000,private,5,as new,hyper equipped,,80,,,False,300,799,4
+9069237,house,villa,1640,3200000,private,4,good,semi equipped,0,,7500,,True,650,7500,4
+9236188,house,house,1601,285000,private,3,to be done up,installed,0,,15,,False,,0,2
+9187831,house,house,1640,395000,private,2,,,0,,,,False,140,259,2
+9233987,house,house,1560,396000,private,3,,,,,,,False,130,150,2
+9075363,house,villa,3300,387000,private,3,as new,,,,,,False,174,424,3
+9231904,house,house,1930,435000,private,2,good,usa hyper equipped,0,,,1,False,142,522,3
+9231002,house,house,1500,356012,private,3,as new,,,,,,False,,264,2
+9228216,house,house,3191,369750,private,3,,installed,0,,,,False,146,387,3
+9227269,house,house,1502,279000,private,2,to renovate,semi equipped,0,,,,False,98,556,3
+9226050,house,house,3290,259500,private,3,good,installed,,,,1,False,153,445,3
+9224314,house,house,3020,434507,private,3,,,,,,,False,144,440,3
+9224266,house,house,3200,341521,private,3,,,,,,,False,193,277,4
+9117712,house,house,1930,349000,private,4,to be done up,,0,,,,False,290,290,2
+9222027,house,mixed use building,1700,409000,private,3,good,hyper equipped,0,,,,False,281,112,2
+9221720,house,town house,3000,359000,private,3,good,installed,0,,,,False,105,0,3
+9106078,house,house,1745,419000,private,2,just renovated,semi equipped,0,,,,False,185,410,4
+9219497,house,house,1745,195000,private,2,to be done up,semi equipped,0,,290,,False,100,351,2
+9218730,house,villa,3060,612000,private,5,as new,hyper equipped,,,,,False,276,389,3
+9217261,house,house,3390,330000,private,3,as new,installed,0,,,,False,190,320,2
+9214936,house,house,1570,345746,private,3,,,,,,,False,151,391,3
+9148970,house,villa,3190,449000,private,3,good,usa installed,,20,,1,False,185,710,4
+9213002,house,apartment block,1950,895000,private,7,good,,,,,,False,,422,3
+9212272,house,villa,3071,711000,private,6,as new,installed,0,30,1088,,False,280,1267,4
+9211020,house,country cottage,1640,1295000,private,3,to restore,,,,,,False,,30273,4
+9210100,house,house,3271,369000,private,3,as new,hyper equipped,,,600,,False,192,886,4
+9208655,house,house,1547,384343,private,3,,,,,,,False,174,537,4
+9155823,house,house,1640,449000,private,4,just renovated,not installed,0,20,700,1,False,180,1000,3
+9205352,house,house,1502,429000,private,3,,semi equipped,,,,,False,,129,3
+9202001,house,house,3270,75000,public,1,,,,,,,False,,1590,4
+9199270,house,house,1653,1250000,private,5,good,,0,,,,False,385,1812,4
+9198144,house,house,1501,289000,private,3,good,hyper equipped,0,,,,False,110,199,2
+9196918,house,town house,1770,337000,private,2,,installed,0,28,149,,False,176,0,3
+9195755,house,villa,1640,2750000,private,5,as new,usa uninstalled,0,,,1,True,715,6500,4
+9193906,house,house,1950,595000,private,3,good,,,,,,False,150,280,2
+9191875,house,house,1820,613000,private,2,as new,installed,,30,85,,False,288,330,3
+9188861,house,house,1745,225000,private,5,to be done up,,0,,,,False,,263,2
+9139116,house,villa,1640,590000,private,4,to be done up,installed,0,40,1700,1,False,160,1700,4
+9186431,house,castle,1850,2480000,private,10,to be done up,installed,,,950002,,False,850,95000,4
+9183835,house,exceptional property,1560,2700000,private,12,just renovated,hyper equipped,,,10002,4,False,950,10002,4
+9181485,house,apartment block,3360,7490000,private,47,as new,,,,,,False,,16000,4
+9179519,house,villa,1702,869000,private,5,as new,,0,,,,False,308,1830,4
+9178139,house,house,1880,440000,private,4,as new,installed,0,,280,,False,205,390,2
+9175696,house,villa,1701,415000,private,3,to renovate,,0,,,,False,175,0,4
+9174108,house,house,3300,186000,private,2,good,installed,0,,,,False,178,140,2
+9172183,house,house,3210,525000,private,3,as new,hyper equipped,,40,,,False,179,1326,4
+9170545,house,house,1755,775000,private,4,,installed,0,,,1,False,291,9266,4
+9167154,house,mixed use building,1820,613000,private,2,as new,installed,,30,85,,False,288,330,3
+9080406,house,villa,1547,1350000,private,5,as new,installed,0,,,,False,364,20000,4
+9159619,house,house,3000,230000,private,2,to be done up,installed,0,,,,False,113,46,2
+9158321,house,house,1860,330000,public,4,to be done up,,,,,,False,170,1630,4
+9157123,house,villa,1780,1690000,private,5,good,usa installed,0,80,,1,False,850,2780,4
+9154276,house,house,1830,369000,private,5,good,installed,,35,,,False,230,154,2
+9152463,house,house,1755,775000,private,4,as new,installed,0,157,8937,,False,291,9266,4
+9054630,house,house,3290,185000,private,4,,,,,,,False,170,125,2
+9143689,house,house,1790,199000,private,3,to renovate,semi equipped,0,14,,,False,162,191,4
+9140782,house,house,1500,255000,private,2,just renovated,installed,0,,,,False,106,0,2
+9138343,house,house,3070,504990,private,3,,,0,25,140,,False,138,324,4
+9132649,house,house,1560,325000,private,3,to be done up,installed,,28,,,False,120,233,3
+9129201,house,house,1640,365000,private,3,to be done up,installed,0,25,200,,False,132,304,2
+9127917,house,house,1654,459846,private,3,,,0,,,,False,163,473,4
+8572750,house,house,1840,350000,private,257,to renovate,,0,,,,False,,254,3
+9114793,house,house,1620,498000,private,3,good,,,,,,False,150,212,2
+9111947,house,house,3090,795000,private,5,as new,,0,,,,False,227,622,4
+9110328,house,house,3130,329000,private,3,as new,,0,,,,False,189,319,3
+9105814,house,house,1785,474000,private,4,good,,,,135,,False,288,372,3
+9100714,house,house,3060,375800,private,3,as new,installed,0,,33,,False,144,0,2
+9094576,house,house,3130,299000,private,1,just renovated,installed,0,,,,False,,184,3
+9088419,house,house,3210,495000,private,3,good,installed,0,,700,,False,176,0,3
+9083420,house,house,1800,299000,private,3,good,,,,,,False,150,72,2
+9077087,house,house,3191,359000,private,4,to renovate,semi equipped,0,,50,,False,215,533,4
+9069912,house,house,1652,329000,private,2,good,installed,,,,,False,85,461,3
+9063893,house,house,1730,369000,private,3,,usa hyper equipped,0,29,145,,False,179,265,2
+9054266,house,house,3200,289000,private,5,as new,,0,,,,False,260,799,3
+9051560,house,house,3090,485000,private,4,as new,semi equipped,0,40,425,,False,170,731,4
+9045004,house,house,3150,2250000,private,8,good,hyper equipped,,,,,True,500,10000,4
+9038281,house,house,1620,395000,private,3,,,0,20,115,1,False,140,185,2
+9032085,house,villa,3191,695000,private,3,good,,0,,1445,,False,306,1445,4
+9016207,house,house,3000,249000,private,1,good,installed,0,,,,False,85,40,2
+9000218,house,house,3020,675000,private,3,,,0,40,,,False,440,2784,4
+8997442,house,mixed use building,3390,240000,private,4,to renovate,semi equipped,0,,,,False,,589,4
+8989337,house,exceptional property,1653,1200000,private,8,as new,,,,,,True,499,1150,4
+8983516,house,house,3300,199000,private,2,good,semi equipped,0,18,,,False,140,66,2
+8976402,house,villa,3090,575000,private,5,good,installed,,,,,False,250,963,4
+8952299,house,house,3473,345000,private,3,,,0,,530,,False,217,530,3
+8935759,house,house,1970,890000,private,5,as new,installed,0,,600,,False,180,1150,4
+8800591,house,house,1540,115000,private,2,,not installed,0,,,,False,,0,2
+8876106,house,villa,3460,349525,private,4,as new,installed,0,,,,False,,594,4
+8858545,house,house,3401,349000,private,3,as new,hyper equipped,0,12,,,False,141,257,2
+8826259,house,house,1790,1150000,private,3,,,,,,,False,,6203,4
+8792761,house,house,3400,190000,private,3,good,,0,,,,False,,0,3
+8733332,house,villa,3080,3500000,private,7,as new,,,,,,False,500,4400,4
+8574168,house,villa,3140,2590000,private,4,as new,installed,0,,,,False,419,3001,4
+8483934,house,house,3020,541100,private,4,,installed,0,,,,False,228,240,2
+8294132,house,villa,3080,2350000,private,5,as new,,,30,,,False,420,1720,4
+8111793,house,house,3130,365300,private,3,as new,hyper equipped,,,,,False,185,528,3
+7843305,house,castle,3470,3900000,private,9,as new,,,,,,False,1300,250000,4
+5677498,house,villa,3140,1100000,private,6,,,,,,,False,400,5067,4
+9316317,house,house,6890,389000,private,5,to renovate,semi equipped,0,,,,True,440,6563,4
+9314102,house,house,6824,155000,private,2,as new,,,,,,False,84,100,2
+9312359,house,villa,6747,570000,private,3,as new,installed,0,20,,1,False,193,1640,4
+9250965,house,house,6769,99000,private,2,to renovate,not installed,,,,,False,110,0,2
+9310207,house,house,6840,240000,private,4,,,,,,,False,,716,4
+9307153,house,house,6890,249900,private,3,,,,11,54,,False,112,0,2
+9305174,house,house,6987,60000,private,3,to renovate,,,,,,False,,0,4
+9245266,house,house,6980,154400,private,4,,,0,20,,,False,131,126,2
+9301833,house,house,6750,305000,private,3,good,installed,0,15,,,False,121,216,2
+9300694,house,house,6700,515000,private,7,good,installed,0,65,,,False,300,20,2
+8869762,house,house,6690,625000,private,10,,installed,0,,,,False,500,1799,2
+9296427,house,chalet,6941,65000,private,1,,not installed,0,,,,False,30,260,4
+9293516,house,house,6791,275000,private,2,,,0,10,,,False,121,209,2
+9289218,house,house,6800,589000,private,5,as new,installed,0,38,1300,1,False,596,1500,4
+9286219,house,house,6637,295000,private,3,as new,not installed,0,,,,False,,633,3
+9284116,house,house,6780,310000,private,4,as new,,0,45,,,False,215,172,2
+9283381,house,mixed use building,6700,715000,private,6,to be done up,installed,0,,,,False,578,440,2
+9281884,house,house,6820,199000,private,6,,,,,,,False,,635,2
+9279214,house,house,6769,122000,private,3,to renovate,not installed,0,,,,False,241,755,3
+9199774,house,house,6792,175000,private,2,,,,,,,False,,202,2
+9276137,house,house,6940,350000,private,3,good,installed,1,11,,1,False,180,694,4
+9273115,house,exceptional property,6970,550000,private,8,to be done up,not installed,0,,700,,False,506,7000,4
+9271226,house,apartment block,6800,299000,private,2,as new,semi equipped,,,,,False,231,589,3
+9269397,house,house,6840,159000,private,3,to restore,,,,,,False,227,3280,4
+9267921,house,house,6940,379000,private,4,as new,usa installed,,,445,,False,160,555,3
+9266078,house,house,6941,170000,private,2,to renovate,installed,0,,,,False,107,902,4
+9263584,house,mixed use building,6820,175000,private,2,,,,,,,False,,87,2
+9261517,house,apartment block,6880,260000,private,5,to renovate,semi equipped,0,,5,,False,180,6,4
+9260345,house,house,6810,165000,private,3,,semi equipped,0,,,,False,160,120,3
+9258647,house,house,6953,149000,private,3,good,installed,0,,135,,False,120,135,3
+9257545,house,house,6700,550000,private,4,good,installed,,,,,False,254,1033,4
+9255542,house,house,6880,229000,private,3,good,installed,0,,,,False,140,722,3
+9253363,house,house,6762,115000,private,3,to renovate,not installed,0,,190,,False,,208,2
+9251498,house,house,6760,198000,private,4,,installed,0,,,,False,185,430,3
+9250208,house,house,6780,595000,private,3,just renovated,installed,0,20,800,,False,190,921,4
+9247155,house,house,6640,145000,private,3,to be done up,semi equipped,0,,43,,False,137,144,4
+9240114,house,house,6600,188000,private,4,to renovate,,,,,,False,185,1422,4
+9237027,house,house,6890,332466,private,3,as new,installed,0,,,,False,,9214,4
+9235055,house,house,6887,149500,private,1,to restore,,0,,,,False,310,720,3
+9233279,house,house,6982,69000,private,100,to restore,,0,,,,False,,1200,3
+9229963,house,house,6856,250000,private,3,,installed,0,40,,,False,112,1149,4
+9228371,house,house,6660,155000,private,3,to renovate,,0,,,,False,177,945,3
+9219933,house,house,6750,365000,private,3,just renovated,installed,0,46,591,,False,150,591,4
+9215263,house,house,6927,269000,private,4,good,installed,,,,,False,107,1309,4
+8942922,house,villa,6951,350000,private,4,as new,,,,,,False,208,1664,4
+9207214,house,house,6800,95000,private,4,,not installed,,,,,False,,2640,4
+9193484,house,house,6700,450000,private,4,to renovate,installed,0,,,,False,144,4030,4
+9188763,house,house,6692,425000,private,4,as new,installed,0,27,1499,,False,244,1588,4
+9185645,house,house,6836,149000,private,3,,semi equipped,0,,,,False,110,436,2
+9182270,house,house,6600,190000,private,2,just renovated,semi equipped,0,,,,False,,0,2
+9177206,house,house,6820,158000,private,2,,installed,0,,,,False,115,390,2
+9173929,house,house,6810,285000,private,4,,installed,,,,,False,210,1500,4
+9170291,house,house,6680,330000,private,4,,,,,,,False,229,3180,4
+8994886,house,house,6700,440078,private,3,as new,,0,,,,False,,1160,4
+9135614,house,mixed use building,6990,210000,private,4,,hyper equipped,,25,350,,False,207,450,2
+9148371,house,house,6983,299000,private,5,good,installed,0,15,400,1,False,244,620,4
+9142448,house,house,6791,323000,private,3,good,installed,0,13,110,1,False,,1760,3
+9131382,house,house,6792,315000,private,3,as new,installed,,,100,,False,120,200,3
+9125121,house,house,6690,175000,private,3,to renovate,not installed,0,,,,False,126,929,4
+9116587,house,house,6870,70000,private,2,to renovate,not installed,0,,,,False,83,64,2
+8811109,house,mixed use building,6890,385000,private,6,,installed,,52,,2,False,576,2400,4
+8913424,house,house,6717,564000,private,5,good,installed,0,,,,False,270,1072,3
+9096889,house,house,6700,195000,private,3,to renovate,semi equipped,,,,,False,135,200,2
+9085306,house,villa,6687,373170,private,3,as new,,,,,,False,,1200,4
+9079689,house,house,6990,185000,private,4,good,installed,0,15,310,,False,155,310,2
+9058947,house,house,6982,379000,private,6,just renovated,installed,0,,,,False,211,595,4
+9053185,house,house,6670,180000,private,4,to renovate,not installed,,,,,False,295,0,2
+9034827,house,house,6833,380000,private,11,to be done up,hyper equipped,,,,,False,687,1012,4
+9020800,house,chalet,6690,210000,private,2,as new,installed,,,,,False,65,442,4
+9012951,house,house,6670,238000,private,3,to renovate,installed,,,,,False,246,2056,4
+8847966,house,house,6700,550000,private,4,to be done up,installed,0,25,2400,,False,186,2500,4
+8965447,house,house,6950,220790,private,3,,installed,0,12,,,False,109,203,3
+8827986,house,house,6700,325000,private,4,good,semi equipped,0,,,,False,193,608,2
+8932401,house,house,6838,304324,private,3,as new,,0,,,,False,,3063,4
+8919768,house,house,6986,439662,private,3,as new,,0,,,,False,,3500,4
+8879425,house,house,6672,220000,private,4,good,,,,,,False,,855,4
+8856963,house,house,6690,195000,private,4,,,,,,,False,140,1499,4
+8827039,house,house,6940,295000,private,3,,,0,,,,False,147,1000,4
+8769380,house,apartment block,6820,215000,private,4,,,,,,,False,,694,4
+8352849,house,house,6831,155000,private,4,,not installed,0,,,,False,128,750,4
+8192635,house,house,6690,135000,private,3,to renovate,semi equipped,,,,,False,,514,2
+8318564,house,house,6838,75000,private,2,to be done up,not installed,0,,,,False,90,117,3
+8432983,house,house,6940,290000,private,4,as new,installed,0,,,,False,120,991,4
+8153075,house,house,6690,449000,private,3,to renovate,not installed,,,,,False,111,34106,4
+7795215,house,house,6830,147000,private,3,,,1,,,,False,65,27,2
+4260980,house,house,6670,157000,private,3,,,,,,,False,126,1339,3
+9188455,house,house,3670,209000,private,2,,,0,,,,False,135,755,4
+9314965,house,house,3700,225000,private,3,,installed,0,,500,,False,103,616,4
+9314084,house,house,3941,243000,private,3,,,0,,,,False,186,410,3
+9313499,house,house,3720,219400,private,2,good,hyper equipped,0,,,,False,127,373,2
+9311837,house,house,3730,230000,private,3,to renovate,semi equipped,0,,,,False,142,1784,4
+9285278,house,house,3800,409000,private,4,as new,usa hyper equipped,0,,,,False,157,487,3
+9308593,house,house,3680,289000,private,4,,installed,0,,,,False,,2122,4
+9308291,house,mixed use building,3970,167000,private,3,good,,0,5,,,False,140,267,2
+9307320,house,house,3950,220000,private,3,good,installed,0,,,,False,108,445,3
+9306585,house,house,3620,256735,private,3,as new,,0,,,,False,126,1251,3
+9303461,house,house,3545,349000,private,3,good,installed,,12,720,,False,150,1411,4
+9302490,house,house,3770,269000,private,3,just renovated,installed,0,24,,,False,155,430,4
+9301866,house,house,3700,130000,private,2,,,,,,,False,134,165,2
+9301156,house,house,3530,279000,private,3,good,,0,,,,False,140,800,4
+9300925,house,house,3570,290000,private,3,to restore,,0,,,,False,152,1536,4
+9237767,house,house,3650,359000,private,4,good,semi equipped,0,,,,False,245,1400,3
+9299965,house,house,3600,239000,private,4,good,installed,0,,,,False,136,234,2
+9297753,house,villa,3930,650000,private,4,as new,hyper equipped,0,,,1,False,278,14287,4
+9119406,house,house,3740,475000,private,5,good,,0,47,,,False,300,1859,4
+9295737,house,mansion,3500,595000,private,4,just renovated,installed,,,,,False,182,120,2
+9294263,house,house,3500,329000,private,2,as new,installed,,14,,,False,142,95,2
+9293143,house,house,3530,325000,private,3,,installed,0,,,,False,,889,4
+9292236,house,villa,3920,549000,private,5,as new,usa hyper equipped,,42,800,,False,283,1100,4
+9288285,house,house,3680,295000,private,3,good,installed,0,,,,False,130,440,3
+9286380,house,house,3980,590000,private,5,good,,,,,,False,572,2271,4
+9284763,house,house,3550,264950,private,3,,,0,,,,False,,0,4
+9283788,house,house,3581,289029,private,3,,,,,,,False,,482,3
+9282365,house,house,3770,235000,private,2,,installed,0,,,,False,127,219,3
+9280891,house,house,3520,325000,private,3,good,,0,,,,False,161,1350,4
+9279513,house,villa,3950,435000,private,3,as new,installed,0,50,1500,1,False,448,1774,4
+9278827,house,house,3600,259000,private,3,good,semi equipped,,35,500,,False,150,970,3
+9276021,house,house,3950,449500,private,4,,,0,,,1,False,375,1250,4
+9274518,house,villa,3830,389000,private,4,good,,0,160,1500,1,True,182,1773,4
+9272965,house,house,3920,249900,private,3,,,,,,,False,137,286,3
+9272855,house,house,3500,493400,private,3,,,,20,,,False,164,208,3
+9272477,house,house,3740,365000,private,4,to be done up,semi equipped,0,,,,False,351,1402,4
+9269284,house,house,3540,298500,private,3,as new,hyper equipped,0,,,,False,131,419,3
+9268075,house,villa,3910,749000,private,5,good,installed,0,,,,False,,4085,4
+9266864,house,villa,3720,750000,private,3,good,,0,,,,False,341,6065,4
+9265786,house,house,3680,309000,private,3,,installed,0,,,,False,,530,3
+9263284,house,exceptional property,3800,390000,private,3,just renovated,semi equipped,0,10,41,,False,130,70,3
+9260801,house,house,3650,245000,private,3,,,,,,,False,140,940,4
+9259115,house,house,3530,269000,private,3,good,semi equipped,0,,,,False,120,517,4
+9257977,house,house,3870,225000,private,4,good,installed,,,,,False,120,465,3
+8977271,house,house,3580,325000,private,3,,,,,,,False,220,1000,4
+9256662,house,house,3620,230000,private,3,to be done up,semi equipped,0,,52,,False,140,209,4
+9255465,house,house,3740,179000,private,3,to renovate,,0,,110,,False,197,345,3
+9254699,house,house,3940,359000,private,3,,,,,,,False,190,640,3
+9254457,house,villa,3560,2900000,private,6,as new,installed,0,,,,False,,13630,4
+9179010,house,house,3530,329000,private,3,as new,hyper equipped,0,,,,False,167,320,3
+9250479,house,house,3910,259000,private,3,good,,0,,,,False,202,384,4
+9249190,house,house,3920,299000,private,3,,hyper equipped,0,,,,False,126,483,4
+9248406,house,house,3910,795000,private,4,good,,0,,,,False,360,2819,4
+9247205,house,house,3930,899000,private,3,,,0,,,,False,270,13500,4
+9245981,house,house,3500,180000,public,3,,,,,,,False,,862,4
+9241847,house,villa,3511,759000,private,3,as new,,0,1,1,1,False,388,900,4
+9240896,house,house,3511,180000,public,5,,,,,,,False,192,1804,4
+9240234,house,house,3945,224000,private,3,good,,0,,,,False,110,362,3
+9238913,house,house,3650,189000,private,3,,,0,,,,False,150,1361,4
+9081435,house,country cottage,3730,745000,private,7,,,,,,,False,,2500,4
+9235243,house,house,3740,330000,private,3,as new,installed,0,,,,False,325,516,4
+9233097,house,house,3670,100000,public,4,,,,,,,False,,2062,4
+9231421,house,house,3960,268000,private,3,,,0,,,,False,161,622,3
+9229135,house,villa,3910,755000,private,3,as new,,0,,,,True,383,1770,4
+9225829,house,house,3545,470000,private,5,,,,,1190,,False,350,1700,3
+9224012,house,house,3770,135000,private,5,to renovate,semi equipped,0,,,,False,204,305,3
+9010321,house,house,3800,215000,private,3,to be done up,semi equipped,0,12,400,,False,170,816,4
+9220041,house,house,3520,475000,private,3,good,installed,0,40,,,False,245,1440,4
+9217885,house,house,3512,490000,private,9,good,,0,,,,False,433,6000,4
+9217001,house,house,3581,339950,private,4,as new,hyper equipped,0,14,,,False,194,1130,4
+9212629,house,house,3650,150000,private,3,,installed,0,,230,,False,210,385,2
+9210876,house,house,3740,257132,private,4,,,0,,,,False,,586,3
+9154758,house,house,3870,349000,private,5,,installed,0,,,,False,240,319,3
+9206931,house,house,3545,359000,private,5,good,,0,,,,False,276,858,4
+9202017,house,house,3700,450000,private,4,good,installed,,50,1400,1,False,175,2175,4
+9200170,house,country cottage,3570,699000,private,2,,installed,0,32,,,False,233,14664,4
+9198373,house,villa,3500,2685000,private,4,as new,,0,,,,True,550,1633,4
+9194315,house,house,3640,139000,private,2,,,0,,,,False,,625,4
+9190403,house,mixed use building,3800,725000,private,6,,semi equipped,0,,,,False,195,0,2
+9186004,house,house,3500,380000,private,3,as new,hyper equipped,0,,800,1,False,200,1107,4
+9181107,house,house,3581,275000,private,4,,semi equipped,,,,,False,227,852,4
+9179364,house,house,3920,299000,private,3,good,installed,0,,189,,False,152,335,3
+9174121,house,house,3520,525000,private,3,good,installed,0,23,272,,False,152,475,3
+9169571,house,house,3560,362000,private,3,,,,,,,False,169,780,4
+9165136,house,house,3500,507800,private,3,,,,,,,False,173,221,3
+9161948,house,bungalow,3545,125000,private,1,to renovate,,,,,,False,,0,4
+9155983,house,house,3960,164000,private,3,to be done up,semi equipped,0,,,,False,187,659,4
+9153565,house,house,3720,299500,private,3,good,hyper equipped,0,,,,False,200,0,3
+9145844,house,house,3945,235000,private,4,as new,,0,,,,False,225,293,3
+9142030,house,house,3700,130000,private,3,to be done up,,,,,,False,141,80,2
+9138948,house,house,3550,328440,private,3,good,,0,,,,False,147,565,3
+9133838,house,villa,3720,750000,private,3,good,,0,,,,False,341,6065,4
+9126312,house,house,3840,374000,private,3,,installed,0,,,,False,191,745,4
+9125530,house,house,3840,232948,private,3,,semi equipped,0,,,,False,155,84,2
+9116213,house,house,3650,665000,private,6,good,installed,0,,1000,,False,350,1684,4
+8899367,house,house,3600,260000,private,3,,installed,0,,,,False,139,510,3
+9096783,house,mixed use building,3940,579000,private,7,good,,0,,,,False,375,2400,3
+9092850,house,villa,3540,387000,private,3,as new,installed,0,21,,,False,181,497,4
+9088423,house,villa,3680,645000,private,3,,,0,,,,False,332,756,4
+9082013,house,house,3545,327500,private,3,good,,0,,,,True,245,1000,4
+9072506,house,house,3550,297840,private,3,good,,0,,,,False,144,326,3
+9065421,house,house,3950,259350,private,3,,,0,25,,,False,149,351,3
+9059527,house,house,3640,499000,private,6,,,,,,,False,320,7702,3
+9054228,house,exceptional property,3950,1950000,private,8,as new,installed,0,,,,False,,54632,4
+9049349,house,house,3950,295000,private,4,as new,installed,0,,,,False,148,656,3
+9023450,house,house,3640,215000,private,3,good,installed,0,,,,False,,644,4
+9016123,house,house,3730,319000,private,3,good,installed,0,,400,,False,135,708,4
+9004858,house,house,3700,210000,private,2,,,0,,,,False,200,755,3
+8993997,house,villa,3650,795000,private,5,good,installed,0,,975,,False,314,1164,4
+8987162,house,villa,3650,549500,private,4,,,0,,,,False,309,900,4
+8980876,house,house,3650,375000,private,2,,,0,,,,False,272,788,4
+8964227,house,house,3740,199500,private,3,,installed,,,,,False,,432,4
+8933279,house,mixed use building,3900,1275000,private,4,good,installed,0,,,,False,204,40500,4
+8899683,house,house,3630,349000,private,3,good,,0,,,,False,228,0,4
+8880861,house,house,3840,279000,private,3,good,installed,1,68,68,,False,176,144,3
+8835622,house,house,3870,85000,private,1,to renovate,,0,,,,False,53,0,2
+8739370,house,mixed use building,3800,980000,private,12,,,0,,,,False,400,1215,2
+8718605,house,house,3500,320900,private,4,,installed,0,17,,,False,160,121,3
+8645058,house,bungalow,3665,229000,private,3,to renovate,,0,,900,,False,,1045,4
+8662641,house,house,3910,189000,private,3,good,installed,0,24,394,,False,165,394,4
+8631511,house,house,3840,360000,private,3,good,hyper equipped,,,,,True,260,922,4
+8452399,house,house,3800,195000,private,4,to renovate,,0,,,,False,220,130,2
+7519044,house,house,3970,299950,private,4,,,,,,,False,360,2858,4
+7888570,house,house,3680,1195000,private,2,,,0,,,,False,866,0,2
+7452048,house,house,3941,489000,private,4,as new,hyper equipped,0,,,,False,255,922,4
+6506854,house,house,3640,97000,private,3,to renovate,not installed,,,,,False,,2625,4
+9315312,house,house,5060,75000,public,5,,,,,,,False,,150,3
+9314954,house,villa,5020,325000,private,5,good,installed,0,,1400,,False,208,1500,4
+9314081,house,house,5580,135000,private,5,good,semi equipped,0,,130,,False,143,130,2
+9313111,house,apartment block,5100,650000,private,3,good,installed,0,,,,False,,240,4
+9311842,house,house,5550,105000,private,2,,semi equipped,,,,,False,80,299,2
+9311370,house,house,5020,205000,private,2,just renovated,installed,0,,,1,False,100,314,2
+9310454,house,house,5190,259000,private,3,as new,installed,,,,,False,115,1173,3
+9308649,house,house,5150,195000,private,4,to renovate,not installed,0,,,,False,140,328,4
+9307095,house,house,5555,475000,private,5,as new,installed,,,,,False,,6961,4
+9305932,house,house,5580,195000,private,3,,,,,,,False,,5489,4
+9304920,house,house,5190,230000,private,4,good,,,,748,,False,130,820,3
+9303305,house,house,5150,175000,public,3,,,,,,,False,,982,4
+9301479,house,villa,5537,295000,private,5,to renovate,not installed,0,,1703,,False,,1703,4
+9194563,house,villa,5150,325000,private,3,to be done up,semi equipped,0,20,1873,1,False,,1873,4
+9177681,house,house,5000,265000,private,3,to be done up,installed,0,,60,,False,144,130,2
+9298922,house,house,5640,160000,private,4,,,0,29,400,,False,250,451,3
+9298035,house,house,5100,249500,private,4,as new,,,25,,,False,200,130,2
+9135879,house,house,5640,225000,private,4,,,0,,,,False,,0,3
+9296276,house,house,5070,218000,private,3,,,0,50,,,False,189,0,3
+9295803,house,villa,5620,325000,private,7,good,installed,0,,,,False,235,1738,4
+9295214,house,house,5575,270000,private,3,good,installed,0,20,4000,,False,108,4400,4
+9294223,house,house,5190,168000,private,1,good,not installed,0,21,,,False,70,1136,4
+9293570,house,house,5640,269000,private,3,just renovated,installed,0,,,,False,,0,4
+9292053,house,house,5300,299000,private,4,good,hyper equipped,,,,,False,130,1211,4
+9224891,house,bungalow,5580,299000,private,3,as new,semi equipped,0,10,21200,,False,180,3000,4
+9289566,house,house,5377,530000,private,4,,installed,0,49,500,,False,270,900,4
+9288792,house,house,5580,145000,private,2,to be done up,installed,0,,,,False,106,213,2
+9286929,house,house,5580,40000,private,1,good,not installed,0,,,,False,110,118,3
+9284210,house,house,5310,280000,private,4,to renovate,not installed,0,30,600,,False,130,819,4
+9282934,house,house,5590,170000,private,2,good,usa semi equipped,,20,,,False,115,113,3
+9281809,house,house,5020,349000,private,5,,,,25,,1,False,214,1300,4
+9280979,house,house,5640,50000,private,6,as new,hyper equipped,,,,1,False,230,2143,3
+9280136,house,house,5300,320000,private,3,good,installed,0,40,,1,True,200,838,4
+9279221,house,villa,5590,322800,private,4,,,,,709,,False,,780,4
+9277951,house,chalet,5500,45000,private,1,,semi equipped,0,,380,,False,45,420,4
+9277049,house,apartment block,5660,350000,private,2,just renovated,hyper equipped,0,,462,,False,224,572,3
+9276017,house,apartment block,5300,555000,private,8,just renovated,installed,,,,,False,245,838,4
+9197753,house,house,5542,129000,private,2,just renovated,installed,,,,1,False,62,45,3
+9273378,house,exceptional property,5330,640000,private,6,good,installed,1,,,1,False,500,10000,4
+9271899,house,house,5000,175000,public,5,,,,,,,False,,204,2
+9271220,house,villa,5030,429500,private,3,good,installed,0,26,,,True,204,810,4
+9269994,house,house,5680,170000,private,3,,,,20,,,False,155,524,3
+9267696,house,exceptional property,5100,730000,private,5,good,installed,0,,,,True,300,1700,4
+9266100,house,house,5590,299000,private,5,good,,,,,,False,155,457,3
+9264203,house,house,5060,289000,private,4,just renovated,hyper equipped,0,36,,,False,250,300,4
+9262734,house,house,5060,249000,private,5,good,semi equipped,0,44,406,,False,160,583,4
+9258607,house,house,5660,149000,private,2,good,installed,,,678,,False,90,748,4
+9257133,house,chalet,5377,22000,private,1,,,,,,,False,30,214,4
+9256046,house,house,5670,100000,private,5,,,,,,,False,,0,2
+9253886,house,house,5140,230000,private,3,to renovate,semi equipped,0,,,,False,156,772,4
+9252602,house,house,5002,199000,private,4,to renovate,,,20,80,,False,135,0,2
+9251103,house,exceptional property,5575,855000,private,13,,,,,,2,False,900,11000,4
+9251005,house,villa,5680,230000,private,4,,,,,,,False,,1199,3
+9248324,house,house,5070,395000,private,3,,,0,,,1,True,281,1880,4
+9246763,house,exceptional property,5372,429000,private,6,to be done up,,0,,,,False,235,16590,4
+9244918,house,house,5570,268000,private,3,,installed,,,,,False,,336,3
+9243031,house,house,5300,160000,public,3,,,,,,,False,,770,4
+9240542,house,apartment block,5500,270000,private,5,to be done up,installed,0,22,,,False,,0,2
+9239670,house,chalet,5377,170000,private,1,as new,hyper equipped,0,,,,False,80,1100,4
+9235974,house,house,5000,350000,private,3,good,,0,30,,,False,160,248,3
+9234720,house,villa,5300,480000,private,3,as new,installed,0,38,4000,,False,267,4800,4
+9233118,house,house,5640,280000,private,3,,,0,16,,,False,120,955,4
+9165936,house,house,5640,245000,private,3,just renovated,installed,,,,,False,183,496,2
+9224472,house,house,5190,295000,private,3,as new,hyper equipped,,54,363,,False,120,425,3
+9222005,house,house,5350,335000,private,4,,,,,,,False,230,655,4
+9220124,house,exceptional property,5000,840000,private,2,,,,,,,False,,12257,4
+9218270,house,house,5080,275000,private,3,to renovate,,,,,,False,164,700,4
+9214794,house,villa,5060,245000,private,2,as new,semi equipped,0,,1075,,False,,0,4
+9211186,house,mixed use building,5580,290000,private,8,to renovate,semi equipped,0,,,,False,711,783,3
+9207389,house,mixed use building,5590,275000,private,3,good,installed,0,,90,,False,300,257,2
+9205260,house,house,5170,199000,private,1,to renovate,usa semi equipped,0,,,,False,55,649,4
+9201763,house,house,5640,90000,private,3,,not installed,0,,,,False,135,340,2
+9199597,house,house,5170,450000,private,5,good,installed,,,,1,True,400,1800,3
+9197099,house,house,5670,120000,private,296,,,,,,,False,,133,3
+9193410,house,house,5564,279000,private,4,good,semi equipped,,,,,False,230,568,4
+8489743,house,house,5001,225000,private,5,good,,0,,,,False,,600,3
+9187075,house,house,5070,235000,private,3,,installed,,,,,False,146,219,3
+9184824,house,house,5002,175000,private,3,to restore,,,,,,False,100,100,3
+8244803,house,chalet,5537,119500,private,3,as new,usa installed,1,,,,False,60,3169,4
+9181032,house,house,5540,395000,private,6,,,,,,,False,,1397,4
+9178106,house,house,5670,70000,private,4,to renovate,not installed,,,,,False,120,226,3
+9173545,house,house,5660,350000,private,7,,,,20,500,,False,300,500,3
+9170146,house,house,5500,139999,private,3,to restore,not installed,0,,,,False,,212,2
+9168217,house,mixed use building,5600,125000,private,9,to renovate,,,,,,False,,0,2
+9166153,house,house,5020,280000,private,3,to be done up,semi equipped,,,,,False,135,968,4
+9161679,house,house,5170,390000,private,3,,installed,0,20,,1,False,180,0,4
+9158518,house,house,5300,159000,private,3,to be done up,,,,,,False,107,260,2
+8732555,house,apartment block,5030,1170000,private,12,as new,installed,,,,,False,540,2350,4
+9148664,house,house,5550,299000,private,5,,installed,,25,,,False,300,964,4
+9148171,house,house,5630,85000,private,2,,semi equipped,0,15,100,,False,128,295,2
+9048622,house,house,5060,139000,private,2,good,,0,,,,False,90,100,2
+9139839,house,apartment block,5550,249000,private,6,,semi equipped,0,40,500,,False,330,885,4
+9134968,house,house,5640,1150000,private,4,as new,hyper equipped,,,,1,True,320,1300,4
+9129980,house,house,5000,249000,private,4,to renovate,not installed,,,,,False,200,590,4
+9126337,house,villa,5310,479000,private,4,as new,hyper equipped,,70,,,False,225,1600,4
+9123684,house,house,5100,225000,private,3,to renovate,installed,0,30,,,False,173,169,3
+9121648,house,house,5081,365000,private,3,as new,,0,,,,False,141,1347,4
+9108942,house,bungalow,5600,47500,private,2,as new,,,,,,False,,303,4
+9106535,house,exceptional property,5550,380000,private,9,as new,hyper equipped,,,,2,False,447,1101,4
+9100008,house,villa,5530,430000,private,5,as new,hyper equipped,0,64,1089,,False,185,1089,4
+9083885,house,house,5030,299999,private,3,as new,semi equipped,1,,40,,False,140,180,3
+9078048,house,house,5101,975000,private,7,,semi equipped,0,,6821,,False,444,7151,4
+9066079,house,house,5575,169000,private,4,to renovate,not installed,0,,,,False,265,440,3
+9053319,house,mixed use building,5020,399000,private,4,just renovated,hyper equipped,,20,,1,True,,302,3
+9026951,house,house,5380,351000,private,3,as new,usa hyper equipped,,,,,False,160,805,3
+8767301,house,exceptional property,5500,800000,private,13,good,installed,1,,,,False,950,5727,4
+9000925,house,house,5190,219000,private,3,as new,installed,,,,,False,,0,2
+8990812,house,apartment block,5500,190000,private,3,good,installed,,,,,False,145,222,3
+8983292,house,house,5555,260593,private,3,as new,installed,,,,,False,,624,4
+8971963,house,house,5570,259000,private,4,good,installed,0,35,,,False,220,930,3
+8964119,house,apartment block,5060,380000,private,7,good,,0,,,,False,300,280,3
+8952833,house,house,5170,249000,private,3,as new,hyper equipped,0,20,,,False,100,847,4
+8718639,house,mansion,5530,175000,private,5,to be done up,installed,0,29,,,False,120,170,3
+8909716,house,exceptional property,5537,1700000,private,13,good,,,,,,True,,0,4
+8864897,house,house,5520,229000,private,3,as new,installed,,,,,False,240,600,4
+8378127,house,apartment block,5530,800000,private,11,good,,,120,,,False,480,600,3
+8773164,house,house,5020,250000,private,3,to renovate,semi equipped,0,4,,,False,156,2260,4
+8726798,house,house,5030,249000,private,7,to renovate,installed,,100,250,,False,250,445,2
+8669216,house,villa,5541,345000,private,5,as new,hyper equipped,,,,1,False,196,1602,4
+8602012,house,house,5070,500000,private,3,,not installed,0,,,,False,215,1361,4
+8414089,house,bungalow,5630,125000,private,2,as new,installed,1,,,,False,57,104,2
+7639338,house,house,5660,795000,private,4,as new,,,,,,False,200,120000,4
+7550917,house,apartment block,5000,790000,private,3,just renovated,not installed,0,,,,False,375,500,4
+9315312,house,house,5060,75000,public,5,,,,,,,False,,150,3
+9314954,house,villa,5020,325000,private,5,good,installed,0,,1400,,False,208,1500,4
+9314081,house,house,5580,135000,private,5,good,semi equipped,0,,130,,False,143,130,2
+9313111,house,apartment block,5100,650000,private,3,good,installed,0,,,,False,,240,4
+9311842,house,house,5550,105000,private,2,,semi equipped,,,,,False,80,299,2
+9311370,house,house,5020,205000,private,2,just renovated,installed,0,,,1,False,100,314,2
+9310454,house,house,5190,259000,private,3,as new,installed,,,,,False,115,1173,3
+9308649,house,house,5150,195000,private,4,to renovate,not installed,0,,,,False,140,328,4
+9307095,house,house,5555,475000,private,5,as new,installed,,,,,False,,6961,4
+9305932,house,house,5580,195000,private,3,,,,,,,False,,5489,4
+9304920,house,house,5190,230000,private,4,good,,,,748,,False,130,820,3
+9303305,house,house,5150,175000,public,3,,,,,,,False,,982,4
+9301479,house,villa,5537,295000,private,5,to renovate,not installed,0,,1703,,False,,1703,4
+9194563,house,villa,5150,325000,private,3,to be done up,semi equipped,0,20,1873,1,False,,1873,4
+9177681,house,house,5000,265000,private,3,to be done up,installed,0,,60,,False,144,130,2
+9298922,house,house,5640,160000,private,4,,,0,29,400,,False,250,451,3
+9298035,house,house,5100,249500,private,4,as new,,,25,,,False,200,130,2
+9135879,house,house,5640,225000,private,4,,,0,,,,False,,0,3
+9296276,house,house,5070,218000,private,3,,,0,50,,,False,189,0,3
+9295803,house,villa,5620,325000,private,7,good,installed,0,,,,False,235,1738,4
+9295214,house,house,5575,270000,private,3,good,installed,0,20,4000,,False,108,4400,4
+9294223,house,house,5190,168000,private,1,good,not installed,0,21,,,False,70,1136,4
+9293570,house,house,5640,269000,private,3,just renovated,installed,0,,,,False,,0,4
+9292053,house,house,5300,299000,private,4,good,hyper equipped,,,,,False,130,1211,4
+9224891,house,bungalow,5580,299000,private,3,as new,semi equipped,0,10,21200,,False,180,3000,4
+9289566,house,house,5377,530000,private,4,,installed,0,49,500,,False,270,900,4
+9288792,house,house,5580,145000,private,2,to be done up,installed,0,,,,False,106,213,2
+9286929,house,house,5580,40000,private,1,good,not installed,0,,,,False,110,118,3
+9284210,house,house,5310,280000,private,4,to renovate,not installed,0,30,600,,False,130,819,4
+9282934,house,house,5590,170000,private,2,good,usa semi equipped,,20,,,False,115,113,3
+9281809,house,house,5020,349000,private,5,,,,25,,1,False,214,1300,4
+9280979,house,house,5640,50000,private,6,as new,hyper equipped,,,,1,False,230,2143,3
+9280136,house,house,5300,320000,private,3,good,installed,0,40,,1,True,200,838,4
+9279221,house,villa,5590,322800,private,4,,,,,709,,False,,780,4
+9277951,house,chalet,5500,45000,private,1,,semi equipped,0,,380,,False,45,420,4
+9277049,house,apartment block,5660,350000,private,2,just renovated,hyper equipped,0,,462,,False,224,572,3
+9276017,house,apartment block,5300,555000,private,8,just renovated,installed,,,,,False,245,838,4
+9197753,house,house,5542,129000,private,2,just renovated,installed,,,,1,False,62,45,3
+9273378,house,exceptional property,5330,640000,private,6,good,installed,1,,,1,False,500,10000,4
+9271899,house,house,5000,175000,public,5,,,,,,,False,,204,2
+9271220,house,villa,5030,429500,private,3,good,installed,0,26,,,True,204,810,4
+9269994,house,house,5680,170000,private,3,,,,20,,,False,155,524,3
+9267696,house,exceptional property,5100,730000,private,5,good,installed,0,,,,True,300,1700,4
+9266100,house,house,5590,299000,private,5,good,,,,,,False,155,457,3
+9264203,house,house,5060,289000,private,4,just renovated,hyper equipped,0,36,,,False,250,300,4
+9262734,house,house,5060,249000,private,5,good,semi equipped,0,44,406,,False,160,583,4
+9258607,house,house,5660,149000,private,2,good,installed,,,678,,False,90,748,4
+9257133,house,chalet,5377,22000,private,1,,,,,,,False,30,214,4
+9256046,house,house,5670,100000,private,5,,,,,,,False,,0,2
+9253886,house,house,5140,230000,private,3,to renovate,semi equipped,0,,,,False,156,772,4
+9252602,house,house,5002,199000,private,4,to renovate,,,20,80,,False,135,0,2
+9251103,house,exceptional property,5575,855000,private,13,,,,,,2,False,900,11000,4
+9251005,house,villa,5680,230000,private,4,,,,,,,False,,1199,3
+9248324,house,house,5070,395000,private,3,,,0,,,1,True,281,1880,4
+9246763,house,exceptional property,5372,429000,private,6,to be done up,,0,,,,False,235,16590,4
+9244918,house,house,5570,268000,private,3,,installed,,,,,False,,336,3
+9243031,house,house,5300,160000,public,3,,,,,,,False,,770,4
+9240542,house,apartment block,5500,270000,private,5,to be done up,installed,0,22,,,False,,0,2
+9239670,house,chalet,5377,170000,private,1,as new,hyper equipped,0,,,,False,80,1100,4
+9235974,house,house,5000,350000,private,3,good,,0,30,,,False,160,248,3
+9234720,house,villa,5300,480000,private,3,as new,installed,0,38,4000,,False,267,4800,4
+9233118,house,house,5640,280000,private,3,,,0,16,,,False,120,955,4
+9165936,house,house,5640,245000,private,3,just renovated,installed,,,,,False,183,496,2
+9224472,house,house,5190,295000,private,3,as new,hyper equipped,,54,363,,False,120,425,3
+9222005,house,house,5350,335000,private,4,,,,,,,False,230,655,4
+9220124,house,exceptional property,5000,840000,private,2,,,,,,,False,,12257,4
+9218270,house,house,5080,275000,private,3,to renovate,,,,,,False,164,700,4
+9214794,house,villa,5060,245000,private,2,as new,semi equipped,0,,1075,,False,,0,4
+9211186,house,mixed use building,5580,290000,private,8,to renovate,semi equipped,0,,,,False,711,783,3
+9207389,house,mixed use building,5590,275000,private,3,good,installed,0,,90,,False,300,257,2
+9205260,house,house,5170,199000,private,1,to renovate,usa semi equipped,0,,,,False,55,649,4
+9201763,house,house,5640,90000,private,3,,not installed,0,,,,False,135,340,2
+9199597,house,house,5170,450000,private,5,good,installed,,,,1,True,400,1800,3
+9197099,house,house,5670,120000,private,296,,,,,,,False,,133,3
+9193410,house,house,5564,279000,private,4,good,semi equipped,,,,,False,230,568,4
+8489743,house,house,5001,225000,private,5,good,,0,,,,False,,600,3
+9187075,house,house,5070,235000,private,3,,installed,,,,,False,146,219,3
+9184824,house,house,5002,175000,private,3,to restore,,,,,,False,100,100,3
+8244803,house,chalet,5537,119500,private,3,as new,usa installed,1,,,,False,60,3169,4
+9181032,house,house,5540,395000,private,6,,,,,,,False,,1397,4
+9178106,house,house,5670,70000,private,4,to renovate,not installed,,,,,False,120,226,3
+9173545,house,house,5660,350000,private,7,,,,20,500,,False,300,500,3
+9170146,house,house,5500,139999,private,3,to restore,not installed,0,,,,False,,212,2
+9168217,house,mixed use building,5600,125000,private,9,to renovate,,,,,,False,,0,2
+9166153,house,house,5020,280000,private,3,to be done up,semi equipped,,,,,False,135,968,4
+9161679,house,house,5170,390000,private,3,,installed,0,20,,1,False,180,0,4
+9158518,house,house,5300,159000,private,3,to be done up,,,,,,False,107,260,2
+8732555,house,apartment block,5030,1170000,private,12,as new,installed,,,,,False,540,2350,4
+9148664,house,house,5550,299000,private,5,,installed,,25,,,False,300,964,4
+9148171,house,house,5630,85000,private,2,,semi equipped,0,15,100,,False,128,295,2
+9048622,house,house,5060,139000,private,2,good,,0,,,,False,90,100,2
+9139839,house,apartment block,5550,249000,private,6,,semi equipped,0,40,500,,False,330,885,4
+9134968,house,house,5640,1150000,private,4,as new,hyper equipped,,,,1,True,320,1300,4
+9129980,house,house,5000,249000,private,4,to renovate,not installed,,,,,False,200,590,4
+9126337,house,villa,5310,479000,private,4,as new,hyper equipped,,70,,,False,225,1600,4
+9123684,house,house,5100,225000,private,3,to renovate,installed,0,30,,,False,173,169,3
+9121648,house,house,5081,365000,private,3,as new,,0,,,,False,141,1347,4
+9108942,house,bungalow,5600,47500,private,2,as new,,,,,,False,,303,4
+9106535,house,exceptional property,5550,380000,private,9,as new,hyper equipped,,,,2,False,447,1101,4
+9100008,house,villa,5530,430000,private,5,as new,hyper equipped,0,64,1089,,False,185,1089,4
+9083885,house,house,5030,299999,private,3,as new,semi equipped,1,,40,,False,140,180,3
+9078048,house,house,5101,975000,private,7,,semi equipped,0,,6821,,False,444,7151,4
+9066079,house,house,5575,169000,private,4,to renovate,not installed,0,,,,False,265,440,3
+9053319,house,mixed use building,5020,399000,private,4,just renovated,hyper equipped,,20,,1,True,,302,3
+9026951,house,house,5380,351000,private,3,as new,usa hyper equipped,,,,,False,160,805,3
+8767301,house,exceptional property,5500,800000,private,13,good,installed,1,,,,False,950,5727,4
+9000925,house,house,5190,219000,private,3,as new,installed,,,,,False,,0,2
+8990812,house,apartment block,5500,190000,private,3,good,installed,,,,,False,145,222,3
+8983292,house,house,5555,260593,private,3,as new,installed,,,,,False,,624,4
+8971963,house,house,5570,259000,private,4,good,installed,0,35,,,False,220,930,3
+8964119,house,apartment block,5060,380000,private,7,good,,0,,,,False,300,280,3
+8952833,house,house,5170,249000,private,3,as new,hyper equipped,0,20,,,False,100,847,4
+8718639,house,mansion,5530,175000,private,5,to be done up,installed,0,29,,,False,120,170,3
+8909716,house,exceptional property,5537,1700000,private,13,good,,,,,,True,,0,4
+8864897,house,house,5520,229000,private,3,as new,installed,,,,,False,240,600,4
+8378127,house,apartment block,5530,800000,private,11,good,,,120,,,False,480,600,3
+8773164,house,house,5020,250000,private,3,to renovate,semi equipped,0,4,,,False,156,2260,4
+8726798,house,house,5030,249000,private,7,to renovate,installed,,100,250,,False,250,445,2
+8669216,house,villa,5541,345000,private,5,as new,hyper equipped,,,,1,False,196,1602,4
+8602012,house,house,5070,500000,private,3,,not installed,0,,,,False,215,1361,4
+8414089,house,bungalow,5630,125000,private,2,as new,installed,1,,,,False,57,104,2
+7639338,house,house,5660,795000,private,4,as new,,,,,,False,200,120000,4
+7550917,house,apartment block,5000,790000,private,3,just renovated,not installed,0,,,,False,375,500,4
+9316553,house,house,2610,575000,private,3,,hyper equipped,0,20,235,,False,210,440,3
+9316328,house,house,2170,245000,private,2,good,hyper equipped,,,60,,False,103,127,2
+9315775,house,villa,2930,545000,private,3,good,installed,0,20,540,,False,207,717,4
+9198331,house,other property,2940,244000,private,2,,installed,0,,,,False,84,0,3
+9314857,house,house,2900,299000,private,2,just renovated,installed,,,,1,False,145,168,3
+9314297,house,house,2250,335000,private,2,good,,0,29,,,False,145,168,2
+9313992,house,house,2381,319000,private,3,as new,installed,0,27,255,,False,140,551,3
+9313579,house,house,2600,518000,private,4,to renovate,,,,,,False,260,140,2
+9312871,house,house,2850,269000,private,3,just renovated,installed,,17,,,False,170,95,2
+9312661,house,mixed use building,2300,419000,private,3,to be done up,,0,,,,False,,2298,4
+9312395,house,house,2960,399000,private,3,just renovated,installed,,,,,False,171,986,4
+8211928,house,house,2880,649000,private,3,,,0,,,,False,257,1515,4
+9311320,house,house,2500,445000,private,4,just renovated,installed,0,,500,,False,200,650,4
+9311032,house,house,2170,349000,private,4,as new,hyper equipped,0,35,35,,False,193,91,2
+9310796,house,house,2610,495000,private,3,as new,installed,,,170,1,False,165,267,3
+9310473,house,house,2560,297000,private,3,,,,,,,False,170,527,3
+9310113,house,villa,2630,595000,private,3,good,installed,0,,541,1,False,312,799,4
+9309925,house,house,2547,425000,private,3,as new,installed,0,26,155,,False,151,400,3
+9309725,house,villa,2235,650000,private,3,as new,hyper equipped,0,,490,,False,255,882,4
+9309398,house,house,2018,519000,private,2,as new,installed,0,,,,False,168,87,2
+9309227,house,mixed use building,2018,169000,private,1,good,installed,0,1,,,False,41,0,2
+9308850,house,house,2580,275000,private,4,to renovate,installed,0,,180,,False,216,315,2
+9308574,house,villa,2490,649000,private,3,good,installed,0,,,,True,280,1219,4
+9308419,house,house,2860,567500,private,5,good,usa hyper equipped,0,20,1524,,False,531,1744,4
+9308146,house,house,2890,230000,private,3,to be done up,,,,,,False,,200,2
+9307394,house,mansion,2610,489000,private,4,good,installed,,,,,False,200,90,2
+9307278,house,house,2470,319000,private,3,good,,0,,,,False,,1483,4
+9306942,house,town house,2640,369000,private,3,good,hyper equipped,0,,,,False,154,169,2
+9306608,house,house,2812,310000,private,2,just renovated,hyper equipped,0,,,,False,127,60,3
+9191893,house,exceptional property,2040,349000,private,2,,hyper equipped,0,21,,1,False,200,120,2
+9306188,house,house,2440,249000,private,4,good,installed,0,,,,False,155,383,3
+9305868,house,house,2830,275200,private,3,,not installed,0,24,,,False,153,218,3
+9305575,house,town house,2170,249000,private,3,good,installed,0,,,1,False,130,80,2
+9305246,house,house,2250,695000,private,4,,usa installed,0,45,,,False,300,864,4
+9304459,house,house,2230,650000,private,4,good,installed,0,,,,False,388,2100,4
+9304142,house,house,2660,265000,private,3,good,installed,,,,,False,137,90,1
+9303800,house,house,2340,375000,private,3,as new,hyper equipped,,40,157,,False,140,318,3
+9303343,house,house,2280,329500,private,3,,,,,,,False,,798,4
+9205179,house,house,2170,299900,private,4,good,installed,0,13,42,,False,187,122,2
+9302319,house,house,2800,324000,private,2,just renovated,installed,0,4,125,,False,130,200,2
+9302174,house,house,2950,334000,private,4,good,installed,,24,120,,False,178,239,2
+9301450,house,house,2440,334000,private,191,good,,0,,,,False,,342,3
+9300847,house,house,2530,198000,private,3,to renovate,,0,,,,False,,78,2
+9299679,house,town house,2850,209000,private,3,to renovate,installed,0,6,,,False,150,66,2
+9245929,house,house,2930,895000,private,3,as new,installed,0,,,1,False,,1621,4
+9298586,house,house,2590,425000,private,3,,usa installed,0,21,270,,False,275,393,3
+9298370,house,town house,2530,405000,private,3,good,,0,18,100,,False,160,208,2
+9297963,house,house,2500,695000,private,4,,,,,,,False,250,95,2
+9297796,house,house,2570,485000,private,6,as new,hyper equipped,0,,75,,False,360,240,2
+9297656,house,house,2200,265000,private,3,to renovate,,,,,,False,130,270,3
+9297458,house,house,2640,365000,private,4,to be done up,semi equipped,0,,73,1,False,169,174,2
+9297147,house,house,2800,289000,private,3,just renovated,hyper equipped,0,10,,,False,148,81,2
+9296843,house,house,2880,339000,private,3,good,installed,0,12,,,False,215,250,2
+9296616,house,house,2560,312000,private,3,as new,installed,0,,,,False,126,0,4
+9296428,house,house,2610,393000,private,3,good,installed,,,,,False,150,155,3
+9296127,house,mansion,2140,468000,private,4,just renovated,hyper equipped,,,,,False,280,91,1
+9296048,house,house,2430,265000,private,3,good,,,,,,False,150,364,4
+9295783,house,town house,2630,349000,private,4,,installed,0,,,,False,216,192,2
+9295555,house,house,2300,155000,public,2,,,,,,,False,89,0,2
+9295241,house,house,2800,395000,private,3,as new,installed,0,25,250,,False,139,491,3
+9295034,house,house,2490,379000,private,4,good,usa hyper equipped,1,,,,False,145,670,4
+9294270,house,house,2260,420000,private,4,good,installed,0,20,145,,False,217,336,3
+9293456,house,house,2550,695000,private,3,as new,hyper equipped,,,,1,True,267,605,3
+9293222,house,apartment block,2100,264000,private,3,,installed,,,,,False,135,45,2
+9293020,house,villa,2550,950000,private,6,as new,hyper equipped,,,1760,,False,355,2307,3
+9292510,house,house,2650,269000,private,3,to be done up,semi equipped,0,12,,,False,135,162,2
+9292092,house,house,2990,300000,public,3,,installed,,,,,False,192,9621,4
+9291860,house,house,2600,219000,private,3,to renovate,,,,,,False,100,215,2
+9291568,house,mixed use building,2460,625000,private,4,good,hyper equipped,0,30,2500,,False,615,3860,4
+9291051,house,villa,2970,675000,private,4,to be done up,semi equipped,0,,2000,,False,183,3060,4
+9290841,house,house,2540,669000,private,5,,semi equipped,0,,804,,True,333,1218,4
+9289814,house,apartment block,2018,1250000,private,12,to be done up,,,,,,False,,233,2
+9289528,house,apartment block,2170,455000,private,7,good,,0,,,,False,288,177,2
+9289184,house,house,2860,299000,private,3,good,,,16,96,,False,,225,2
+9288890,house,house,2200,135000,public,4,,,,,,,False,194,708,4
+9288813,house,house,2800,350000,private,2,good,,0,,,,False,223,314,2
+9288688,house,house,2880,555000,private,4,as new,hyper equipped,,15,,,False,300,491,3
+9228372,house,house,2570,469000,private,4,,hyper equipped,0,20,110,,False,265,320,3
+9287459,house,house,2900,160000,public,2,,,,,,,False,54,0,2
+9287210,house,house,2140,339000,private,4,just renovated,usa hyper equipped,0,6,12,,False,151,79,2
+9286954,house,house,2830,289000,private,3,good,installed,0,40,,,False,114,85,2
+9286547,house,house,2220,436100,private,3,as new,hyper equipped,,,,,False,217,993,4
+9286313,house,house,2800,95000,public,3,,,,,,,False,,142,2
+9286136,house,house,2547,325000,private,4,to renovate,not installed,0,,,,False,240,612,3
+9285838,house,house,2360,418000,private,4,as new,hyper equipped,,,,,False,288,220,3
+9285366,house,town house,2600,519000,private,3,as new,installed,,15,,,False,146,63,1
+9284858,house,house,2360,450000,private,3,,installed,,,,,False,222,1501,4
+9284606,house,house,2450,215000,private,3,,hyper equipped,,20,,,False,137,140,2
+9284127,house,house,2180,239000,private,2,to be done up,semi equipped,0,,70,,False,137,193,2
+9283966,house,house,2540,420000,private,3,,,,22,,,False,161,301,3
+9283581,house,house,2600,399000,private,5,to be done up,,,,,,False,,114,2
+9282878,house,house,2350,395000,private,3,good,,0,,,,False,175,665,4
+9281010,house,house,2800,265000,private,3,,hyper equipped,,8,,,False,96,44,1
+9280605,house,house,2900,279000,private,3,to be done up,semi equipped,0,14,,,False,155,0,2
+9279878,house,house,2400,285000,private,4,good,semi equipped,0,,,,False,160,1300,4
+9279665,house,house,2830,429000,private,4,just renovated,usa hyper equipped,,,,,False,250,215,2
+9253840,house,villa,2560,629000,private,3,as new,hyper equipped,,70,,,False,220,1539,4
+9278882,house,house,2220,390000,private,3,as new,,0,,,,False,203,331,3
+9096942,house,house,2260,275000,private,4,,usa hyper equipped,,,,,False,210,1294,4
+9265843,house,house,2060,148000,private,2,to renovate,,0,,,,False,70,37,2
+9277215,house,house,2000,345000,private,1,as new,installed,,,,,False,90,90,2
+9276643,house,town house,2630,437000,private,4,as new,hyper equipped,,,150,,False,192,258,2
+9276488,house,house,2400,419000,private,4,,,,,,,False,165,1391,4
+9275982,house,villa,2382,765000,private,5,as new,installed,0,,,,True,,1175,4
+9275536,house,house,2470,377000,private,4,as new,installed,0,,,,False,164,396,3
+9275234,house,house,2060,345000,private,3,as new,,0,4,,,False,102,102,2
+9274819,house,villa,2610,542500,public,3,,,,,,,False,,915,4
+9274579,house,house,2220,338000,private,3,good,installed,0,,360,,False,151,832,4
+9274108,house,house,2300,310000,private,3,as new,installed,,,185,,False,164,272,3
+9273433,house,house,2100,249000,private,3,good,semi equipped,0,,85,,False,157,186,2
+9273079,house,house,2890,225000,private,4,to be done up,hyper equipped,,35,,,False,,200,2
+9272562,house,house,2845,386500,private,3,as new,,0,36,132,,False,150,321,3
+9272289,house,house,2960,535000,private,4,,,0,,,,False,250,830,4
+9271783,house,house,2830,370000,private,3,good,,0,18,,,False,161,308,3
+9270477,house,house,2627,425000,private,4,as new,installed,0,,50,,False,180,170,3
+9270050,house,house,2660,214000,private,2,just renovated,installed,,,85,,False,80,150,2
+9268902,house,manor house,2360,850000,private,3,good,installed,0,,,,False,284,20000,4
+9268064,house,house,2800,264000,private,3,good,installed,0,,88,,False,143,160,2
+9184798,house,house,2100,325000,private,7,just renovated,installed,0,20,,,False,310,144,2
+9266623,house,house,2220,263000,private,2,to renovate,semi equipped,0,,,,False,144,2417,4
+9266206,house,house,2480,419000,private,4,,installed,0,20,,,False,228,716,4
+9264700,house,house,2880,349000,private,4,just renovated,installed,0,,20,,False,190,140,3
+9264563,house,house,2100,315000,private,3,to be done up,installed,,,108,,False,147,190,3
+9264201,house,house,2560,299000,private,3,as new,installed,,,,,False,145,219,1
+9264006,house,mansion,2610,433000,private,3,,hyper equipped,,,,,False,135,135,2
+9263446,house,house,2850,265000,private,5,good,installed,0,,,,False,190,180,2
+9263209,house,house,2840,419000,private,4,just renovated,installed,,50,100,2,False,232,300,3
+9262762,house,house,2530,449000,private,3,as new,installed,,,,,False,160,141,2
+9262523,house,house,2370,160000,public,3,,,,,,,False,190,291,2
+9195799,house,house,2900,329000,private,4,good,installed,,,150,,False,150,255,2
+9261235,house,villa,2390,895000,private,3,as new,hyper equipped,0,,,,True,300,1500,4
+9260891,house,house,2870,360000,private,3,just renovated,,0,,,,False,,936,4
+9155584,house,house,2560,1450000,private,4,as new,,,,,1,True,630,3569,4
+9259564,house,house,2260,265000,private,3,,,,,,,False,175,740,4
+9258733,house,house,2320,419000,private,4,good,,0,,317,,False,206,485,3
+9059814,house,house,2060,210000,private,3,good,installed,0,,10,,False,113,69,2
+9257400,house,villa,2400,425000,private,4,good,installed,,,,,False,300,1350,4
+9256863,house,house,2381,475000,private,6,,,,,,,False,310,1043,4
+9256588,house,house,2850,395000,private,6,good,hyper equipped,0,,,,False,248,325,2
+9256043,house,house,2400,115000,public,3,,,,,,,False,147,298,3
+9255628,house,town house,2100,565000,private,3,as new,hyper equipped,0,,70,1,False,272,209,2
+9254697,house,house,2480,319000,private,7,,,,,,,False,,400,4
+9254274,house,house,2980,305770,private,3,,,,,,,False,,0,3
+9254114,house,house,2450,309000,private,3,,installed,0,15,,,False,155,343,3
+9253134,house,house,2018,875000,private,5,just renovated,hyper equipped,,,200,,False,300,300,2
+9252088,house,house,2570,297000,private,2,,installed,0,12,123,,False,163,209,2
+9249116,house,exceptional property,2290,325000,private,3,to renovate,,0,,,,False,165,1001,4
+9251102,house,villa,2980,729000,private,4,as new,hyper equipped,,,,2,False,225,1174,4
+9250726,house,house,2800,287000,private,2,to be done up,,0,,20,,False,104,151,2
+9250290,house,house,2530,440000,private,5,just renovated,hyper equipped,0,47,547,,False,269,755,2
+9249833,house,house,2990,434055,private,4,as new,,,,,,False,187,450,3
+9249400,house,town house,2170,435000,private,4,good,hyper equipped,0,,127,1,False,245,302,3
+9249227,house,house,2200,349000,private,4,good,hyper equipped,0,,,,False,171,619,4
+9249200,house,mixed use building,2200,225000,private,2,good,hyper equipped,0,,,,False,201,71,2
+9249154,house,house,2340,250000,private,3,,,0,,,,False,119,655,4
+9249113,house,exceptional property,2288,439000,private,4,to be done up,installed,0,,,,False,219,1136,4
+9249070,house,house,2220,374000,private,2,to be done up,semi equipped,0,18,,,False,180,801,4
+9248736,house,house,2230,399000,private,2,,hyper equipped,,15,,,False,185,1132,4
+9248287,house,house,2260,365000,private,3,good,installed,0,,,,False,191,557,4
+9247327,house,house,2800,108000,public,2,,,,,,,False,,85,2
+9246813,house,house,2000,1350000,private,5,,,,,82,,False,340,208,2
+9246517,house,house,2140,350000,private,4,just renovated,installed,0,,,,False,160,40,2
+9246148,house,house,2940,379000,private,3,good,installed,0,25,100,,False,150,225,2
+9245520,house,house,2060,150000,public,5,,,,,,,False,240,60,2
+9217731,house,house,2660,259000,private,2,good,installed,0,,90,,False,138,180,2
+9244309,house,house,2040,350000,private,4,as new,installed,0,,,,False,180,271,3
+9244034,house,house,2270,120000,public,3,,,,,,,False,,276,3
+9242584,house,house,2630,325000,private,3,to renovate,,,,,,False,115,283,3
+9242315,house,house,2300,319000,private,4,as new,installed,,,125,,False,135,211,3
+9241652,house,house,2560,324000,private,3,,installed,0,11,30,,False,196,126,2
+9241381,house,house,2900,395000,private,2,,installed,0,14,,,False,133,50,2
+9240801,house,house,2260,125000,public,3,,,,,,,False,109,289,3
+9240211,house,house,2060,239000,private,2,,installed,0,,8,,False,114,58,2
+9238834,house,house,2845,378800,private,3,as new,hyper equipped,,,,,False,144,476,3
+9155500,house,apartment block,2620,339000,private,6,good,installed,,14,,,False,335,115,2
+9237632,house,house,2470,695000,private,4,,,0,,,,False,,15000,3
+9236503,house,house,2400,385000,private,4,,,,,,,False,175,400,3
+9236091,house,house,2100,259000,private,5,good,semi equipped,0,15,15,,False,185,145,2
+9235708,house,town house,2660,347500,private,4,good,installed,,,,,False,195,0,2
+9235034,house,house,2300,125000,public,3,to renovate,,,,,,False,128,133,2
+9007033,house,mixed use building,2845,425000,private,5,as new,usa hyper equipped,,32,,,False,235,400,2
+8985758,house,apartment block,2980,638000,private,260,as new,installed,0,,,,False,,303,3
+9232755,house,house,2620,399000,private,3,as new,usa hyper equipped,,,,,False,,228,3
+9232191,house,mixed use building,2860,372000,private,4,to renovate,installed,0,45,67,1,False,437,350,2
+9231776,house,villa,2920,250000,public,4,to renovate,,,,,,False,350,2182,4
+9230802,house,house,2235,278530,private,4,as new,hyper equipped,0,,,,False,160,606,4
+9229033,house,house,2170,175500,public,3,,not installed,,,,,False,141,275,2
+9228546,house,apartment block,2018,335000,private,4,to be done up,hyper equipped,0,,,,False,162,50,2
+9226373,house,house,2890,205000,private,3,good,not installed,0,,82,,False,166,155,2
+9224741,house,house,2230,299000,private,3,just renovated,usa hyper equipped,,,,,False,120,713,4
+9224151,house,house,2060,269000,private,3,just renovated,,0,,,,False,115,41,2
+9222714,house,house,2930,1090000,private,8,good,installed,0,,,,False,606,5749,4
+9221715,house,house,2060,379000,private,5,to renovate,installed,0,4,45,3,False,240,140,2
+9220236,house,house,2100,429000,private,3,as new,hyper equipped,,,91,,False,140,248,3
+9171008,house,house,2880,549000,private,3,good,installed,,,,,False,280,540,4
+9218751,house,house,2970,359000,private,4,,,,,,,False,165,821,3
+7924054,house,house,2490,175000,private,5,,,,,,,False,330,230,2
+9216532,house,mansion,2600,335000,public,6,,,,,,,False,,126,2
+9215269,house,house,2200,290000,private,3,to renovate,,0,,1000,,False,200,1250,4
+9183856,house,town house,2650,349000,private,3,,installed,,12,300,,False,145,369,2
+9211423,house,house,2930,445000,private,4,good,installed,0,,,,False,135,292,3
+9209565,house,house,2100,399000,private,3,good,installed,0,,65,,False,211,0,2
+9208613,house,house,2018,685000,private,4,as new,hyper equipped,0,50,50,,False,265,61,2
+9207154,house,house,2620,175000,private,5,to renovate,,0,,200,,False,165,292,3
+9206063,house,house,2400,149000,private,2,,,0,,,,False,,193,2
+9205219,house,house,2627,369000,private,4,,hyper equipped,,,,,False,200,350,3
+9204117,house,house,2250,334000,private,3,,installed,0,14,,,False,176,269,2
+9203640,house,house,2660,295000,private,4,good,usa hyper equipped,0,12,100,,False,,196,2
+9203355,house,house,2300,295000,private,3,to be done up,not installed,0,,120,,False,200,390,3
+9203063,house,house,2220,745000,private,4,just renovated,hyper equipped,0,26,7000,,False,385,7524,4
+9202445,house,house,2530,225000,private,4,to renovate,,0,,,,False,152,157,2
+9146777,house,country cottage,2300,398000,private,3,to renovate,,0,,,,False,341,9832,4
+9201006,house,villa,2230,649000,private,5,good,,0,160,1200,,True,284,2737,4
+8863992,house,other property,2060,1095000,private,15,as new,,0,,,,False,,0,2
+9197018,house,house,2845,240000,private,2,,installed,,,,,False,147,174,2
+9195990,house,house,2940,269000,private,3,good,installed,0,,,1,False,,165,2
+9194881,house,house,2800,995000,private,2,as new,usa hyper equipped,,40,,,False,266,92,2
+9192864,house,house,2400,498800,private,4,,,,,,,False,280,648,4
+9190702,house,house,2100,295000,private,3,good,usa hyper equipped,,35,,,False,170,196,2
+9139911,house,house,2940,349000,private,5,good,,,,,,False,,210,2
+9113481,house,house,2880,185000,private,2,,semi equipped,,,,,False,93,116,3
+9184373,house,house,2030,120000,public,4,,,,,,,False,,90,2
+9183292,house,manor house,2930,375000,private,3,to renovate,,0,,,,False,,585,3
+9181131,house,house,2440,227436,private,2,,hyper equipped,,,37,,False,97,0,2
+9179423,house,house,2800,380000,private,3,good,installed,0,,,,False,135,0,2
+9178099,house,apartment block,2600,1650000,private,9,as new,hyper equipped,,,,,False,,205,2
+9176613,house,house,2222,295000,private,3,good,installed,0,,,,False,130,520,3
+9174870,house,house,2430,239000,private,3,,hyper equipped,0,,,,False,125,623,3
+9173697,house,apartment block,2400,495000,private,6,just renovated,installed,0,30,9,,False,300,127,2
+9171780,house,house,2870,489000,private,4,to renovate,semi equipped,,30,,1,False,264,1838,4
+9170686,house,exceptional property,2220,725000,private,9,as new,installed,0,,,1,False,580,3311,4
+9169951,house,house,2650,650000,private,4,as new,usa hyper equipped,0,25,490,,False,330,628,3
+9164387,house,house,2880,410000,private,3,,installed,,,,,False,160,320,3
+9166495,house,house,2870,1298000,private,7,good,installed,0,,,1,False,670,17441,4
+9164619,house,villa,2390,675000,private,6,as new,hyper equipped,0,,,,False,,1365,4
+9162819,house,house,2140,229000,private,2,to be done up,installed,0,,,,False,135,0,3
+9160797,house,house,2100,289000,private,2,good,installed,,,125,,False,140,200,2
+9159187,house,exceptional property,2930,745000,private,4,as new,installed,0,13,,1,False,286,286,2
+9157258,house,apartment block,2300,875000,private,6,,,0,,,,False,,0,2
+9155136,house,apartment block,2060,999000,private,8,as new,usa hyper equipped,,,,,False,430,86,2
+9153673,house,house,2060,325000,private,4,good,installed,0,,,,False,240,100,2
+9151599,house,mixed use building,2800,1500000,private,973,good,semi equipped,0,,,,False,,329,3
+9046999,house,house,2500,265000,private,3,just renovated,installed,,,,,False,110,105,2
+9146513,house,house,2060,399000,private,4,good,,1,20,,,False,257,0,2
+9145021,house,villa,2650,3900000,private,6,as new,,1,,,1,True,750,8008,4
+9143022,house,villa,2320,1150000,private,4,as new,installed,0,,,1,True,834,1776,4
+9139592,house,exceptional property,2018,1680000,private,8,,hyper equipped,0,,159,,False,817,336,2
+9138159,house,mixed use building,2018,29000,private,11,,,0,,,,False,,0,2
+9130515,house,house,2250,349000,private,4,good,installed,0,,,,False,141,652,3
+9128356,house,house,2170,369000,private,4,as new,hyper equipped,,,75,,False,145,166,2
+9125247,house,house,2390,1150000,private,5,to be done up,,,,,,False,300,20041,4
+9123960,house,house,2550,319000,private,3,good,,0,,,,False,155,115,2
+9120664,house,house,2580,344000,private,3,as new,installed,0,24,,,False,224,551,3
+9115596,house,mansion,2600,895000,private,6,,,,,110,,False,312,215,2
+9108569,house,house,2812,428500,private,3,as new,,,46,,,False,174,60,2
+9104715,house,villa,2260,715000,private,3,as new,,,,,,False,,975,4
+8981437,house,house,2490,199000,private,3,,,,,,,False,,887,3
+9091541,house,house,2980,475000,private,4,good,installed,0,,,,False,287,468,4
+9089102,house,house,2400,399000,private,5,as new,,0,,,,False,260,1503,4
+9086662,house,house,2960,449000,private,2,as new,installed,0,8,57,,False,140,3974,3
+9086073,house,house,2940,335000,private,3,just renovated,,0,,130,,False,220,324,3
+9025742,house,manor house,2360,429000,private,2,,,0,,,,False,180,3138,4
+9073873,house,villa,2920,1095000,private,5,good,usa hyper equipped,0,80,1535,,True,438,1973,4
+9068549,house,house,2470,519000,private,3,to be done up,,0,,,,False,300,2392,4
+9060414,house,house,2250,299760,private,4,,installed,0,32,54,,False,168,0,2
+9056857,house,house,2560,450200,private,3,as new,hyper equipped,,,,,False,156,538,3
+9051678,house,house,2560,362700,private,3,as new,hyper equipped,,,,,False,168,278,3
+9047883,house,house,2880,455000,private,4,as new,hyper equipped,,,,,False,140,199,3
+9043370,house,house,2640,373300,private,2,to be done up,installed,0,,86,,False,182,252,3
+9038597,house,house,2220,369000,private,3,good,installed,0,,,,False,206,1800,4
+9032404,house,house,2170,373000,private,3,good,installed,,,,,False,180,130,3
+9024878,house,house,2220,394500,private,3,as new,,0,,,,False,189,379,3
+9022083,house,villa,2930,1395000,private,4,as new,installed,,,2015,,False,411,2245,4
+9018833,house,house,2830,275200,private,3,as new,,,,65,,False,153,218,2
+8997452,house,mansion,2000,575000,private,4,good,installed,0,,,1,False,354,0,2
+8992374,house,mixed use building,2000,545000,private,5,good,installed,,9,,,False,327,112,2
+8985720,house,house,2400,458000,private,3,as new,hyper equipped,,,,,False,177,746,4
+8968076,house,house,2230,249000,private,2,as new,installed,1,,,1,True,80,833,4
+8966112,house,house,2300,775000,private,5,,installed,,,,,True,500,4067,4
+8958284,house,villa,2610,1620000,private,6,good,hyper equipped,0,,,,False,660,1352,4
+8953133,house,house,2900,399000,private,3,just renovated,semi equipped,0,22,193,,False,176,0,2
+8942315,house,house,2600,539000,private,4,to be done up,installed,,,,,False,289,238,3
+8937838,house,house,2300,249000,private,3,good,installed,0,29,,,False,141,87,3
+8920349,house,villa,2360,2750000,private,1000,as new,,0,,,,False,,2013,4
+8914103,house,house,2491,195000,private,4,to renovate,semi equipped,0,,,,False,151,657,2
+8905309,house,house,2650,342000,private,4,,installed,0,11,47,,False,172,102,2
+8881995,house,house,2650,425000,private,2,as new,,,19,,,False,127,0,3
+8877791,house,villa,2920,1295000,private,5,good,installed,0,48,3000,,False,326,3000,4
+8856313,house,house,2590,335000,private,2,good,installed,0,,30,1,False,200,210,2
+8847993,house,villa,2970,1195000,private,4,good,,0,,,,False,485,3200,4
+8743981,house,house,2800,1250000,private,5,,installed,0,,,,False,178,3489,3
+8704880,house,villa,2900,1385000,private,5,as new,,0,,,,False,400,2170,4
+8672163,house,house,2800,440900,private,3,as new,hyper equipped,,,,,False,208,578,3
+8651950,house,house,2870,387500,private,3,,,,,,,False,141,590,3
+8610093,house,villa,2970,1980000,private,4,as new,hyper equipped,0,,3016,1,False,700,3016,4
+8536400,house,villa,2222,795000,private,5,as new,hyper equipped,0,,,,False,706,3351,4
+8466961,house,apartment block,2060,1349000,private,385,,,,,,,False,,215,2
+8372654,house,villa,2500,1285000,private,6,as new,hyper equipped,1,66,,,True,641,966,4
+8139679,house,apartment block,2000,1275000,private,16,as new,,,,,,False,600,0,2
+7845942,house,house,2845,376400,private,3,,installed,0,,,,False,108,476,3
+7549105,house,town house,2850,363600,private,4,as new,hyper equipped,,,,,False,216,155,2
+6872887,house,apartment block,2830,275000,private,3,,,0,,75,,False,134,250,3
+9316492,house,house,9881,345000,private,4,as new,hyper equipped,0,14,35,,False,160,153,2
+9316370,house,house,9255,340000,private,3,just renovated,usa hyper equipped,0,,,,False,138,420,3
+9315405,house,house,9031,387500,private,3,just renovated,,0,,,,False,,194,2
+9314957,house,house,9900,129000,private,2,to renovate,semi equipped,0,,,,False,96,111,4
+9314733,house,house,9260,292000,private,3,,installed,,,,,False,171,3095,3
+9314498,house,house,9600,330000,private,4,just renovated,installed,0,,45,1,False,,234,2
+9314154,house,house,9270,279000,private,1,as new,hyper equipped,0,20,330,,False,122,422,2
+9313770,house,house,9500,139000,private,3,to renovate,,0,,300,,False,150,474,3
+9312977,house,house,9700,215000,private,3,,,0,,,,False,161,211,2
+9312902,house,exceptional property,9000,479000,private,2,as new,installed,0,8,,1,False,105,0,2
+9312809,house,house,9041,468000,private,3,good,,0,,,,False,141,548,3
+9263918,house,house,9750,299000,private,2,to renovate,,,,,,False,150,1610,3
+9311922,house,house,9050,460000,private,4,to renovate,,,,,,False,,385,2
+9311713,house,house,9230,530000,private,3,,,,,,,False,690,870,4
+9311458,house,villa,9190,580000,private,5,as new,hyper equipped,,40,1400,,False,309,1773,4
+9311122,house,other property,9180,395000,private,3,good,installed,0,,,,False,360,303,3
+9310789,house,house,9050,329000,private,3,good,installed,0,,70,,False,135,205,2
+9310308,house,villa,9200,715000,private,4,,installed,0,,1273,1,True,281,1273,4
+9309742,house,house,9300,315000,private,4,,installed,0,,34,,False,167,125,2
+9309826,house,house,9120,150000,public,4,,installed,,,,,False,,1388,4
+9309539,house,house,9200,325000,private,3,,,,,,,False,175,345,2
+9309317,house,house,9550,249000,private,3,good,hyper equipped,0,,,,False,,0,2
+9308817,house,house,9770,349000,private,3,to renovate,,,,,,False,200,0,4
+9308539,house,house,9290,395000,private,3,just renovated,installed,0,,,,False,185,480,3
+9308105,house,house,9060,339000,private,5,as new,hyper equipped,0,,,,False,178,321,2
+9307759,house,house,9140,289000,private,2,good,installed,0,16,400,,False,120,634,4
+9307325,house,house,9185,675000,private,4,good,installed,,100,4500,1,False,400,9000,3
+9306990,house,mixed use building,9300,139000,private,93,to be done up,,,,,,False,,0,2
+9306681,house,house,9700,303867,private,3,as new,installed,0,,,,False,,705,3
+9306601,house,house,9810,275000,private,2,to renovate,installed,0,8,450,1,False,150,450,3
+9305732,house,house,9300,425000,private,4,as new,installed,0,69,69,,False,242,260,2
+9238926,house,house,9100,379000,private,190,,,0,,,,False,,1006,4
+9305068,house,house,9406,249000,private,3,to renovate,installed,0,,125,,False,140,378,3
+9304524,house,villa,9700,429000,private,5,,,0,,,,False,264,1170,4
+9304227,house,house,9000,479000,private,3,as new,hyper equipped,,,,,False,120,70,2
+9303662,house,house,9750,295000,private,3,to renovate,,0,,,,False,220,700,4
+9303218,house,country cottage,9255,293000,private,2,to renovate,,0,,,,False,110,1331,3
+9302476,house,house,9190,357000,private,4,good,installed,0,90,500,,False,184,955,4
+9302206,house,house,9160,349000,private,3,good,installed,0,25,200,,False,210,315,2
+9301792,house,house,9600,282500,private,3,good,installed,0,,,,False,125,234,3
+9300767,house,house,9300,159000,private,2,to renovate,semi equipped,,,,,False,122,150,2
+9300576,house,house,9300,299000,private,3,good,hyper equipped,0,10,40,,False,149,200,2
+9299939,house,house,9100,189000,private,110,to be done up,,0,,95,,False,,172,3
+9299197,house,house,9880,295000,private,4,to renovate,installed,0,,,,False,,967,4
+9298903,house,house,9880,385000,private,4,as new,hyper equipped,,15,450,,False,195,765,4
+9298556,house,house,9300,324900,private,3,as new,,,,,,False,,0,2
+9298265,house,house,9310,85000,public,2,to be done up,installed,,,,,False,,203,3
+9297989,house,house,9910,379500,private,4,good,,0,18,,,False,136,435,3
+9297717,house,house,9900,370000,private,4,,,,,,,False,345,800,2
+9297488,house,house,9400,198000,private,3,good,installed,0,,,,False,115,250,2
+9151169,house,house,9968,348500,private,3,good,installed,0,,,,False,236,720,4
+9296018,house,apartment block,9052,5721000,private,2,,,,,,,False,,7629,4
+9247634,house,house,9100,295000,private,3,,installed,0,,,,False,130,831,3
+9295293,house,house,9200,249000,private,3,as new,installed,,,,,False,175,299,3
+9295057,house,country cottage,9750,1875000,private,5,as new,hyper equipped,0,,,,False,,11307,4
+9294821,house,country cottage,9910,795000,private,5,just renovated,installed,0,,,1,False,,11330,4
+9294558,house,mixed use building,9230,275000,private,2,as new,installed,0,,,,False,,0,2
+9294415,house,house,9990,360000,private,3,good,installed,0,,,,False,146,282,3
+9294166,house,house,9500,159900,private,3,to renovate,semi equipped,0,,,,False,135,324,3
+9293900,house,house,9240,329000,private,3,as new,installed,0,,,,False,166,200,2
+9293569,house,house,9220,379500,private,4,good,installed,0,,,,False,152,354,3
+9293165,house,house,9100,169000,private,3,to renovate,semi equipped,0,10,,,False,127,80,2
+9293017,house,town house,9420,269000,private,4,good,usa installed,,,150,,False,260,347,2
+9291899,house,house,9470,299000,private,3,as new,installed,0,20,120,,False,125,205,2
+9291792,house,house,9960,325000,private,3,,hyper equipped,0,,,,False,140,248,2
+9291532,house,house,9000,339000,private,3,,,0,,30,,False,125,120,2
+9291013,house,house,9968,175000,private,2,to renovate,,,,,,False,121,1706,3
+9290817,house,house,9500,325000,private,3,as new,hyper equipped,0,40,300,,False,200,465,3
+9290586,house,exceptional property,9820,390000,private,3,to renovate,semi equipped,0,,34,,False,362,460,2
+9290206,house,house,9900,443300,private,3,,installed,0,,,,False,231,375,3
+9289947,house,house,9200,269000,private,3,good,hyper equipped,0,,70,,False,155,177,2
+9288794,house,house,9100,90000,public,4,,installed,,,,,False,,131,2
+9288435,house,house,9900,349500,private,5,,,,,,,False,,360,3
+9287741,house,house,9000,340000,private,3,,,,,,,False,87,89,2
+9287496,house,house,9160,131500,public,3,,installed,,,,,False,,260,3
+9286842,house,house,9660,373750,private,3,as new,,0,,,,False,175,525,3
+9286161,house,house,9630,225000,private,3,to renovate,,0,,,,False,141,0,2
+9285601,house,apartment block,9300,960000,private,4,,,,,,,False,,0,3
+9285426,house,house,9000,439000,private,2,as new,installed,,,43,,False,203,86,3
+9285258,house,house,9900,285000,public,3,,installed,,,,,False,,240,2
+9284862,house,house,9220,265000,private,2,good,,0,,,,False,95,96,2
+9284517,house,house,9420,245000,private,3,as new,,,,,,False,185,355,3
+9187837,house,house,9990,530000,private,3,,,0,,,,False,260,991,4
+9283917,house,house,9500,110000,private,3,good,,,,,,False,,85,2
+9283417,house,house,9050,290000,private,3,good,installed,0,,,,False,163,64,2
+9282987,house,house,9470,325000,private,3,to be done up,semi equipped,0,,,,False,,620,3
+9282699,house,house,9308,485000,private,4,good,hyper equipped,,,,,False,215,736,3
+9282024,house,house,9050,215000,private,1,good,installed,0,,,,False,,30,2
+9281007,house,house,9290,268000,public,3,,installed,,,,,False,,435,3
+9280022,house,house,9130,385000,private,4,just renovated,installed,0,,,,False,240,302,3
+9279509,house,house,9900,297500,private,5,as new,installed,,30,152,,False,187,240,2
+9279186,house,house,9870,175000,private,3,to renovate,,0,,,,False,117,330,3
+9278744,house,house,9300,175000,private,2,good,installed,,80,78,,False,169,415,3
+9278116,house,house,9000,247000,private,2,to be done up,semi equipped,0,,,,False,111,62,2
+9277538,house,house,9930,225000,public,2,,,,,,,False,,3720,4
+9276975,house,house,9140,475000,private,4,good,,0,,,,False,207,1758,4
+9276795,house,house,9270,695000,private,5,as new,hyper equipped,0,,,,False,342,1250,4
+9276035,house,house,9140,259000,private,3,good,,0,,,,False,182,90,2
+9274346,house,apartment block,9070,665000,private,4,good,,,,,,False,,846,2
+9273505,house,house,9870,349000,private,5,as new,installed,,35,95,,False,250,410,2
+9273070,house,house,9030,310000,private,3,good,,,16,80,,False,120,180,2
+9244369,house,house,9630,321113,private,3,,,0,,,,False,152,316,3
+9272335,house,house,9860,459000,private,3,good,,,,,,False,263,1286,4
+9271934,house,house,9930,595000,private,3,as new,hyper equipped,,,,1,False,266,1240,4
+9271658,house,house,9402,225000,private,2,,,,,,,False,176,160,2
+9271419,house,house,9400,356012,private,3,,,,,,,False,,264,2
+8981770,house,house,9860,397000,private,4,as new,,1,,,,False,268,683,2
+9269568,house,house,9320,349000,private,4,good,installed,,20,,1,False,220,549,3
+9267375,house,house,9000,320000,private,3,good,,,,9,,False,260,87,1
+9266741,house,house,9120,332100,private,3,,installed,0,,,,False,155,265,2
+9266494,house,house,9420,295000,private,3,to be done up,,,,,,False,240,1020,4
+9265568,house,villa,9400,1299000,private,4,as new,installed,0,165,1254,,True,436,2500,4
+9264913,house,house,9700,170000,private,3,to renovate,,,,,,False,,426,3
+9263989,house,house,9130,389000,private,3,just renovated,installed,,,,1,False,195,612,3
+9263666,house,house,9250,215000,private,2,good,semi equipped,,,,,False,,322,2
+9262364,house,house,9981,95000,public,3,to renovate,installed,,,,,False,,297,4
+9260914,house,house,9060,249000,private,4,to be done up,,,,,,False,162,528,3
+9260508,house,villa,9700,745000,private,3,as new,installed,0,,,,False,320,9626,4
+9259623,house,villa,9400,549000,private,4,as new,usa hyper equipped,0,20,2500,,False,300,3097,4
+9259372,house,house,9308,299000,private,3,as new,installed,0,30,540,,False,207,690,2
+9258862,house,mixed use building,9040,620000,private,7,good,installed,0,,,,False,336,950,2
+9258148,house,house,9980,445000,private,2,as new,usa hyper equipped,0,,,,False,135,2230,4
+9257167,house,house,9620,363945,private,3,,,,30,90,,False,210,198,4
+9256694,house,house,9840,623575,private,3,as new,installed,0,,,,False,,2277,4
+9256378,house,villa,9961,970000,private,6,good,installed,0,,,,True,478,3421,4
+9255486,house,house,9600,315000,private,3,,,0,,,,False,144,627,3
+9254860,house,apartment block,9300,515000,private,439,good,installed,0,,,,False,,0,2
+9254297,house,house,9220,299000,private,4,,,0,,,,False,236,165,2
+9253159,house,house,9000,280000,public,3,,installed,,,,,False,,95,3
+9252570,house,house,9050,249000,private,2,good,semi equipped,0,,,,False,100,60,2
+9252291,house,mansion,9000,995000,private,2,to renovate,installed,0,,,,False,290,159,2
+9251873,house,house,9700,89000,public,3,to renovate,,,,,,False,,128,2
+9251189,house,house,9200,238000,private,3,as new,usa installed,0,10,95,1,False,148,169,2
+9250887,house,house,9190,320000,private,3,good,installed,0,,,1,False,,289,3
+9249606,house,house,9300,239500,private,3,good,,,,28,,False,,80,2
+9248381,house,villa,9450,2300000,private,2,as new,,0,,,,True,276,35647,4
+9245522,house,house,9990,600000,private,4,good,installed,0,,,,False,273,4250,2
+9243843,house,house,9500,289000,private,4,to be done up,,,,,,False,220,1511,4
+9242328,house,house,9100,217500,private,3,to be done up,,0,,,,False,,0,2
+9240752,house,house,9500,179500,private,3,to renovate,semi equipped,0,12,200,,False,160,422,3
+9145571,house,house,9600,229000,private,3,as new,,,,,,False,,170,2
+9238836,house,villa,9060,419000,private,3,good,installed,,40,,1,False,269,814,4
+9237742,house,house,9570,290000,private,3,,,0,,,,False,145,292,3
+9236911,house,house,9280,595000,private,5,to be done up,not installed,0,,,,False,335,810,2
+8735198,house,house,9600,275000,private,3,,,,,,,False,207,619,3
+9235743,house,bungalow,9420,449000,private,2,as new,installed,0,20,500,1,False,175,1121,4
+9162435,house,house,9160,520000,private,6,good,installed,0,,,,False,254,120,2
+9233789,house,house,9052,225000,public,3,,,,,,,False,,0,2
+9233351,house,house,9940,415000,private,3,as new,,0,,,,False,175,910,3
+9231214,house,house,9000,225000,private,4,to renovate,,0,,,,False,128,55,2
+9230361,house,house,9400,275000,private,5,good,installed,0,,,,False,174,280,2
+9229799,house,house,9100,270000,public,3,,,,,,,False,,2352,4
+9228705,house,house,9255,449000,private,4,good,hyper equipped,,70,1450,,False,230,1812,4
+9227415,house,house,9400,219000,private,2,,installed,0,,,,False,120,0,3
+9225927,house,house,9300,215000,private,2,good,installed,,,,,False,105,310,2
+9224572,house,bungalow,9100,369000,private,2,good,usa hyper equipped,0,,,,False,140,726,4
+9223650,house,house,9220,615000,private,5,as new,installed,0,,,,False,272,937,3
+9223238,house,house,9000,319000,private,4,,,0,,,,False,189,101,2
+9221997,house,apartment block,9000,425000,private,3,,installed,0,,,,False,190,75,2
+9220991,house,house,9050,339000,private,3,,installed,,30,,,False,355,250,2
+9220089,house,house,9900,285000,private,3,good,hyper equipped,,,231,1,False,158,313,3
+9219408,house,house,9930,394500,private,4,as new,installed,0,,,,False,157,663,3
+9218502,house,house,9230,386500,private,4,as new,installed,,90,,1,False,180,0,2
+9217589,house,house,9000,483000,private,2,,,0,,32,,False,101,82,2
+9141590,house,house,9240,185000,private,3,good,,,,,,False,,0,2
+9214299,house,castle,9070,1700000,private,4,good,installed,0,25,22000,1,False,660,22444,4
+9213035,house,mansion,9200,620000,private,4,,,,,,,False,313,406,2
+9212426,house,house,9130,209000,private,3,good,installed,,20,20,,False,150,80,2
+9210925,house,house,9200,475000,private,3,,usa hyper equipped,,50,,,False,214,967,4
+9210013,house,house,9451,355000,private,4,good,installed,0,80,,,False,160,329,3
+9209515,house,villa,9111,619000,private,4,as new,installed,0,,,,False,367,1760,4
+9208632,house,house,9000,1050000,private,3,just renovated,semi equipped,0,12,,,False,220,56,2
+9206987,house,house,9080,325000,private,4,good,,0,46,,,False,157,320,3
+9204940,house,house,9170,485000,private,3,good,installed,0,,,,False,225,1500,4
+9204681,house,house,9820,337000,private,4,as new,,0,,,,False,158,268,3
+9201971,house,house,9500,189000,private,3,good,installed,0,,,1,False,183,75,2
+9199296,house,apartment block,9300,579000,private,7,good,installed,,,,,False,266,153,2
+9198550,house,house,9600,239500,private,4,as new,installed,0,25,85,,False,173,190,2
+9196979,house,mansion,9506,375000,private,4,as new,installed,0,,50,1,False,500,482,3
+9195582,house,house,9500,225000,private,4,good,installed,,,425,,False,226,600,4
+9194791,house,house,9260,360000,private,4,,installed,0,,,,False,265,229,2
+9191610,house,house,9940,295000,private,3,good,semi equipped,,25,,,False,130,570,4
+9188685,house,house,9280,215000,private,4,good,,,,,,False,190,374,2
+9187026,house,house,9050,395000,private,3,,installed,0,,,,False,175,63,2
+9185606,house,house,9600,231376,private,2,good,installed,0,17,,,False,96,113,2
+9184679,house,house,9968,429000,private,3,as new,,0,,,,False,180,339,3
+9183038,house,house,9700,649000,private,4,as new,usa installed,0,300,,,False,200,3560,4
+9181823,house,house,9120,359000,private,4,,,0,5,70,,False,225,150,2
+9180588,house,house,9140,369500,private,3,as new,installed,0,,,,False,159,245,3
+9179067,house,house,9940,428000,private,3,as new,hyper equipped,,,,,False,,510,3
+9178057,house,house,9870,452000,private,5,good,,,,,,False,,1032,4
+9175290,house,house,9520,495000,private,3,to renovate,,0,,3000,,False,145,3528,4
+9173081,house,house,9630,479000,private,5,as new,hyper equipped,,60,1827,1,False,192,1947,4
+9171823,house,house,9140,190000,private,4,to be done up,installed,0,,20,,False,118,84,2
+9170169,house,mixed use building,9220,384000,private,4,to be done up,installed,,30,,1,False,450,347,2
+9167055,house,house,9402,190000,private,5,to renovate,,0,,,,False,,0,3
+9165989,house,house,9290,362500,private,5,,,0,,,,False,195,893,3
+9165274,house,house,9860,400561,private,3,as new,,0,,183,,False,186,282,3
+9164854,house,mixed use building,9120,245000,private,2,,,,,98,,False,154,188,2
+9105197,house,house,9230,199000,private,2,to renovate,not installed,0,,,1,False,,264,3
+9162820,house,house,9520,286640,private,3,as new,installed,0,,,,False,,825,3
+9160583,house,house,9200,532000,private,4,to renovate,usa hyper equipped,0,28,1660,,False,165,1993,4
+9045663,house,house,9550,264500,private,3,,,0,21,,,False,206,214,2
+9155923,house,house,9600,255000,private,3,,hyper equipped,0,30,90,,False,187,180,2
+9154767,house,house,9280,395000,private,3,,installed,,53,250,,False,228,393,2
+9148619,house,house,9050,412000,private,3,as new,hyper equipped,,,,,False,160,160,2
+9146360,house,house,9111,197500,private,3,to be done up,usa semi equipped,,,56,,False,110,125,2
+9143679,house,house,9320,365000,private,3,good,installed,0,25,200,,False,194,459,3
+9143244,house,house,9400,300384,private,3,,,0,,,,False,,767,3
+9141641,house,house,9280,115000,private,2,to renovate,not installed,0,,190,,False,80,257,2
+8619742,house,house,9140,95000,private,80,good,,0,,,,False,,202,4
+9137990,house,house,9300,239000,private,2,good,installed,,,,,False,125,102,2
+9134959,house,house,9700,350000,private,5,to renovate,not installed,,,100,,False,,210,1
+9132551,house,apartment block,9890,220000,private,1,good,,0,12,,,False,56,0,4
+9129904,house,house,9940,252500,private,2,to renovate,semi equipped,0,,,,False,,1563,3
+9128891,house,house,9400,249000,private,4,,,0,,,,False,187,750,2
+9127109,house,house,9042,288966,private,3,as new,installed,0,,,,False,,1000,3
+9125533,house,house,9400,410650,private,3,,hyper equipped,,,,,False,,643,3
+9122844,house,house,9600,249900,private,4,just renovated,hyper equipped,0,10,20,,False,173,133,2
+9120905,house,house,9400,189000,private,2,,installed,,,,,False,140,220,2
+9111114,house,house,9520,308000,private,3,as new,hyper equipped,,,,,False,235,719,3
+9106237,house,house,9420,337000,private,3,as new,,,,,,False,170,354,4
+9104436,house,house,9000,568000,private,3,,installed,0,31,31,,False,150,6579,2
+9103098,house,house,9000,625000,private,4,good,semi equipped,0,,,,False,247,84,3
+9099673,house,house,9831,535917,private,4,as new,installed,0,,,,False,233,625,2
+9095665,house,house,9100,180000,private,4,to renovate,installed,0,,,,False,110,144,2
+9092690,house,house,9300,470000,private,3,as new,hyper equipped,0,40,150,,False,,210,3
+9086390,house,house,9982,775000,private,8,good,,,,,,False,960,10600,4
+9084851,house,house,9890,310952,private,3,,,,,,,False,,264,3
+9083566,house,house,9870,459837,private,3,,,,,,,False,207,620,3
+9073351,house,mixed use building,9300,219000,private,2,to be done up,semi equipped,0,,,,False,184,80,2
+9071186,house,house,9000,444500,private,3,,,,15,,,False,145,141,2
+9068641,house,house,9790,438800,private,3,,installed,0,,481,,False,156,480,4
+9065492,house,house,9550,397479,private,4,,,,,,,False,140,556,4
+9059393,house,house,9700,139500,private,2,to be done up,,0,,,,False,,177,3
+9058457,house,house,9255,338600,private,3,as new,hyper equipped,,,,,False,189,500,3
+9050849,house,house,9220,219000,private,2,as new,hyper equipped,1,30,,,False,125,95,2
+9049230,house,house,9290,320000,private,3,good,installed,0,,202,,False,146,326,3
+9043366,house,house,9910,290000,private,3,as new,installed,0,,,,False,190,175,2
+9025955,house,house,9810,381507,private,4,as new,installed,0,,,,False,,367,4
+9023810,house,exceptional property,9111,1050000,private,3,,,,,,,False,380,3950,4
+9009562,house,apartment block,9000,6500000,private,70,as new,,,,,,False,1800,0,2
+8876384,house,house,9961,239000,private,3,as new,installed,0,,,,False,220,180,2
+8997713,house,house,9550,289000,private,2,,hyper equipped,0,,,,False,128,164,2
+8992291,house,apartment block,9300,400000,private,4,to be done up,semi equipped,0,,,,False,70,200,2
+8985410,house,house,9280,279666,private,3,as new,,,,146,,False,127,0,3
+8978853,house,house,9180,795000,private,3,,installed,0,,,,False,,3501,4
+8960499,house,villa,9550,450000,private,3,to be done up,installed,,,,1,False,,4364,4
+8954191,house,house,9600,275000,private,3,,,,,,,False,135,523,3
+8941430,house,house,9700,375000,private,3,,installed,0,,,,False,,413,2
+8937718,house,mixed use building,9550,399000,private,5,,,0,,,,False,519,986,3
+8929020,house,house,9300,358150,private,3,,,,,,,False,210,242,3
+8917531,house,house,9500,112500,private,2,to be done up,semi equipped,,,,,False,,90,2
+8906166,house,mixed use building,9600,245000,private,3,as new,hyper equipped,0,27,,,False,200,120,2
+8893007,house,house,9690,281461,private,3,as new,hyper equipped,,,,,False,160,510,4
+8843358,house,house,9290,371700,private,3,,,0,,,,False,230,312,3
+8822996,house,house,9200,399650,private,3,,,,,,,False,,599,4
+8808160,house,house,9340,273966,private,3,as new,installed,0,,,,False,,418,3
+8789502,house,house,9200,349000,private,2,,hyper equipped,,,,,False,154,721,4
+8770286,house,house,9860,409825,private,3,as new,installed,0,12,209,,False,186,308,3
+8737928,house,house,9600,250000,private,3,,,0,20,,,False,103,361,3
+8687237,house,apartment block,9900,695000,private,10,good,installed,0,,,,False,,410,3
+8678708,house,house,9900,254836,private,3,as new,installed,0,,,,False,,109,2
+8651976,house,house,9220,322800,private,3,,,,,,,False,157,134,2
+8638440,house,house,9473,307720,private,3,,,0,,,,False,196,152,2
+8612106,house,house,9820,491332,private,4,as new,installed,0,,,,False,,1112,4
+8503741,house,house,9100,750000,private,9,,installed,,,,2,False,360,320,3
+8453064,house,house,9255,443500,private,3,as new,hyper equipped,,,,,False,140,990,3
+8367093,house,house,9980,292597,private,3,,hyper equipped,0,,,,False,188,430,3
+8084909,house,house,9550,500000,private,6,to renovate,,,,,,False,780,699,3
+9315828,house,house,8790,295000,private,4,good,installed,0,20,90,,False,160,244,2
+9315556,house,house,8300,4050000,private,5,as new,hyper equipped,0,,,,True,444,1450,4
+9315213,house,house,8880,450000,private,3,good,,0,,,,False,212,0,4
+9314610,house,house,8750,379000,private,3,good,installed,0,,,,False,145,430,3
+9314357,house,house,8000,345000,private,3,good,installed,0,,,,False,187,150,2
+9314156,house,town house,8520,235000,private,3,just renovated,,0,7,,,False,141,1,2
+9313783,house,chalet,8430,259500,private,2,good,installed,0,,,,False,,0,2
+9313341,house,villa,8300,4350000,private,5,as new,hyper equipped,,,,,True,,1000,4
+9279349,house,house,8550,175000,private,4,good,installed,0,,,,False,180,532,3
+9312563,house,house,8820,239000,private,2,good,,,,,,False,,380,3
+9282020,house,house,8560,179000,private,3,,not installed,,,,,False,103,148,2
+9311040,house,house,8480,279000,private,3,good,installed,0,,,,False,,610,4
+9310290,house,house,8750,450000,private,5,good,installed,0,,150,,False,300,1374,4
+9310107,house,house,8552,295000,private,3,good,installed,,,,,False,392,1052,3
+9309757,house,exceptional property,8770,695000,private,4,good,,0,,,,False,474,1887,3
+9309345,house,house,8510,298000,private,5,to be done up,semi equipped,0,,,,False,,494,2
+9308618,house,house,8870,135000,private,3,good,installed,0,,,,False,,0,2
+9229489,house,apartment block,8500,450000,private,5,good,,0,,,,False,158,0,4
+9306361,house,villa,8750,595000,private,3,as new,installed,,60,195,,False,230,441,4
+9305886,house,house,8540,345900,private,3,,,0,,,,False,,330,3
+9305500,house,house,8680,295000,private,3,good,installed,0,,,,False,,935,4
+9305290,house,house,8470,210000,private,3,,,,,,,False,,136,2
+9304903,house,house,8000,599000,private,4,good,installed,0,28,28,,False,224,146,2
+9304305,house,house,8650,335000,private,3,,installed,0,,,,False,,501,4
+9303861,house,house,8800,185000,private,3,to be done up,semi equipped,0,,,1,False,,202,2
+8772395,house,house,8860,170000,private,3,good,,0,40,,,False,,98,3
+9303266,house,house,8700,449000,private,3,good,,0,,,,False,215,1371,4
+9302055,house,house,8400,296000,private,2,as new,installed,0,20,30,,False,220,220,2
+9301863,house,house,8310,195000,public,2,to be done up,,,,,,False,,376,2
+9262848,house,house,8000,149500,private,2,to renovate,,,,,,False,,161,3
+9299983,house,town house,8400,335000,private,4,,,,,149,,False,191,225,2
+9300483,house,house,8530,356535,private,3,,,,,,,False,180,346,3
+9299779,house,house,8792,265000,private,3,good,installed,,,,1,False,216,201,2
+9299379,house,house,8760,298000,private,4,good,,0,,,,False,245,557,2
+9298632,house,villa,8650,485000,private,3,,hyper equipped,0,,,,False,300,3684,4
+9298351,house,villa,8570,448000,private,4,just renovated,installed,,70,1047,1,False,215,1185,4
+9298065,house,villa,8700,589000,private,3,good,installed,0,20,660,,False,170,6780,4
+9297432,house,apartment block,8400,340000,private,7,,,,20,,,False,301,306,2
+9296689,house,house,8800,257450,private,3,as new,,0,,,,False,140,313,3
+9296255,house,house,8880,225000,private,3,good,,0,,,,False,212,332,4
+9295948,house,house,8840,370000,private,4,good,installed,,,,,False,,2611,4
+9295663,house,villa,8620,389000,private,4,to be done up,semi equipped,0,25,,,False,170,578,4
+9295385,house,house,8433,215000,public,5,,not installed,,,,,False,,1152,3
+9295072,house,house,8930,239500,private,3,good,installed,0,,,,False,180,0,2
+9294786,house,house,8530,328161,private,3,as new,,0,,,,False,175,328,4
+9294440,house,house,8380,395000,private,3,good,installed,0,,,,False,,430,3
+9088413,house,house,8660,259000,private,4,to be done up,installed,1,,,,False,208,118,2
+9294023,house,house,8830,250000,public,4,,installed,,,,,False,,816,4
+9293634,house,house,8760,442737,private,4,,,,,,,False,168,816,4
+9292283,house,house,8501,239000,private,3,,,0,,,,False,174,175,2
+9291731,house,bungalow,8582,275000,private,3,to renovate,,0,,,,False,146,1681,4
+9291388,house,house,8930,639000,private,4,as new,hyper equipped,,,,,False,427,273,2
+9290888,house,house,8310,285000,private,4,,,,,,,False,142,140,2
+9290222,house,house,8470,335000,private,3,to be done up,installed,0,20,800,,False,148,1054,2
+9169887,house,house,8530,299750,private,3,as new,,,,,,False,,178,2
+9289381,house,house,8000,895000,private,2,as new,installed,0,44,,,False,206,144,4
+9097474,house,house,8930,167000,private,3,good,,0,,,,False,180,160,3
+9287766,house,house,8470,189000,private,4,to be done up,installed,0,,,,False,182,171,3
+9287644,house,house,8370,519000,private,6,good,,0,,,,False,,85,2
+9287118,house,house,8800,350000,private,3,good,installed,0,15,65,,False,167,276,3
+9286291,house,house,8930,120000,private,2,,installed,,,,,False,,110,2
+9285749,house,house,8560,239000,private,2,good,installed,0,,,,False,133,171,3
+9285427,house,house,8630,248000,private,4,,,0,,,,False,200,100,3
+9285087,house,house,8800,179000,private,3,to be done up,,,,,,False,125,281,2
+9284464,house,villa,8300,1149000,private,4,as new,hyper equipped,0,75,,,True,234,648,4
+9284080,house,house,8560,235000,private,3,,,0,,,,False,136,130,2
+9283447,house,house,8670,520000,private,4,to renovate,semi equipped,0,,,,False,188,1400,4
+9283305,house,house,8890,275000,private,3,good,,0,,,,False,160,471,3
+9282014,house,house,8570,280000,private,3,,installed,0,,134,,False,,215,2
+9281039,house,house,8600,232000,private,3,as new,,,,,,False,140,98,2
+9279968,house,house,8890,199000,private,3,good,,0,20,,,False,176,340,4
+9278189,house,house,8870,258000,private,4,,,0,,,,False,184,164,2
+9277254,house,house,8791,259000,private,4,good,,0,,,,False,140,731,2
+9276845,house,house,8880,358500,private,3,as new,hyper equipped,,,,,False,,379,3
+9276350,house,house,8570,315000,private,3,just renovated,,0,,,,False,89,403,4
+9276078,house,house,8510,145000,private,3,good,installed,0,15,,,False,130,80,2
+9275215,house,house,8000,399000,private,3,to be done up,installed,0,,,,False,241,215,2
+9274351,house,house,8020,365000,private,3,as new,,,25,100,,False,169,355,3
+9274000,house,bungalow,8501,330000,private,2,to be done up,,0,,,,False,135,835,4
+9273902,house,house,8431,319000,private,4,to renovate,installed,0,,,,False,,467,4
+9273448,house,bungalow,8840,357900,private,4,good,,,,,,False,200,597,4
+9272873,house,house,8720,350000,private,3,good,semi equipped,0,10,260,,False,162,568,4
+9272402,house,house,8370,150000,private,3,to renovate,installed,1,30,,,False,75,61,2
+9271320,house,house,8870,225000,public,3,,installed,,,,,False,,301,3
+9270188,house,house,8470,270000,private,3,good,installed,0,,300,,False,,579,3
+9269214,house,house,8800,80000,public,3,to renovate,,,,,,False,,171,2
+9268986,house,house,8790,485000,private,4,as new,hyper equipped,,36,,1,False,192,700,4
+9268103,house,house,8750,389000,private,4,good,installed,0,30,,,False,185,287,3
+9267712,house,house,8200,189000,private,3,,,,,,,False,,125,2
+9267365,house,exceptional property,8570,525000,private,4,to be done up,semi equipped,0,180,1200,1,True,300,1761,4
+9267086,house,house,8750,359000,private,3,,hyper equipped,,21,114,,False,190,241,3
+9265798,house,house,8600,225000,private,4,,installed,0,,,,False,,0,2
+9265383,house,house,8790,239000,private,3,good,,0,,,,False,131,579,3
+9263683,house,manor house,8470,885000,private,5,good,hyper equipped,0,150,2200,1,True,570,2800,4
+9263130,house,house,8700,448000,private,4,good,installed,0,,630,,False,168,924,4
+9262844,house,house,8790,289000,private,3,,,0,,,,False,,257,3
+9262700,house,apartment block,8400,340000,private,6,good,installed,0,,,,False,220,80,4
+9262181,house,villa,8700,1295000,private,5,to renovate,,0,,,1,False,600,14489,4
+9261452,house,house,8610,599000,private,4,good,,0,,,,False,,1833,4
+9260760,house,house,8310,567319,private,3,as new,,,,,,False,,639,4
+9260161,house,house,8301,430000,private,4,good,installed,0,37,,,False,214,136,3
+9259946,house,house,8550,325000,private,4,good,,0,,,,False,298,265,2
+9258843,house,other property,8870,185000,private,4,to renovate,not installed,0,,,,False,202,218,3
+9112643,house,house,8792,249000,private,3,good,installed,0,,,,False,,487,2
+9256440,house,villa,8310,829192,private,4,,not installed,0,,,,False,243,644,4
+9130567,house,house,8210,245000,private,3,to renovate,,,,,,False,,713,3
+9199945,house,house,8930,165000,private,3,good,,0,,76,,False,118,205,2
+9177199,house,house,8870,297000,private,3,,hyper equipped,,,,,False,,444,3
+9252300,house,house,8750,450000,private,5,good,installed,0,,,,False,,0,4
+9251603,house,house,8480,250000,private,2,to renovate,,,,,,False,,946,4
+9250385,house,house,8700,155000,private,3,to renovate,not installed,0,,,,False,104,320,2
+9249554,house,house,8370,240000,private,5,just renovated,installed,1,,,,False,128,82,2
+9208907,house,house,8310,429000,private,3,good,,0,,,,False,300,554,4
+9177257,house,house,8840,185000,private,4,good,,,,,,False,198,378,3
+9246392,house,house,8380,235000,private,3,good,installed,0,,95,,False,,185,3
+9244190,house,house,8500,270000,private,2,,not installed,0,,300,,False,131,430,3
+9242144,house,house,8560,489500,private,3,good,,,,,,False,,5293,4
+9241355,house,house,8020,295000,private,3,to be done up,installed,,,747,,False,,1032,3
+9240838,house,house,8400,75000,public,3,to renovate,,,,48,,False,108,96,2
+9240278,house,house,8500,185000,private,4,to be done up,installed,0,,,,False,176,227,2
+9238933,house,house,8560,239500,private,3,good,installed,0,,,,False,156,204,2
+9237697,house,house,8520,330000,private,3,good,,0,,,,False,165,175,3
+9235617,house,house,8908,224950,private,3,good,,,,,,False,,167,3
+9235271,house,villa,8800,775000,private,4,to be done up,,,,,1,False,400,1955,4
+9233930,house,house,8750,195000,private,3,to renovate,installed,,,170,,False,160,325,1
+9233498,house,house,8870,370000,private,3,,,0,,,,False,381,543,2
+9229319,house,house,8950,325139,private,3,as new,hyper equipped,,,,,False,,544,4
+9161485,house,house,8550,324500,private,3,as new,hyper equipped,,,,,False,,352,3
+9225811,house,house,8670,238900,private,2,to renovate,,,,,,False,,600,2
+9224567,house,house,8000,418000,private,4,to be done up,installed,0,,,,False,189,115,2
+9223559,house,house,8434,99000,private,2,to be done up,installed,0,,,,False,49,0,2
+9222012,house,house,8430,190000,private,2,good,installed,0,,,,False,87,0,2
+9221700,house,house,8400,167000,private,2,good,,0,,,,False,,70,2
+9221457,house,villa,8800,314500,private,3,good,,0,,,,False,158,585,4
+9220588,house,house,8200,425000,private,4,good,installed,0,,,,False,200,225,3
+9219294,house,house,8480,114000,private,2,to renovate,,0,,148,,False,89,224,3
+9218349,house,house,8470,275000,private,3,as new,,,,,,False,,147,2
+9215983,house,mansion,8700,480000,private,4,good,installed,0,,,,False,,1251,3
+9215067,house,house,8480,114000,private,62,,,0,,,,False,,230,3
+9213538,house,house,8500,420000,private,3,just renovated,hyper equipped,,15,60,,False,180,290,3
+9213089,house,villa,8870,475000,private,3,as new,installed,,40,100,,False,300,441,3
+9211658,house,town house,8450,315000,private,3,good,installed,,,140,1,False,186,201,2
+9208919,house,house,8780,174000,private,3,to renovate,,0,,,,False,149,257,2
+9208421,house,house,8820,195000,private,2,just renovated,installed,0,,,,False,,160,3
+9207994,house,house,8450,301500,private,4,,installed,0,,,,False,137,274,2
+9207387,house,house,8870,290000,private,3,good,hyper equipped,0,,200,,False,,484,3
+9207106,house,house,8810,281085,private,3,as new,hyper equipped,,,,,False,,260,3
+9204906,house,house,8820,282000,private,3,as new,usa installed,,,127,,False,163,211,2
+9203424,house,house,8480,375000,private,4,good,installed,,,,,False,200,1100,2
+9201677,house,house,8310,295000,private,2,good,usa hyper equipped,,25,,,False,162,125,3
+9201026,house,villa,8400,790000,private,4,to be done up,,0,,,,False,448,664,3
+9200215,house,house,8500,410000,private,3,just renovated,semi equipped,0,,,,False,200,155,2
+9198032,house,house,8790,353200,private,3,,,0,,,,False,,442,2
+9195187,house,house,8760,365000,private,4,,,,,,,False,150,365,4
+9129833,house,house,8792,249500,private,4,good,,,,,,False,,331,2
+9191435,house,house,8840,519000,private,4,as new,,,,,,False,359,265,2
+9189655,house,house,8520,167950,private,2,to renovate,,,,,,False,117,92,3
+9186095,house,house,8791,295000,private,3,as new,installed,0,,,,False,173,302,3
+9186083,house,house,8800,290500,private,4,as new,,0,,,,False,206,200,2
+9185398,house,house,8480,299000,private,3,good,installed,,25,,,False,140,993,4
+9184688,house,villa,8750,598000,private,4,as new,installed,0,40,,,False,300,2493,4
+9181580,house,manor house,8300,1250000,private,2,to renovate,,0,,,,False,261,27000,4
+9179383,house,house,8000,219900,private,3,good,,0,,,,False,100,52,2
+9178460,house,house,8580,190000,private,2,to renovate,,1,,,,False,129,240,3
+9177525,house,house,8600,189000,private,4,,,0,,,,False,,405,4
+9152449,house,villa,8430,750000,private,6,good,installed,1,,40,,False,426,475,4
+9173124,house,house,8400,340000,private,7,,,,20,,,False,301,306,2
+9115779,house,house,8770,359900,private,3,good,hyper equipped,0,,,,False,173,538,3
+9170919,house,house,8780,276400,private,3,as new,,0,,,,False,126,278,3
+9170516,house,house,8904,495000,private,4,good,,0,,,,False,150,700,4
+9166796,house,house,8570,381000,private,3,,,0,24,,,False,179,481,3
+9014097,house,house,8370,399000,private,5,good,installed,0,,46,,False,,198,2
+9162088,house,house,8900,290000,private,2,,installed,,,,,False,,240,3
+9158676,house,house,8400,269500,private,3,good,installed,0,,,,False,,227,2
+9157691,house,house,8000,330000,private,2,as new,,0,,,1,False,100,100,4
+9156543,house,villa,8430,895000,private,5,good,installed,,,,,False,441,8034,4
+9154263,house,house,8700,260000,private,2,,installed,,,,,False,,453,3
+9096498,house,house,8850,205000,private,3,good,,,,,,False,,200,2
+9145937,house,villa,8300,1195000,private,4,good,hyper equipped,0,,609,,False,,609,4
+9144923,house,mansion,8370,695000,private,7,,,,,,,False,386,185,3
+9143515,house,house,8550,265000,private,3,good,hyper equipped,0,30,,,False,148,320,4
+8785939,house,house,8000,495000,private,2,to renovate,semi equipped,0,,,,False,350,202,3
+9138468,house,house,8650,365000,private,4,,,,,,,False,215,493,4
+9136178,house,house,8377,269000,private,5,to renovate,not installed,0,,,,False,247,332,3
+9133280,house,house,8460,270000,private,3,,installed,0,16,,,False,185,240,3
+9132643,house,villa,8200,625000,private,4,good,,0,35,100,,False,290,579,4
+9129377,house,house,8630,307000,private,3,,,0,,,,False,145,302,3
+9127974,house,house,8870,275000,private,4,to be done up,,0,,,,False,343,151,2
+9122873,house,farmhouse,8680,630000,private,2,,,0,,,,False,138,9518,4
+9116858,house,house,8830,262000,private,4,as new,installed,0,,,,False,125,265,4
+9114070,house,house,8800,255000,private,2,,,,,,,False,,320,2
+9064465,house,house,8400,565000,private,4,good,installed,0,,,,False,,600,4
+9103468,house,house,8530,295000,private,300,good,,0,,,,False,,360,2
+9103048,house,house,8570,355742,private,3,,,,,,,False,163,586,4
+9074416,house,house,8940,159000,private,3,good,,0,,,,False,180,139,2
+9095087,house,house,8900,289500,private,3,as new,,,,,,False,,626,2
+8953567,house,house,8810,272000,private,3,as new,,,,,,False,185,510,2
+9042874,house,house,8580,232000,private,3,good,,,,,,False,,503,2
+9016070,house,other property,8670,75000,private,2,good,,,,,,False,25,135,4
+9062589,house,house,8500,523092,private,4,,,,,,,False,221,1016,4
+9060616,house,house,8560,370695,private,3,,,,,,,False,162,749,3
+9054086,house,villa,8510,795000,private,4,good,installed,0,,,1,False,230,3662,4
+9051238,house,mansion,8940,375000,private,7,good,,,,,,False,,550,3
+8924840,house,house,8908,450000,private,3,,,,,,,False,253,910,4
+9044621,house,house,8300,769500,private,4,,installed,0,32,312,,False,243,423,3
+9038536,house,house,8460,279000,private,4,good,installed,0,,,,False,247,590,4
+9035838,house,bungalow,8670,135000,private,2,as new,installed,0,,,,True,49,200,4
+9032799,house,house,8520,224000,private,1,good,,0,,73,,False,212,217,2
+9030224,house,house,8800,347500,private,3,,,,,,,False,142,276,3
+9019388,house,house,8770,420000,private,2,good,semi equipped,0,,,,False,650,580,2
+9006453,house,house,8434,320000,private,3,to renovate,installed,0,,,,False,,350,4
+8987798,house,house,8300,3075000,private,5,good,,0,,,,False,210,1197,3
+8984146,house,house,8720,375671,private,3,,,,,,,False,177,663,3
+8980135,house,house,8870,247500,private,3,good,installed,0,,20,,False,213,65,3
+8962352,house,house,8840,175000,private,3,,,,,,,False,,502,3
+8955918,house,house,8700,380000,private,5,to renovate,installed,,,650,1,False,280,804,4
+8946730,house,house,8850,330000,private,3,as new,hyper equipped,,,,,False,175,465,4
+8941914,house,house,8300,485000,private,3,good,installed,0,,,,False,155,115,2
+8934218,house,house,8000,385000,private,3,,,0,,,,False,140,62,2
+8928686,house,house,8700,303264,private,3,as new,,,,,,False,,368,3
+8923425,house,house,8300,972000,private,4,,hyper equipped,,,,,False,154,160,2
+8918126,house,house,8970,238000,private,3,good,installed,0,8,,,False,150,103,2
+8889997,house,house,8750,265750,private,3,,,0,,,,False,,140,2
+8880949,house,house,8970,147000,private,3,,,,,,,False,160,104,2
+8864563,house,house,8430,215000,private,3,as new,installed,0,15,190,,False,100,250,4
+8859758,house,house,8460,310000,private,3,good,,0,,,,False,,365,3
+8842525,house,house,8791,440569,private,3,as new,,,,,,False,157,492,4
+8838857,house,house,8820,342000,private,3,good,,0,,,,False,164,537,3
+8838347,house,house,8480,251500,private,3,good,,0,,,,False,,124,3
+8803423,house,house,8470,1299000,private,3,good,,0,,,,False,,0,4
+8790705,house,house,8480,277390,private,4,good,installed,0,,,,False,,235,3
+8788817,house,exceptional property,8600,1800000,private,4,to be done up,installed,0,,,,False,657,15000,4
+8704623,house,house,8434,285000,private,3,,installed,0,,132,,False,121,193,3
+8695425,house,house,8820,489000,private,4,,installed,0,,,,False,,764,4
+8676846,house,house,8830,293000,private,3,,hyper equipped,,,,,False,169,202,2
+8663690,house,house,8970,306000,private,1,as new,,0,,12,,False,110,0,4
+8593707,house,house,8340,1095000,private,2,as new,,0,,,,False,200,386,2
+8304337,house,house,8301,550000,private,4,as new,hyper equipped,0,19,,,False,266,445,2
+8578662,house,house,8480,291000,private,3,as new,installed,0,,150,,False,144,0,3
+8282052,house,mixed use building,8904,1350000,private,4,,,,,,,False,,40000,4
+8154764,house,house,8550,261500,private,3,as new,installed,,,,,False,,406,3
+7775693,house,house,8930,177500,private,3,good,,0,,,,False,120,137,2
+9316673,house,house,7890,200000,private,3,good,,,,,,False,,844,4
+9316457,house,house,7711,439000,private,3,good,installed,0,,400,,False,200,714,4
+9316281,house,apartment block,6030,145000,private,2,to be done up,,,,,,False,,0,3
+9316271,house,mansion,6032,260000,private,4,good,semi equipped,0,15,,,False,204,331,2
+9316215,house,house,7700,149000,private,3,good,installed,0,,300,,False,168,398,2
+9119969,house,house,6500,360000,private,6,,not installed,0,,,,False,331,1250,4
+9258581,house,house,7301,45000,private,2,,,,,,,False,,0,2
+9047683,house,house,7608,240000,private,3,as new,,0,,,,False,194,2062,3
+9314464,house,villa,7800,345000,private,5,good,installed,,,,,False,165,850,4
+9314298,house,house,7140,120000,private,3,,installed,,,,,False,,315,2
+9077695,house,house,7700,195000,private,3,good,not installed,0,60,220,,False,155,365,2
+9313647,house,villa,7170,265000,private,2,to be done up,,0,,,,False,275,1018,4
+9313009,house,villa,7321,299000,private,4,good,hyper equipped,0,40,596,,False,188,736,4
+9312164,house,mansion,7760,240000,private,3,to renovate,semi equipped,0,,530,,False,279,809,3
+9311972,house,house,6040,215000,private,3,as new,installed,,50,,,False,300,200,2
+9311628,house,house,7134,179000,private,2,,,0,,,,False,115,395,3
+9311411,house,house,7334,230000,private,3,as new,installed,,,,,False,,375,2
+9311219,house,house,6200,229000,private,6,good,installed,,,,,False,224,270,3
+9310819,house,house,6560,220000,private,4,to renovate,,,,,,False,250,2500,4
+8920884,house,mansion,7334,400000,private,6,to be done up,,,,,,False,,3200,4
+9309902,house,house,7972,110000,private,2,to renovate,semi equipped,0,,312,,False,150,460,2
+9309649,house,house,7140,79000,private,2,to renovate,not installed,0,,37,,False,80,69,2
+9309420,house,house,6200,159500,private,3,good,hyper equipped,0,,,,False,152,0,3
+9015515,house,house,6001,130000,private,3,good,semi equipped,0,,,,False,188,0,2
+9308347,house,house,7170,499000,private,3,as new,hyper equipped,0,50,,,False,172,1400,4
+9308116,house,house,6182,180000,private,3,as new,,,,,,False,130,256,2
+9307761,house,house,7622,239000,private,2,good,installed,0,,,,False,188,664,4
+9307483,house,house,7000,199500,private,4,to be done up,installed,0,,,,False,141,128,2
+9307268,house,house,6030,159999,private,3,good,installed,0,20,,,False,103,202,2
+8492632,house,house,6040,180000,private,4,good,semi equipped,0,,550,,False,290,800,3
+9306823,house,house,6200,183000,private,2,as new,hyper equipped,0,40,115,,False,137,420,3
+9271654,house,house,7500,125000,private,2,to restore,,0,,,1,False,,130,2
+9253874,house,house,7041,110000,private,3,,,,,,,False,,440,4
+9305681,house,villa,7860,350000,private,2,just renovated,installed,,,,1,False,232,1401,4
+9250589,house,house,6000,189000,private,3,just renovated,,,,30,,False,160,205,2
+9186581,house,house,6010,149000,private,4,good,installed,0,,,,False,121,205,2
+8964070,house,house,6240,199000,private,5,good,installed,,,,,False,190,370,2
+9304417,house,house,7390,190000,private,2,as new,semi equipped,0,10,,,False,125,189,3
+9303807,house,house,6220,127500,private,2,to renovate,semi equipped,0,,,,False,113,0,3
+9303614,house,house,7080,68000,private,2,,,0,,,,False,87,120,2
+9301581,house,house,7033,160000,private,2,,installed,,,,,False,,297,2
+9303132,house,house,7170,75000,private,2,to renovate,not installed,0,,,,False,85,0,2
+9302201,house,house,7080,270000,private,3,as new,installed,0,,,,False,159,795,4
+9302048,house,house,7000,165000,private,2,to be done up,semi equipped,,,,,False,130,208,2
+9301708,house,house,7700,155000,private,3,,,0,,,,False,,225,2
+9301358,house,house,6060,65000,private,3,to renovate,,,,,,False,,230,3
+9301124,house,house,6560,205000,private,3,,installed,0,,257,,False,126,320,3
+9300880,house,house,7864,185000,private,3,good,installed,,,,,False,135,328,3
+9049862,house,house,6030,160000,private,5,good,installed,,,,,False,195,0,3
+9299451,house,house,7110,65000,private,2,to renovate,,,,,,False,100,350,2
+9299285,house,house,6590,60000,private,4,to renovate,,,,125,,False,183,230,2
+9299018,house,house,6150,300000,private,3,good,semi equipped,0,18,4000,,False,250,4480,4
+9016059,house,mixed use building,6200,245000,private,4,,,,,,,False,600,770,2
+9298650,house,house,6200,125000,private,2,good,semi equipped,,7,,,False,79,99,2
+9297865,house,house,7500,890000,private,5,,usa installed,0,,,,True,440,2457,4
+9226842,house,house,7340,68000,private,2,,,0,,,,False,,100,2
+9297018,house,house,7301,229000,private,3,good,installed,,19,311,,False,168,420,2
+9250763,house,villa,6110,519000,private,4,,semi equipped,0,,700,,False,322,0,4
+9296041,house,villa,7090,750000,private,4,,installed,0,100,,,True,300,3364,4
+9295931,house,house,7090,399500,private,3,,installed,0,40,350,,False,190,743,4
+9295679,house,house,7041,590000,private,5,good,installed,0,,,1,False,414,5240,4
+9295471,house,villa,6500,365000,private,3,,installed,0,30,1839,,False,198,1989,4
+9295282,house,villa,7321,995000,private,3,,hyper equipped,,,,,False,750,7800,4
+9030779,house,apartment block,6180,240000,private,4,good,,,,,,False,,0,2
+9294848,house,house,7134,250000,private,3,good,semi equipped,0,10,300,,False,158,652,4
+9294194,house,house,7070,83000,private,2,to be done up,,,,,,False,90,60,2
+9293767,house,house,6240,180000,private,2,good,semi equipped,0,,,,False,102,688,3
+9293351,house,house,7822,110000,private,3,to renovate,not installed,0,,400,,False,156,400,3
+9293199,house,exceptional property,7000,950000,private,4,as new,,,,,,False,703,3166,4
+9270681,house,house,7140,129000,private,2,to be done up,not installed,,,,,False,101,0,2
+9292094,house,country cottage,7370,450000,private,5,good,installed,,,,,False,,16894,4
+9291950,house,house,6032,199000,private,2,just renovated,installed,,,,,False,120,230,3
+9291639,house,house,7812,245000,private,2,good,installed,0,,,1,False,115,0,4
+9291472,house,house,7380,115000,private,2,to renovate,not installed,0,25,,,False,129,140,2
+9218733,house,house,7760,185000,private,5,,installed,0,,,,False,195,734,4
+9271118,house,apartment block,6000,599000,private,10,just renovated,,1,,,,False,500,480,3
+9290889,house,mixed use building,6001,159000,private,2,good,,,,,,False,,0,3
+9289676,house,house,7080,195000,private,5,to be done up,installed,0,,,,False,248,547,2
+9289415,house,house,7711,220000,private,3,,,0,,950,,False,110,1032,3
+9288900,house,other property,7860,250000,private,4,to renovate,installed,,,,,False,150,770,3
+9288602,house,house,7640,349000,private,3,,installed,0,,,,False,177,1709,4
+9288200,house,house,7090,380000,private,4,as new,,0,,,,False,197,414,4
+9271378,house,house,7530,90000,private,2,,installed,0,25,,,False,88,90,3
+9287308,house,house,7540,182500,private,2,to be done up,,,,,,False,,914,4
+9287011,house,house,7022,189000,private,3,,installed,0,,240,,False,85,240,3
+9286509,house,house,6560,220000,private,3,to be done up,installed,1,,352,,False,199,0,4
+9243392,house,house,7320,215000,private,3,,installed,0,,,,False,210,1465,4
+9285551,house,house,6210,228500,private,4,to renovate,not installed,0,,,,False,,0,4
+9231774,house,house,6060,170000,private,2,just renovated,installed,,,,,False,128,0,3
+9284541,house,house,7100,149000,private,2,good,installed,,15,,,False,98,0,2
+9283872,house,villa,6120,298000,private,3,,hyper equipped,0,50,700,,False,129,1156,4
+9283703,house,house,7700,30000,public,2,to renovate,,,,,,False,,209,2
+9283246,house,house,6032,85000,private,2,to renovate,semi equipped,0,,,,False,53,525,3
+9283008,house,villa,7332,375000,private,4,as new,installed,0,,,,False,255,1350,4
+9160702,house,apartment block,7500,585000,private,8,good,,,,,,False,,315,2
+9282203,house,house,7370,220000,private,4,,installed,0,,1,,False,180,0,4
+9281430,house,apartment block,7860,595000,private,14,to renovate,,0,,,,False,534,800,3
+9281119,house,mixed use building,6220,299000,private,5,as new,installed,,,,,False,215,190,2
+9280622,house,house,6150,130000,private,3,to be done up,,0,,,,False,110,552,4
+9280080,house,house,7333,175000,private,2,to be done up,semi equipped,0,60,,,False,130,2780,4
+9279858,house,house,7850,249000,private,3,to be done up,installed,0,38,300,,False,178,1046,3
+9279301,house,house,7370,65000,private,2,to renovate,not installed,0,,,,False,167,320,2
+9279155,house,house,7021,176000,private,3,,,,,,,False,,311,3
+9278759,house,house,6000,99000,private,2,good,semi equipped,0,,,,False,85,270,3
+9278557,house,house,6043,140000,private,1,as new,installed,0,28,160,,False,110,272,2
+9278177,house,house,6220,50000,private,1,to restore,not installed,0,,,,False,61,0,3
+9277669,house,house,7600,85000,private,2,,installed,0,,,,False,144,241,2
+9277292,house,other property,7070,120000,private,3,,not installed,0,,,,False,,0,2
+9277069,house,house,7370,140000,private,4,as new,,,,360,,False,135,475,2
+9276798,house,house,7110,197678,private,3,,installed,0,12,,,False,100,0,2
+9276404,house,house,7870,90000,private,5,,,,,,,False,,0,2
+9275745,house,house,7170,180000,private,3,,,,,,,False,,0,2
+9275571,house,house,7500,110000,private,3,to renovate,,,,,,False,,245,2
+9275217,house,house,7340,135000,private,2,to be done up,,0,26,,,False,120,145,2
+9251857,house,house,7390,240000,private,3,as new,hyper equipped,,24,,,False,150,369,3
+9273224,house,house,6041,58000,private,2,,not installed,0,,,,False,94,60,2
+9273062,house,villa,6280,467000,private,4,good,installed,,14,2509,,False,305,2613,4
+9272923,house,house,7503,269000,private,3,good,usa hyper equipped,0,,400,,False,151,546,4
+8586950,house,apartment block,7500,245000,private,1,,installed,0,,,,False,220,86,2
+9271863,house,house,6200,170000,private,3,,installed,,,,,False,,0,2
+9101844,house,house,7100,95000,private,2,,,,,,,False,,81,2
+9270860,house,house,7380,120000,private,3,to be done up,,0,,,,False,144,130,2
+9270005,house,villa,6030,360000,private,2,as new,usa hyper equipped,0,,,,False,,0,4
+9233788,house,house,7500,180000,private,5,to renovate,,,,,,False,209,175,2
+9269336,house,house,6560,140000,private,2,,,,,,,False,,412,3
+9269065,house,house,6540,178000,private,3,good,,,,90,,False,,210,2
+9268823,house,house,7711,149000,private,3,good,installed,0,,35,,False,127,150,2
+9267972,house,house,7190,189000,private,4,,,,,,,False,132,220,2
+9267644,house,house,7100,90000,private,3,to renovate,installed,0,,170,,False,80,250,2
+9266914,house,villa,7340,185000,private,2,to be done up,installed,0,,,,False,150,700,4
+9266383,house,house,6180,220670,private,3,,not installed,0,24,,,False,118,338,2
+9185787,house,house,6010,229000,private,3,good,installed,0,,,1,False,266,651,3
+9100175,house,house,6230,239000,private,3,to be done up,not installed,0,,,,False,106,8,3
+9264860,house,house,7100,120000,private,3,to renovate,,0,,158,,False,100,212,3
+9264374,house,exceptional property,6120,650000,private,2,good,hyper equipped,0,,,,True,,0,4
+9263954,house,villa,7500,385000,private,4,as new,hyper equipped,,,538,,False,200,638,4
+9263094,house,house,6530,210000,private,3,as new,,0,50,188,,False,200,294,3
+9262616,house,exceptional property,7608,690000,private,6,just renovated,not installed,1,150,,1,False,370,23835,4
+9261490,house,house,7012,194000,private,3,as new,installed,,,,,False,135,340,2
+9261048,house,country cottage,7540,890000,private,3,to renovate,installed,,,,,False,227,24707,4
+9261017,house,villa,7061,430000,private,3,as new,hyper equipped,0,26,738,,False,258,900,4
+9260563,house,house,6061,185000,private,3,good,semi equipped,0,,123,,False,123,170,2
+9259875,house,house,6150,300000,private,4,to be done up,hyper equipped,,20,1860,,False,315,2175,4
+9259536,house,house,6060,65000,private,2,to renovate,not installed,0,,,,False,53,130,2
+9258851,house,house,7890,650000,private,5,,installed,0,,,1,False,312,4364,4
+9258306,house,house,6440,150000,private,3,good,,,,230,,False,110,490,4
+9125425,house,villa,7730,339000,private,3,,,0,,,,False,,710,4
+9257553,house,villa,7608,215000,private,3,to be done up,,,25,,,False,125,740,4
+9257160,house,house,6534,225000,private,3,good,,,23,660,,False,178,789,4
+9256198,house,villa,7060,349500,private,4,,installed,0,25,,,False,230,625,4
+9255703,house,house,7712,93000,private,2,,,0,,,,False,,142,2
+9255355,house,house,6010,70000,private,1,to be done up,,,,,,False,50,324,3
+9255002,house,house,7340,78000,private,3,,,,15,,,False,125,142,2
+9254308,house,mansion,7000,549000,private,5,,installed,0,,,,False,449,850,4
+9253346,house,exceptional property,6500,850000,private,5,to renovate,,,,,,False,,13700,4
+9252975,house,house,7301,135000,private,2,,not installed,0,,,,False,72,0,2
+9251856,house,house,7141,175000,private,214,to be done up,,0,,,1,False,,0,4
+9251482,house,house,7100,175000,private,2,good,installed,0,,,,False,80,650,3
+9184760,house,villa,6120,220000,private,2,,semi equipped,,,,,False,85,650,4
+9250390,house,house,6221,175000,private,2,to renovate,installed,0,,,2,False,106,627,3
+9155416,house,house,6001,210000,private,3,good,semi equipped,0,,,,False,225,363,4
+9249375,house,house,7080,95000,private,3,good,,,,,,False,120,230,3
+9248726,house,house,6060,175000,private,3,as new,installed,0,,340,,False,166,570,3
+9247754,house,house,6200,69000,private,2,to renovate,not installed,0,,120,,False,86,188,2
+9247280,house,house,6031,119000,private,3,to be done up,installed,0,,72,,False,95,138,2
+9127907,house,house,6060,110000,private,2,,,0,,,,False,,56,2
+9246031,house,house,6041,141000,private,2,to be done up,semi equipped,0,,,,False,120,280,2
+9225244,house,chalet,6440,23000,private,1,as new,,1,,,,False,,200,4
+9245298,house,house,7134,215000,private,2,,,,,,,False,,577,4
+9244517,house,house,6240,122500,private,3,,installed,0,,100,,False,100,150,2
+9244028,house,house,7971,200000,private,2,to renovate,,,,,,False,,0,4
+9243601,house,house,7060,450000,private,5,,installed,0,20,300,,False,255,476,3
+9243087,house,house,7332,250000,private,3,,installed,,,1150,,False,302,1510,3
+9242717,house,mansion,6030,210000,private,5,to be done up,semi equipped,0,,,,False,220,530,3
+9241843,house,house,7700,450000,private,3,just renovated,hyper equipped,0,,,,False,235,733,4
+9241364,house,house,7331,125000,private,3,to be done up,semi equipped,0,,,,False,180,454,3
+9241014,house,house,6200,99000,private,2,to be done up,installed,,25,,,False,,203,2
+9240648,house,house,7300,210000,private,3,as new,installed,0,,,,False,182,0,2
+9240575,house,house,7700,173000,private,2,good,semi equipped,0,,50,,False,135,152,2
+9239366,house,villa,6567,177500,private,2,,installed,0,10,500,,False,99,546,4
+9239073,house,house,7340,85000,private,3,,semi equipped,0,,,,False,180,780,2
+9238743,house,house,7331,215000,private,4,good,installed,,,,,False,185,545,4
+9238350,house,house,7060,240000,private,4,as new,installed,0,30,106,,False,168,220,2
+9096917,house,house,6030,89000,private,2,to renovate,not installed,,,,,False,100,0,3
+9235845,house,house,7170,80000,private,3,to be done up,semi equipped,0,,45,,False,85,118,2
+9234769,house,house,6040,148000,private,3,good,installed,,,,,False,110,0,3
+9233881,house,house,7700,239000,private,3,good,installed,0,,,,False,149,233,2
+9233270,house,farmhouse,7530,350000,private,3,,,,,,,False,170,5391,4
+9233020,house,house,6030,119000,private,7,to renovate,semi equipped,0,,,,False,188,129,3
+9232040,house,house,7700,179000,private,4,,,0,,,,False,130,0,2
+9231228,house,house,6540,265000,private,3,good,installed,0,61,,,False,274,700,4
+9230961,house,villa,6060,235000,private,4,good,installed,0,,,,False,,482,4
+9230709,house,farmhouse,7522,790000,private,7,good,installed,0,,,,False,400,1250,4
+9230327,house,country cottage,7823,225000,private,3,good,installed,0,22,,,True,130,1326,4
+9156443,house,chalet,6440,75000,private,2,,installed,0,15,,1,False,60,320,4
+9229034,house,house,7100,90000,private,3,to renovate,,,,,,False,,90,2
+9228613,house,house,6044,85000,private,3,to renovate,not installed,0,,,,False,,0,3
+9227587,house,house,7141,120000,private,3,to be done up,,0,,,,False,,680,2
+9227334,house,house,7750,150000,public,4,good,,,,,,False,,1060,2
+9226792,house,house,7000,140000,public,2,,,,,,,False,,949,4
+9225834,house,house,6061,245000,private,3,as new,hyper equipped,,,173,1,False,,345,3
+9224867,house,house,6044,264340,private,3,as new,,0,,,,False,,400,4
+9224527,house,house,7080,72500,private,2,to renovate,not installed,0,,70,,False,95,170,2
+9221711,house,house,7972,210000,private,3,as new,installed,0,,,,False,,286,3
+9221227,house,house,7131,159000,private,2,,installed,0,,127,,False,85,180,2
+9220819,house,house,7370,125000,private,3,good,,0,,,,False,180,210,2
+9135781,house,apartment block,6200,395000,private,3,good,usa semi equipped,0,,150,,False,600,420,3
+9218568,house,house,7340,10000,public,3,to restore,,,,,,False,,270,2
+9217963,house,house,7600,100000,private,2,to renovate,,,,,,False,,500,2
+9217080,house,house,6060,165000,private,6,good,installed,0,,,,False,,580,3
+9215588,house,villa,7040,200000,private,3,good,installed,,,,,False,,525,4
+9215026,house,house,7300,245000,private,3,as new,installed,0,40,,,False,,375,2
+9214161,house,apartment block,7370,260000,private,4,good,installed,0,,,,False,207,311,2
+9213824,house,apartment block,7000,1000000,private,8,,installed,0,,,,False,500,0,3
+9212498,house,house,7170,135000,private,3,good,,,,55,,False,,184,2
+9210923,house,mixed use building,7100,97000,private,160,to renovate,not installed,0,,,,False,,80,2
+9024905,house,house,7080,99000,private,2,,installed,0,,130,,False,80,130,2
+9209347,house,house,7822,275000,private,3,as new,installed,,,,,False,,873,4
+9208666,house,mansion,7860,164000,private,3,to renovate,not installed,0,,,,False,157,198,2
+9207438,house,house,6060,130000,private,3,good,installed,,,,,False,,341,2
+9206761,house,mixed use building,7011,320000,private,300,good,,,,100,,False,,800,2
+9204400,house,house,7141,165000,private,2,just renovated,installed,0,,,,False,117,250,4
+9202452,house,house,7160,90000,private,4,to be done up,installed,,,,,False,,310,2
+9098338,house,house,6030,99000,private,4,just renovated,semi equipped,0,,,,False,136,60,2
+9162788,house,house,7080,99000,private,3,to renovate,not installed,0,,,,False,,0,2
+9200581,house,house,7301,112500,private,3,just renovated,installed,0,,,,False,,0,3
+9199744,house,house,7340,115000,private,3,good,,,,,,False,140,150,2
+9199567,house,house,6040,88000,private,1,,installed,0,,17,,False,60,77,2
+9197445,house,house,6210,349000,private,4,,installed,0,,,1,False,235,1050,3
+9197021,house,house,7950,245000,private,3,as new,installed,,,,,False,,413,3
+9195105,house,mansion,6032,160000,private,3,good,semi equipped,,,,,False,140,160,2
+9194072,house,house,7100,105000,private,2,,,,,,,False,,0,2
+9193207,house,house,6590,275000,private,2,,semi equipped,0,,1900,,False,500,2573,4
+9192010,house,house,7890,330323,private,3,,,,,,,False,210,810,4
+9104471,house,house,7100,105000,private,2,good,installed,,,,,False,75,175,3
+9190416,house,house,7860,239000,private,3,as new,installed,,50,,,False,201,755,4
+9189315,house,house,7860,165000,private,5,as new,,,,,,False,150,85,2
+9188910,house,house,7060,120000,private,3,,,0,,95,,False,135,0,3
+9187915,house,villa,7822,245000,private,5,to renovate,semi equipped,0,,1013,,False,250,1013,4
+9186804,house,house,7370,75000,private,2,to renovate,not installed,0,,,,False,120,440,3
+9185843,house,house,6001,229000,private,4,good,installed,0,,,,False,164,800,3
+9184547,house,house,7300,270000,private,5,good,installed,0,,,,False,272,1429,3
+9183553,house,house,6500,260000,private,2,good,hyper equipped,0,40,4800,,False,155,5000,3
+9182261,house,villa,7181,299000,private,2,good,,0,,800,,False,125,970,4
+9181912,house,house,7012,115000,private,4,good,semi equipped,0,44,,,False,126,160,3
+9181123,house,house,7021,175000,private,2,good,installed,,39,,,False,109,60,2
+9179985,house,house,7600,80000,private,2,to renovate,,0,,,,False,80,310,2
+9178952,house,house,6030,125000,private,4,just renovated,installed,,,,,False,135,0,2
+9114771,house,house,6041,135000,private,5,to renovate,installed,,,,,False,165,350,2
+9177679,house,house,7110,120000,private,2,to renovate,not installed,0,15,100,,False,125,285,3
+9176852,house,house,6224,219000,private,3,good,installed,,71,,,False,147,530,2
+9175794,house,house,6536,550000,private,3,as new,hyper equipped,,100,,,False,180,1800,4
+9175464,house,villa,6500,205000,private,3,,installed,0,10,1100,,False,130,1237,4
+8956333,house,mixed use building,7532,475000,private,4,as new,,0,,,,False,185,26330,4
+9173601,house,house,7334,100000,private,3,to be done up,semi equipped,0,,,,False,133,308,2
+9172897,house,house,6041,100000,private,3,just renovated,semi equipped,0,33,,,False,80,73,2
+9172034,house,house,6141,165000,private,2,as new,installed,0,,,,False,117,334,2
+9170336,house,house,6042,195000,private,3,,installed,0,45,290,,False,165,290,3
+9169642,house,house,6030,72000,private,2,to be done up,,,,,,False,,165,2
+9168488,house,town house,7170,119000,private,2,good,hyper equipped,0,,,,False,60,1,3
+9167793,house,house,7100,185000,private,3,,,,,,,False,,840,3
+9167107,house,house,6060,359000,private,3,good,hyper equipped,0,30,230,,False,210,667,4
+9165473,house,apartment block,6000,350000,private,7,good,,,,,,False,400,205,2
+9164453,house,house,7830,249000,private,3,good,semi equipped,0,24,,,False,144,638,3
+9163835,house,apartment block,7641,179000,private,2,to be done up,,,,,,False,,130,3
+9163061,house,house,7700,185000,private,4,to be done up,not installed,0,,,,False,174,0,2
+9161072,house,house,7180,285000,private,4,good,installed,,60,,,False,260,1560,3
+9159263,house,house,7110,129000,private,2,,,,,227,,False,84,311,2
+9156793,house,house,7000,135000,private,4,to renovate,semi equipped,0,,,,False,80,39,2
+9157561,house,house,6032,198000,private,3,,semi equipped,0,20,1050,,False,145,1200,4
+9155494,house,mixed use building,7134,119000,private,2,good,semi equipped,0,,,,False,170,0,3
+9106203,house,country cottage,7870,349000,private,5,just renovated,installed,0,130,1400,1,False,320,1700,3
+9152331,house,house,6230,315000,private,2,,hyper equipped,0,,,,False,180,550,4
+9144777,house,house,7500,250000,private,4,,,,,,,False,630,688,3
+8971801,house,house,7700,99000,private,2,to renovate,not installed,0,,,,False,128,147,2
+9148136,house,villa,6150,199000,private,6,,,,,,,False,280,750,4
+9146959,house,house,7012,179000,private,4,as new,hyper equipped,,,,,False,,362,2
+9143607,house,house,6001,139000,private,2,to be done up,usa semi equipped,0,,226,,False,150,291,3
+9142296,house,house,7110,163000,private,2,good,installed,,30,,,False,100,340,3
+9141362,house,villa,6120,450000,private,4,as new,hyper equipped,,50,1500,,False,210,2000,4
+9139755,house,house,6000,160000,private,3,as new,installed,0,12,,,False,127,95,2
+9139115,house,mansion,7170,160000,private,3,as new,installed,0,,80,,False,121,130,2
+9138587,house,house,7340,170000,private,5,good,semi equipped,0,,,,False,167,0,2
+8917641,house,mixed use building,7100,175000,private,2,good,semi equipped,0,,,,False,191,120,2
+9134937,house,house,7141,215000,private,3,as new,hyper equipped,0,20,50,,False,130,148,2
+8910695,house,apartment block,7500,625000,private,4,,,0,25,,,False,370,192,2
+9129139,house,villa,6142,209900,private,3,to be done up,,0,14,1009,,False,101,1009,4
+9127360,house,castle,7543,1550000,private,5,as new,installed,0,,18000,,True,691,18858,4
+9125394,house,house,7860,95000,private,4,to renovate,installed,,,,,False,125,90,2
+9124722,house,house,7110,130000,private,3,good,not installed,0,,,,False,102,90,2
+8757657,house,apartment block,6000,790000,private,10,good,installed,,,,,False,678,360,4
+9121916,house,house,6180,149900,private,3,to be done up,semi equipped,0,15,235,,False,130,285,2
+9119998,house,house,6200,115000,private,3,good,,0,,,,False,100,100,2
+9119513,house,apartment block,6041,179000,private,3,to be done up,semi equipped,0,,,,False,127,179,3
+9118500,house,house,7370,125000,private,3,good,installed,0,,,,False,118,65,2
+9117549,house,villa,6040,300000,private,4,as new,hyper equipped,,10,500,,False,235,1700,2
+9116281,house,house,6230,190000,private,3,,installed,0,15,600,,False,110,880,2
+9115072,house,house,7300,177000,private,3,good,installed,0,17,,,False,144,700,2
+9111865,house,house,7110,270000,private,6,good,installed,,,,,False,,0,2
+9110597,house,house,7712,259000,private,4,,,0,,,,False,140,243,3
+9109563,house,house,7160,285000,private,3,good,installed,0,,,,False,180,1029,4
+9108263,house,mixed use building,6230,199900,private,4,good,installed,0,,,,False,224,223,2
+9107081,house,house,7880,177500,private,4,to renovate,,,,,,False,,597,4
+9081063,house,mixed use building,6211,490000,private,3,good,installed,0,,,,False,,3694,4
+7901978,house,house,6200,160000,private,6,to be done up,installed,,,,,False,,150,2
+9102663,house,house,7012,65000,private,3,to renovate,,,,,,False,102,0,2
+9101838,house,house,7390,75000,private,2,good,semi equipped,0,,421,,False,135,421,2
+9101376,house,house,7080,380000,private,5,good,hyper equipped,0,,700,,False,250,840,4
+9100543,house,house,7951,219900,private,3,,not installed,0,,,,False,150,370,2
+9100023,house,house,6141,270000,private,4,good,installed,0,,,1,False,211,892,3
+9097249,house,apartment block,6040,139000,private,1,,installed,0,,,,False,150,100,3
+8667824,house,house,7700,209000,private,3,to be done up,,,,,,False,,365,2
+9091054,house,house,6001,150000,private,270,to renovate,installed,0,,,,False,,0,2
+9089089,house,house,7850,230000,private,2,just renovated,,0,,,,False,120,0,2
+9086222,house,house,6183,149000,private,3,to renovate,semi equipped,0,,,,False,148,600,2
+9083492,house,house,7100,99000,private,3,to renovate,semi equipped,,,,,False,,150,2
+9053243,house,house,6560,235000,private,2,as new,hyper equipped,,,1600,,False,102,1655,3
+9078738,house,house,7390,142500,private,4,good,usa semi equipped,0,30,,,False,135,160,2
+9075608,house,house,6200,70000,private,2,to renovate,semi equipped,,,,,False,120,0,3
+9073800,house,villa,7300,260000,private,3,as new,installed,,,,,False,,0,4
+9069240,house,house,6001,225000,private,2,as new,,0,30,,,False,130,0,2
+9067703,house,house,7012,160000,private,4,good,semi equipped,,,,,False,151,170,2
+9066107,house,house,7100,179000,private,6,good,installed,0,,146,,False,223,260,2
+9064062,house,house,6150,185000,private,5,good,,,,200,,False,215,0,2
+8567550,house,exceptional property,7700,360000,private,6,good,semi equipped,0,,,,False,400,825,2
+9056691,house,mixed use building,6030,120000,private,2,good,,,,,,False,,0,2
+9053516,house,house,7340,220000,private,4,as new,installed,,15,253,,False,,354,2
+8725937,house,mixed use building,6180,159000,private,2,good,not installed,0,80,190,,False,200,190,2
+9048788,house,mansion,7130,320000,private,4,good,hyper equipped,0,9,187,,False,259,330,2
+9044356,house,apartment block,7011,360000,private,2,as new,semi equipped,0,,,,False,,100,3
+9042644,house,house,7783,185000,private,3,to renovate,not installed,0,165,50,,False,200,0,2
+9039767,house,farmhouse,6590,395000,private,3,good,installed,0,,,,False,260,80000,4
+8603765,house,apartment block,6043,459000,private,7,to be done up,semi equipped,1,,250,,False,400,1241,3
+8945419,house,house,7090,327000,private,4,,installed,,,,,False,266,145,2
+9023772,house,house,6200,225000,private,3,just renovated,installed,0,,,,False,187,580,2
+9020189,house,house,7331,219500,private,3,as new,,0,,,,False,132,200,2
+9017540,house,house,7951,260000,private,4,just renovated,semi equipped,0,,,,False,187,490,3
+9015524,house,house,7321,149800,private,3,as new,,,,,,False,,250,3
+9013415,house,mixed use building,7700,375000,private,3,,installed,0,,,,False,280,300,2
+9009799,house,house,7170,135000,private,2,as new,,0,20,,,False,90,0,2
+9005874,house,house,7340,125000,private,1,good,semi equipped,,,,,False,265,0,3
+9003779,house,house,6044,140000,private,3,to renovate,semi equipped,0,,,,False,,0,3
+9000397,house,villa,7110,320000,private,4,good,installed,0,75,1000,,False,164,1183,4
+8997901,house,house,6040,130000,private,3,to be done up,,0,,,,False,91,405,3
+8994395,house,house,6240,150000,private,6,to be done up,,,,,,False,210,212,3
+8991042,house,villa,6180,290000,private,3,as new,installed,,,,,False,140,800,4
+8931108,house,villa,7700,249000,private,4,good,installed,,,,,False,,381,3
+8984106,house,house,7711,489000,private,3,,,0,,1000,,True,270,1515,4
+8729582,house,house,6590,59000,private,1,,installed,0,,,,False,85,0,3
+8977842,house,house,7390,65000,private,2,,installed,0,,,,False,175,160,2
+8684345,house,villa,7322,780000,private,6,as new,installed,,,,,True,400,6093,4
+8970666,house,house,6060,125000,private,3,,,,,,,False,,0,3
+8966512,house,house,6041,79000,private,2,to renovate,,,,,,False,125,260,2
+8963194,house,house,7604,440000,private,4,to renovate,not installed,,120,1800,,False,265,3100,4
+8958756,house,house,7900,175000,private,4,,semi equipped,0,,,,False,175,70,2
+8598036,house,house,6470,40000,private,3,,installed,0,,,1,False,112,0,2
+8951181,house,house,7332,149000,private,3,,not installed,0,,,,False,100,402,3
+8949104,house,villa,7711,439000,private,3,,,,,,,False,200,714,4
+8946399,house,house,7190,280000,private,2,to be done up,semi equipped,0,10,1500,,False,170,2540,4
+8942638,house,farmhouse,7730,795000,private,5,good,hyper equipped,0,,,,True,400,6500,4
+8940184,house,mansion,6001,350000,private,4,good,installed,0,,,1,True,220,570,3
+8937467,house,house,6020,172500,private,3,,installed,0,,,,False,130,0,3
+8934178,house,house,6180,140000,private,3,just renovated,usa installed,0,,,,False,,0,3
+8928461,house,house,7060,249900,private,3,,,0,,,,False,125,230,3
+8925172,house,house,7700,219000,private,3,just renovated,installed,0,,,,False,126,196,2
+8904403,house,mixed use building,7110,140000,private,3,good,installed,0,,78,,False,100,292,2
+8900505,house,villa,6280,489000,private,3,,usa installed,0,,,,False,,539,4
+8827401,house,house,6590,266000,private,4,,installed,0,48,,1,False,200,6572,4
+8826706,house,house,7110,73900,private,3,to be done up,not installed,0,,,,False,133,0,2
+8278241,house,house,7160,215000,private,4,good,installed,,,,,False,281,249,2
+8864577,house,house,7050,560000,private,3,good,installed,,,,,False,156,8600,4
+8855164,house,house,6000,139900,private,4,to be done up,,0,35,35,,False,155,110,2
+8850484,house,house,6030,99000,private,4,good,installed,0,,,,False,255,85,2
+8844280,house,house,7750,255500,private,3,,installed,0,,,,False,194,174,3
+8843100,house,house,7100,165000,private,2,good,,,,,,False,,530,2
+8239722,house,house,7620,545000,private,6,as new,installed,,,,1,True,364,2515,4
+8833068,house,house,7387,150000,private,3,to renovate,not installed,0,,,,False,161,2320,4
+8824389,house,house,6250,119000,private,3,to be done up,semi equipped,0,,50,,False,125,146,2
+8773872,house,house,7500,122500,private,4,good,,0,,,,False,145,353,2
+8645864,house,house,7012,295000,private,4,good,usa installed,,,,,False,200,2532,4
+8706306,house,house,7000,149000,private,4,,not installed,0,,,,False,168,191,2
+8797504,house,house,6150,175000,private,4,good,,0,,800,,False,130,890,2
+8786084,house,house,7620,225000,private,3,as new,,0,,,,False,,299,3
+8770197,house,house,7540,340000,private,4,,semi equipped,0,,,,False,345,662,2
+8745955,house,house,7041,260000,private,4,,installed,,,,,False,295,0,2
+8720393,house,house,7370,165000,private,3,good,semi equipped,0,,,,False,167,311,3
+8706302,house,house,7320,215000,private,4,,not installed,0,14,260,,False,168,334,3
+8698029,house,house,7090,199000,private,4,,,0,,,,False,,0,2
+8656721,house,house,7110,129000,private,2,to be done up,installed,0,,40,,False,122,0,2
+8644840,house,house,7390,120000,private,3,to be done up,semi equipped,0,,,,False,164,150,3
+8619813,house,villa,7030,225000,private,3,,installed,0,10,549,,False,154,549,4
+8610769,house,house,7000,125000,private,2,,,0,,,,False,115,120,2
+8274492,house,exceptional property,6183,395000,private,2,as new,,0,,,,True,220,3000,4
+8571280,house,villa,7170,790000,private,4,as new,,0,,,,False,270,28071,4
+8538000,house,villa,6280,290000,private,4,good,semi equipped,,,,,False,248,1180,4
+8495357,house,villa,7000,1300000,private,7,as new,,,200,10200,1,True,500,10550,4
+8471923,house,house,7160,19000,private,2,good,semi equipped,,,,,False,150,100,2
+8422111,house,house,7530,178500,private,2,,installed,0,,,,False,85,363,3
+8378678,house,house,6030,149000,private,4,good,installed,,,,,False,167,219,3
+8345652,house,house,7900,188400,private,3,,,,,,,False,,240,2
+8143933,house,house,6560,155000,private,3,to be done up,installed,0,,,,False,150,580,3
+8183628,house,house,7800,239000,private,3,,installed,0,,,,False,178,201,2
+8119990,house,house,7700,129000,private,2,to renovate,,,,,,False,120,120,2
+8045129,house,house,7370,60000,private,2,,,0,,,,False,80,90,3
+7671160,house,house,7970,195000,private,4,as new,installed,0,35,320,,False,213,404,3
+7822451,house,house,6030,65000,private,2,good,semi equipped,,,,,False,,0,2
+7581275,house,apartment block,6060,1100000,private,9,good,installed,,,,,False,2000,0,3
+6900300,house,house,7340,129000,private,3,as new,,0,,,,False,118,229,2
+9316627,house,house,1030,279000,private,4,to be done up,,0,,,,False,126,130,2
+9315381,house,house,1060,880000,private,3,just renovated,usa hyper equipped,0,25,,,False,190,0,2
+9315008,house,house,1170,449000,private,3,to renovate,installed,0,,27,,False,121,80,2
+9285557,house,house,1210,495000,private,6,good,,0,10,,,False,269,120,2
+9313524,house,villa,1150,5950000,private,7,as new,hyper equipped,0,30,3000,,True,751,3000,4
+9312375,house,house,1180,1699000,private,5,as new,,,,,,False,460,266,2
+9311914,house,house,1080,280000,private,4,to renovate,installed,,,,,False,159,0,2
+9311439,house,mansion,1180,1390000,private,7,as new,hyper equipped,0,10,140,1,False,420,230,2
+9310489,house,house,1150,795000,private,4,,installed,0,16,70,,False,240,146,4
+9309586,house,mixed use building,1060,695000,private,4,good,semi equipped,0,,,,False,240,75,2
+9308728,house,town house,1200,875000,private,6,good,installed,,,,,False,260,140,2
+9308213,house,house,1070,895000,private,7,as new,hyper equipped,,,518,,False,500,0,2
+9307228,house,house,1050,1170000,private,5,good,hyper equipped,0,20,,,False,350,140,2
+9269932,house,house,1070,369000,private,3,,installed,0,,30,,False,125,84,2
+9305411,house,house,1180,370000,private,4,good,,,,,,False,150,0,2
+9162839,house,mansion,1040,1490000,private,5,to renovate,hyper equipped,0,,220,,False,410,420,2
+9303477,house,apartment block,1180,645000,private,5,,,0,12,1,,False,250,218,2
+9302333,house,house,1140,339000,private,4,good,installed,0,,3,,False,260,0,3
+9301834,house,exceptional property,1180,2120000,private,6,as new,hyper equipped,0,23,100,,False,780,300,2
+9300989,house,mansion,1020,599000,private,4,as new,installed,0,18,,,False,200,100,2
+9299631,house,exceptional property,1160,2950000,private,7,as new,hyper equipped,0,20,1000,,True,435,1632,4
+9299101,house,house,1040,599000,private,4,as new,,,,230,,False,285,330,2
+9285244,house,mansion,1090,1600000,private,8,just renovated,hyper equipped,0,50,350,,False,620,600,2
+9295964,house,house,1160,680000,private,5,just renovated,installed,,10,32,1,False,184,91,2
+9156900,house,house,1150,860000,private,5,to be done up,installed,0,15,375,,False,220,512,4
+8654685,house,house,1082,520000,private,4,,installed,0,,80,,False,186,0,2
+9292900,house,mixed use building,1000,615000,private,3,to renovate,semi equipped,0,,,,False,145,59,2
+9253453,house,house,1070,295000,private,2,good,not installed,0,,70,,False,120,120,2
+9079123,house,house,1090,475000,private,4,good,semi equipped,0,25,,,False,211,120,2
+9289991,house,house,1080,429000,private,5,to renovate,,,,,,False,,115,2
+9289227,house,apartment block,1070,490000,private,5,as new,,,,15,,False,242,86,2
+9288444,house,house,1190,445000,private,4,good,semi equipped,0,20,65,,False,185,175,2
+9287347,house,house,1150,1250000,private,6,to be done up,installed,,24,415,,False,325,515,3
+9286092,house,house,1000,399000,private,3,to renovate,usa hyper equipped,0,36,36,,False,180,75,2
+9285159,house,house,1180,470000,private,2,,,,,,,False,230,384,2
+9283757,house,house,1080,299000,private,4,,not installed,0,5,30,,False,233,0,2
+9282581,house,house,1160,950000,private,6,good,hyper equipped,0,12,230,,False,420,355,2
+9281361,house,house,1050,870000,private,3,as new,usa installed,0,20,,1,False,175,180,4
+9279908,house,villa,1150,5950000,private,6,as new,installed,,114,2596,,True,751,3200,4
+9279412,house,house,1020,375000,private,4,to renovate,,0,12,235,1,False,164,327,2
+9278665,house,house,1090,410000,private,4,to restore,,,5,150,,False,180,200,2
+9277777,house,apartment block,1210,650000,private,4,good,installed,0,,,,False,230,0,2
+9274605,house,house,1170,565000,private,5,to renovate,installed,0,,50,,False,265,232,3
+9273353,house,apartment block,1150,1250000,private,6,,hyper equipped,,,,,False,250,315,3
+9271635,house,house,1190,450000,private,5,just renovated,hyper equipped,0,19,,,False,280,86,2
+9270092,house,apartment block,1080,669000,private,6,to be done up,semi equipped,0,,,,False,400,173,2
+9269325,house,apartment block,1000,475000,private,5,good,not installed,0,60,,,False,300,151,2
+9267671,house,house,1190,439000,private,3,as new,hyper equipped,0,9,,,False,120,65,2
+9266488,house,apartment block,1082,719000,private,6,as new,not installed,0,15,180,,False,400,346,3
+9264350,house,house,1170,550000,private,4,to renovate,hyper equipped,0,50,50,,False,155,115,2
+9262756,house,house,1190,425000,private,2,,,0,,,,False,234,140,2
+9261339,house,mansion,1090,875000,private,5,just renovated,semi equipped,0,2,102,1,False,387,247,2
+9260491,house,apartment block,1060,475000,private,2,good,,,,,,False,235,0,2
+9258413,house,house,1082,490000,private,2,good,installed,0,,,,False,256,303,2
+9257321,house,house,1030,750000,private,4,to be done up,,0,,76,,False,259,169,2
+9255249,house,house,1130,385000,private,3,as new,hyper equipped,,27,35,,False,133,111,2
+9253867,house,house,1000,320000,private,3,to be done up,installed,,,,,False,158,76,3
+9253161,house,house,1070,575000,private,3,,installed,0,10,250,,False,210,400,3
+9250974,house,mixed use building,1000,1500000,private,2,,,1,,,,False,,0,2
+9248780,house,house,1150,725000,private,5,as new,hyper equipped,,,,,False,,175,2
+9247510,house,apartment block,1120,490000,private,200,to be done up,,0,60,90,,False,,185,2
+9245809,house,house,1082,275000,private,3,,semi equipped,,,,,False,132,52,2
+9244001,house,house,1120,645000,private,2,,installed,0,,,,False,345,370,2
+9243303,house,villa,1150,2985000,private,5,as new,hyper equipped,,67,,,False,562,1270,4
+8429766,house,exceptional property,1060,2000000,private,3,good,usa hyper equipped,0,20,32,,False,600,461,2
+9238249,house,house,1180,495000,private,3,,installed,0,15,75,,False,180,130,2
+9235853,house,house,1180,399000,private,2,just renovated,hyper equipped,0,25,25,,False,105,128,2
+9234390,house,house,1030,1050000,private,3,good,installed,0,50,175,,False,360,275,2
+9233473,house,mixed use building,1060,575000,private,6,to renovate,semi equipped,,25,,,False,260,166,2
+9231137,house,house,1080,450000,private,4,,installed,0,,50,,False,240,0,2
+9229284,house,house,1120,495000,private,3,,installed,0,22,45,,False,150,197,2
+9227159,house,house,1170,660000,private,4,as new,installed,0,18,,,False,244,184,2
+9224611,house,mixed use building,1180,895000,private,3,to renovate,installed,0,70,,,False,374,170,3
+9222887,house,apartment block,1000,795000,private,11,good,semi equipped,1,,,,False,340,172,2
+9219859,house,mansion,1000,990000,private,6,to renovate,installed,0,,,,False,450,165,2
+9127878,house,house,1000,990000,private,6,to renovate,hyper equipped,,,60,,False,450,165,2
+9215409,house,house,1050,870000,private,3,,,,,,,False,175,180,2
+9212496,house,house,1090,396000,private,3,as new,,,,,,False,141,1,2
+9209752,house,mixed use building,1000,375000,private,125,,,,,,,False,,25,2
+9078318,house,mixed use building,1150,824000,private,8,to be done up,installed,0,,132,,False,358,200,2
+9198189,house,villa,1180,1195000,private,5,good,usa hyper equipped,,,,,False,230,568,4
+9195077,house,mansion,1040,1250000,private,8,to renovate,,,,25,,False,450,500,2
+9193842,house,house,1200,975000,private,5,as new,usa hyper equipped,0,40,50,,False,273,160,2
+9181382,house,house,1060,1095000,private,4,as new,,,,,,False,300,140,2
+9188944,house,mansion,1050,4950000,private,8,good,installed,0,,,,False,1000,310,2
+9186533,house,house,1090,669000,private,4,good,hyper equipped,,48,80,,False,475,343,2
+9182122,house,apartment block,1083,425000,private,4,good,,,,,,False,230,0,2
+9180056,house,apartment block,1070,389000,private,3,as new,hyper equipped,0,27,,,False,190,0,2
+9177579,house,apartment block,1150,3100000,private,11,to be done up,installed,0,25,1440,2,False,830,1988,4
+9175980,house,house,1180,1650000,private,7,good,installed,0,60,,,False,350,658,2
+9173566,house,house,1083,460000,private,2,as new,installed,,15,31,,False,190,125,4
+9170450,house,house,1000,679000,private,4,,not installed,0,,20,,False,280,0,3
+9166429,house,villa,1020,1295000,private,4,good,hyper equipped,0,,1000,1,False,470,1642,4
+9164027,house,apartment block,1150,599000,private,5,good,,,,100,,False,187,170,2
+9160980,house,house,1160,350000,private,2,to be done up,installed,0,,135,,False,110,0,2
+9157406,house,house,1070,340000,private,5,good,installed,,,,,False,158,80,2
+9154256,house,house,1210,490000,private,5,,installed,0,12,,,False,240,80,2
+8897331,house,apartment block,1080,420000,private,6,,,0,,,,False,255,95,2
+9148988,house,apartment block,1060,675000,private,5,good,not installed,0,20,,,False,350,120,2
+9144104,house,house,1060,749000,private,3,as new,hyper equipped,,22,,,False,192,170,3
+9141067,house,house,1020,650000,private,7,to be done up,installed,0,31,260,1,False,260,405,2
+9135134,house,house,1150,915000,private,5,as new,installed,,,,,False,196,275,3
+9129662,house,mixed use building,1000,1595000,private,9,good,installed,,,,,False,635,125,2
+9127657,house,apartment block,1000,795000,private,11,good,semi equipped,1,,,,False,400,130,2
+9123449,house,house,1030,359000,private,4,,installed,0,,,,False,205,0,4
+8567362,house,apartment block,1070,435000,private,6,,usa semi equipped,0,16,,,False,215,100,2
+9118951,house,house,1180,3950000,private,6,as new,installed,,50,3000,,False,450,3800,4
+9115856,house,house,1070,344000,private,3,as new,installed,0,,84,,False,110,138,2
+9111851,house,house,1180,475000,private,4,,installed,0,,,,False,360,580,3
+9108188,house,house,1050,599000,private,4,as new,,,,,,False,,0,2
+9102469,house,apartment block,1080,690000,private,6,good,hyper equipped,,51,156,,False,295,239,2
+9091458,house,house,1160,475000,private,3,as new,installed,0,,,,False,130,155,2
+9083221,house,mansion,1180,2290000,private,7,good,installed,,,110,,False,540,236,2
+9074725,house,house,1020,410000,private,4,to renovate,installed,0,15,27,,False,220,115,2
+9066130,house,apartment block,1060,575000,private,6,to be done up,hyper equipped,0,15,,,False,255,85,2
+9059039,house,house,1070,369000,private,4,to be done up,installed,0,,,,False,169,380,2
+9051427,house,house,1040,650000,private,4,good,usa hyper equipped,0,,30,,False,203,145,2
+9043916,house,mixed use building,1070,1300000,private,6,good,,,,,,False,230,375,2
+9032825,house,mixed use building,1030,448000,private,5,to renovate,semi equipped,0,,,,False,185,0,2
+9009919,house,apartment block,1030,500000,private,5,good,hyper equipped,,25,,,False,250,1000,2
+8992800,house,villa,1180,1250000,private,6,to renovate,installed,0,60,1400,1,False,330,1560,4
+8978925,house,apartment block,1140,625000,private,4,,installed,,,,,False,200,93,2
+8951397,house,house,1030,600000,private,6,as new,hyper equipped,,65,65,,False,290,210,2
+8621146,house,house,1050,2350000,private,4,good,,,50,,1,False,500,170,2
+8920100,house,house,1000,565000,private,8,,hyper equipped,,,,,False,330,110,2
+8876975,house,villa,1180,2200000,private,5,to be done up,,,,,,False,588,1300,4
+8821381,house,mixed use building,1081,495000,private,3,good,installed,,4,,,False,248,89,2
+8795977,house,house,1080,375000,private,4,,installed,0,13,,,False,190,80,2
+8740691,house,house,1150,3800000,private,8,as new,hyper equipped,0,40,1367,,True,600,1367,4
+8642355,house,apartment block,1020,815000,private,8,good,semi equipped,,10,,,False,360,102,2
+8523741,house,mixed use building,1180,990000,private,4,good,,,,30,,False,400,0,2
+8385052,house,house,1150,5950000,private,6,just renovated,installed,0,,,1,True,750,0,4
+8197874,house,villa,1180,2990000,private,5,as new,hyper equipped,,,,,False,500,2500,4
+7921662,house,apartment block,1090,3750000,private,34,,,,,,,False,2000,0,3
+6768703,house,house,1050,2950000,private,2,as new,hyper equipped,0,165,,,False,720,180,2
